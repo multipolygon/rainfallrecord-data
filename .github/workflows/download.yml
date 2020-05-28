@@ -1,8 +1,10 @@
 name: Download
 
 on:
+  issue_comment:
+    types: [created, edited, deleted]  
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
   build:
@@ -22,9 +24,15 @@ jobs:
         run: ./download.sh
 
       - name: Commit
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          BASE_BRANCH: master
-          BRANCH: master
-          FOLDER: .
-          CLEAN: false
+        shell: bash
+        run: |
+          git commit -am -
+          git push
+
+      # - name: Commit
+      #   uses: JamesIves/github-pages-deploy-action@releases/v3
+      #   with:
+      #     BASE_BRANCH: master
+      #     BRANCH: master
+      #     FOLDER: .
+      #     CLEAN: false
