@@ -1,0 +1,23 @@
+name: Download
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2        
+      
+      - name: Download
+        run: ./download.sh
+
+      - name: Commit
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          BRANCH: master
+          FOLDER: .
+          CLEAN: false
