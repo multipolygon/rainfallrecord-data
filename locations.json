@@ -11,6 +11,23 @@
         ]
       },
       "properties": {
+        "id": 731,
+        "title": "Test2020",
+        "location": "Melbourne, VIC",
+        "total_7_days": 1,
+        "total_30_days": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
         "id": 714,
         "title": "Kersbrook",
         "location": "Kersbrook, SA",
@@ -31,8 +48,42 @@
         "id": 643,
         "title": "Bundanoon Anglican Church",
         "location": "Bundanoon, NSW",
-        "total_7_days": 66,
+        "total_7_days": 67,
         "total_30_days": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 571,
+        "title": "Keith 6156",
+        "location": "Melville, WA",
+        "total_7_days": 41,
+        "total_30_days": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.94,
+          28.9
+        ]
+      },
+      "properties": {
+        "id": 370,
+        "title": "Simjojims Rain Gauge",
+        "location": "Wallangarra, QLD",
+        "total_7_days": 18,
+        "total_30_days": 41
       }
     },
     {
@@ -113,23 +164,6 @@
         ]
       },
       "properties": {
-        "id": 571,
-        "title": "Keith 6156",
-        "location": "Melville, WA",
-        "total_7_days": 31,
-        "total_30_days": 58
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
         "id": 638,
         "title": "Highfield at Oldbury Rd",
         "location": "Sutton Forest, NSW",
@@ -183,7 +217,7 @@
       "properties": {
         "id": 138,
         "title": "Willetton WA",
-        "location": "WA",
+        "location": "Willetton, WA",
         "total_7_days": 29,
         "total_30_days": 56
       }
@@ -252,7 +286,7 @@
         "id": 669,
         "title": "Taylor St (Auto)",
         "location": "Ashburton, VIC",
-        "total_7_days": 14,
+        "total_7_days": 15,
         "total_30_days": 87
       }
     },
@@ -567,23 +601,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 731,
-        "title": "Test2020",
-        "location": "Melbourne, VIC",
-        "total_7_days": 0,
-        "total_30_days": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.787,
           -25.364
         ]
@@ -696,23 +713,6 @@
         "location": "Brush Creek, QLD",
         "total_7_days": 12,
         "total_30_days": 33
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.94,
-          28.9
-        ]
-      },
-      "properties": {
-        "id": 370,
-        "title": "Simjojims Rain Gauge",
-        "location": "Wallangarra, QLD",
-        "total_7_days": 17,
-        "total_30_days": 40
       }
     },
     {
