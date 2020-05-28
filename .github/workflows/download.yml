@@ -26,6 +26,8 @@ jobs:
       - name: Commit
         shell: bash
         run: |
+          git config user.email "a@b.com"
+          git config user.name "Test"          
           git commit -am -
           git push
 
