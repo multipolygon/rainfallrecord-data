@@ -1,3 +1,5 @@
+echo $HOST
+
 OPT="--silent --show-error"
 HEADER="Authorization: Token $API_KEY"
 
@@ -10,3 +12,6 @@ do
     curl -o "locations/$id.json" "$HOST/locations/$id.json" $OPT --header "$HEADER"
     curl -o "locations/$id.csv" "$HOST/locations/$id.csv" $OPT --header "$HEADER"
 done < index.txt
+
+echo "Diff:"
+git diff --name-only
