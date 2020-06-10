@@ -1,5 +1,7 @@
 {
   "id": 226,
+  "created_at": "2013-03-05T13:13:34.000Z",
+  "updated_at": "2013-03-05T13:13:34.000Z",
   "title": "Looney's rain guage",
   "street_address": "",
   "town_suburb": "",
@@ -7,11 +9,11 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2013": {
       "3": {
-        "1": 40.0,
-        "2": 0.75
+        "2": 0.75,
+        "1": 40.0
       },
       "2": {
         "28": 32.0,
@@ -34,5 +36,11 @@
         "13": 13.5
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

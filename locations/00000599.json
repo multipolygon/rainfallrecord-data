@@ -1,5 +1,7 @@
 {
   "id": 599,
+  "created_at": "2017-01-06T20:04:35.356Z",
+  "updated_at": "2017-01-06T20:04:35.356Z",
   "title": "Rocklee",
   "street_address": "",
   "town_suburb": "Burra",
@@ -7,11 +9,17 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2017": {
       "1": {
         "6": 5.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

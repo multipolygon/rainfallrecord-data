@@ -1,5 +1,7 @@
 {
   "id": 576,
+  "created_at": "2016-09-27T20:02:28.909Z",
+  "updated_at": "2016-09-27T20:02:28.909Z",
   "title": "Plaas 1  zandfontein",
   "street_address": "Farm zandfontein nylstroom limpopo",
   "town_suburb": "Modimolle",
@@ -7,11 +9,17 @@
   "country": "South Africa",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
       "9": {
         "28": 3.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

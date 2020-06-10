@@ -1,5 +1,7 @@
 {
   "id": 461,
+  "created_at": "2016-01-04T01:12:19.121Z",
+  "updated_at": "2016-01-04T01:12:19.121Z",
   "title": "Test New Raingauge",
   "street_address": "",
   "town_suburb": "Riddells Creek",
@@ -7,11 +9,17 @@
   "country": null,
   "latitude": -37.456,
   "longitude": 144.685,
-  "records": {
+  "precipitation": {
     "2016": {
       "1": {
         "2": 54.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

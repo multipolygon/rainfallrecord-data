@@ -1,5 +1,7 @@
 {
   "id": 100,
+  "created_at": "2011-03-31T12:44:22.000Z",
+  "updated_at": "2011-03-31T12:44:22.000Z",
   "title": "Smitsy's",
   "street_address": "Kurrara Close",
   "town_suburb": "Malua Bay",
@@ -7,11 +9,17 @@
   "country": null,
   "latitude": -35.784,
   "longitude": 150.228,
-  "records": {
+  "precipitation": {
     "2011": {
       "3": {
         "30": 1.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

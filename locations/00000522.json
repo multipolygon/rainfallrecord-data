@@ -1,5 +1,7 @@
 {
   "id": 522,
+  "created_at": "2016-02-16T21:54:36.212Z",
+  "updated_at": "2016-02-16T21:54:36.212Z",
   "title": "Rainfall Data",
   "street_address": "8640 HEATHER DR",
   "town_suburb": "ZEPHYRHILLS",
@@ -7,7 +9,7 @@
   "country": "USA",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
       "2": {
         "16": 0.0
@@ -18,5 +20,11 @@
         "11": 0.25
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

@@ -1,5 +1,7 @@
 {
   "id": 569,
+  "created_at": "2016-07-28T04:57:17.446Z",
+  "updated_at": "2016-07-28T04:57:17.446Z",
   "title": "mnr",
   "street_address": "115 jeppy",
   "town_suburb": "middelburg",
@@ -7,14 +9,20 @@
   "country": "south africa",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
-      "1": {
-        "12": 10.0
-      },
       "5": {
         "16": 20.0
+      },
+      "1": {
+        "12": 10.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

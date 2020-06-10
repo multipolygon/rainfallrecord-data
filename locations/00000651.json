@@ -1,5 +1,7 @@
 {
   "id": 651,
+  "created_at": "2018-03-03T23:28:29.147Z",
+  "updated_at": "2018-03-03T23:28:29.147Z",
   "title": "Galvins",
   "street_address": "Robinsons Road",
   "town_suburb": "Boggabilla",
@@ -7,11 +9,17 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2018": {
       "2": {
         "3": 30.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

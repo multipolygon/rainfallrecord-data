@@ -1,5 +1,7 @@
 {
   "id": 411,
+  "created_at": "2015-02-23T05:44:27.000Z",
+  "updated_at": "2015-02-23T05:44:27.000Z",
   "title": "Courtyard Rain Gauge",
   "street_address": "",
   "town_suburb": "",
@@ -7,12 +9,18 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2015": {
       "2": {
-        "9": 2.0,
-        "17": 2.0
+        "17": 2.0,
+        "9": 2.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

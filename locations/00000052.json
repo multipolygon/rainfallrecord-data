@@ -1,5 +1,7 @@
 {
   "id": 52,
+  "created_at": "2010-05-23T02:46:24.000Z",
+  "updated_at": "2010-05-23T02:46:24.000Z",
   "title": "Gildford, MT",
   "street_address": "",
   "town_suburb": "",
@@ -7,16 +9,22 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
-    "2010": {
-      "5": {
-        "20": 3.302
-      }
-    },
+  "precipitation": {
     "2012": {
       "6": {
         "11": 9.114
       }
+    },
+    "2010": {
+      "5": {
+        "20": 3.302
+      }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

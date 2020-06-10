@@ -1,5 +1,7 @@
 {
   "id": 292,
+  "created_at": "2014-01-18T09:34:57.000Z",
+  "updated_at": "2014-01-18T09:34:57.000Z",
   "title": "west moors",
   "street_address": "",
   "town_suburb": "",
@@ -7,7 +9,7 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2014": {
       "1": {
         "17": 25.0,
@@ -17,5 +19,11 @@
         "13": 5.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

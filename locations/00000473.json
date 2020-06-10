@@ -1,5 +1,7 @@
 {
   "id": 473,
+  "created_at": "2016-01-04T21:12:26.380Z",
+  "updated_at": "2016-01-04T21:12:26.380Z",
   "title": "Touchwood",
   "street_address": "95 Ironmonger Street",
   "town_suburb": "Calliope",
@@ -7,11 +9,17 @@
   "country": null,
   "latitude": -24.022,
   "longitude": 151.211,
-  "records": {
+  "precipitation": {
     "2016": {
       "1": {
         "4": 15.5
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

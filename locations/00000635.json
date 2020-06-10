@@ -1,5 +1,7 @@
 {
   "id": 635,
+  "created_at": "2017-10-30T06:20:55.186Z",
+  "updated_at": "2017-10-30T06:20:55.186Z",
   "title": "Otjiwarongo",
   "street_address": "Forsyth 40",
   "town_suburb": "Otjiwarongo",
@@ -7,16 +9,22 @@
   "country": "Namibia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2017": {
-      "10": {
-        "22": 9.0,
-        "24": 8.0,
-        "30": 14.0
-      },
       "11": {
         "2": 11.0
+      },
+      "10": {
+        "30": 14.0,
+        "24": 8.0,
+        "22": 9.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

@@ -1,5 +1,7 @@
 {
   "id": 660,
+  "created_at": "2018-05-24T10:13:33.386Z",
+  "updated_at": "2018-05-24T10:13:33.386Z",
   "title": "Requested leek irrigation ",
   "street_address": "",
   "town_suburb": "Hazlewood Hall Farm",
@@ -7,15 +9,21 @@
   "country": "England ",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2018": {
+      "6": {
+        "11": 15.0
+      },
       "5": {
         "25": 15.0,
         "18": 12.0
-      },
-      "6": {
-        "11": 15.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

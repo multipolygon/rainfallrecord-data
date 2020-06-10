@@ -1,5 +1,7 @@
 {
   "id": 246,
+  "created_at": "2013-06-01T18:48:06.000Z",
+  "updated_at": "2013-06-01T18:48:06.000Z",
   "title": "Keith Douglas",
   "street_address": "",
   "town_suburb": "",
@@ -7,11 +9,17 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2013": {
       "6": {
         "1": 22.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

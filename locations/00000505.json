@@ -1,5 +1,7 @@
 {
   "id": 505,
+  "created_at": "2016-01-19T04:56:58.392Z",
+  "updated_at": "2016-01-19T04:56:58.392Z",
   "title": "Mr",
   "street_address": "8 De Wet Ave, Kenilworth",
   "town_suburb": "Bloemfontein",
@@ -7,13 +9,19 @@
   "country": null,
   "latitude": -33.911,
   "longitude": 18.634,
-  "records": {
+  "precipitation": {
     "2016": {
       "1": {
-        "11": 16.0,
+        "17": 46.0,
         "13": 22.0,
-        "17": 46.0
+        "11": 16.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

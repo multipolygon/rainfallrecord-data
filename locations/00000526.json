@@ -1,5 +1,7 @@
 {
   "id": 526,
+  "created_at": "2016-02-20T23:33:13.756Z",
+  "updated_at": "2016-02-20T23:33:13.756Z",
   "title": "John",
   "street_address": "Colo St",
   "town_suburb": "Welby",
@@ -7,11 +9,17 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
       "1": {
         "21": 1.5
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

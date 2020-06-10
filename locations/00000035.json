@@ -1,5 +1,7 @@
 {
   "id": 35,
+  "created_at": "2010-01-20T12:51:22.000Z",
+  "updated_at": "2010-01-20T12:51:22.000Z",
   "title": "Tandundal Street Howrah, Tas",
   "street_address": "Tanundal St",
   "town_suburb": "Howrah",
@@ -7,15 +9,21 @@
   "country": null,
   "latitude": -42.875,
   "longitude": 147.395,
-  "records": {
+  "precipitation": {
     "2010": {
+      "2": {
+        "5": 15.0
+      },
       "1": {
         "19": 0.5,
         "18": 9.5
-      },
-      "2": {
-        "5": 15.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

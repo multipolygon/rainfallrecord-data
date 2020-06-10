@@ -1,5 +1,7 @@
 {
   "id": 51,
+  "created_at": "2010-05-01T18:03:28.000Z",
+  "updated_at": "2010-05-01T18:03:28.000Z",
   "title": "Mountain's Rain Guage ",
   "street_address": "205 Haddon School Road",
   "town_suburb": "Haddon",
@@ -7,17 +9,23 @@
   "country": null,
   "latitude": -37.598,
   "longitude": 143.694,
-  "records": {
+  "precipitation": {
     "2010": {
-      "4": {
-        "30": 8.0
-      },
       "5": {
-        "4": 3.0,
         "8": 2.0,
         "6": 4.0,
-        "5": 3.0
+        "5": 3.0,
+        "4": 3.0
+      },
+      "4": {
+        "30": 8.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

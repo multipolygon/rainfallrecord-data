@@ -1,5 +1,7 @@
 {
   "id": 219,
+  "created_at": "2013-01-28T12:44:11.000Z",
+  "updated_at": "2013-01-28T12:44:11.000Z",
   "title": "Hohn Rain Guage",
   "street_address": "",
   "town_suburb": "",
@@ -7,13 +9,19 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2013": {
       "1": {
-        "26": 28.0,
+        "28": 13.0,
         "27": 100.0,
-        "28": 13.0
+        "26": 28.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

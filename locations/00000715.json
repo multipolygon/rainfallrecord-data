@@ -1,5 +1,7 @@
 {
   "id": 715,
+  "created_at": "2020-02-02T05:40:57.274Z",
+  "updated_at": "2020-02-02T06:00:53.431Z",
   "title": "Manager",
   "street_address": "",
   "town_suburb": "Riddells Creek",
@@ -7,18 +9,24 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2020": {
       "2": {
-        "1": 15.0,
-        "2": 2.5
+        "2": 2.5,
+        "1": 15.0
       },
       "1": {
-        "25": 13.0,
         "31": 1.5,
+        "29": 20.0,
         "27": 8.0,
-        "29": 20.0
+        "25": 13.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

@@ -9,14 +9,20 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2020": {
-      "3": {
-        "16": 33.0
-      },
       "5": {
         "31": 20.0
+      },
+      "3": {
+        "16": 33.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

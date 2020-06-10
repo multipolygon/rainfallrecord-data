@@ -1,5 +1,7 @@
 {
   "id": 479,
+  "created_at": "2016-01-05T00:11:43.170Z",
+  "updated_at": "2016-01-05T00:11:43.170Z",
   "title": "crossroads 2016",
   "street_address": "",
   "town_suburb": "Calliope",
@@ -7,12 +9,18 @@
   "country": null,
   "latitude": -24.007,
   "longitude": 151.201,
-  "records": {
+  "precipitation": {
     "2016": {
       "1": {
-        "4": 3.0,
-        "5": 15.0
+        "5": 15.0,
+        "4": 3.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

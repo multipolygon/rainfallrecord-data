@@ -1,5 +1,7 @@
 {
   "id": 551,
+  "created_at": "2016-05-18T06:27:43.153Z",
+  "updated_at": "2016-05-18T06:27:43.153Z",
   "title": "Gillatt a farm",
   "street_address": "881 Redhill road ",
   "town_suburb": "RD1. Dargaville ",
@@ -7,12 +9,18 @@
   "country": "New Zealand",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
       "5": {
-        "18": 4.0,
-        "19": 5.0
+        "19": 5.0,
+        "18": 4.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

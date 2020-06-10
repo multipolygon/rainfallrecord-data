@@ -1,5 +1,7 @@
 {
   "id": 87,
+  "created_at": "2011-02-05T09:27:43.000Z",
+  "updated_at": "2011-02-05T09:27:43.000Z",
   "title": "Court's gauge",
   "street_address": "Broad st",
   "town_suburb": "Albury",
@@ -7,11 +9,17 @@
   "country": null,
   "latitude": -36.077,
   "longitude": 146.929,
-  "records": {
+  "precipitation": {
     "2011": {
       "2": {
         "4": 135.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

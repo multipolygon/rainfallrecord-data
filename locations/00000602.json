@@ -1,5 +1,7 @@
 {
   "id": 602,
+  "created_at": "2017-01-13T05:08:59.158Z",
+  "updated_at": "2017-01-13T05:08:59.158Z",
   "title": "SA",
   "street_address": "swellendam",
   "town_suburb": "benoni",
@@ -7,12 +9,18 @@
   "country": "SA",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2017": {
       "1": {
-        "10": 48.0,
-        "13": 48.0
+        "13": 48.0,
+        "10": 48.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

@@ -1,5 +1,7 @@
 {
   "id": 63,
+  "created_at": "2010-12-10T15:04:15.000Z",
+  "updated_at": "2010-12-10T15:04:15.000Z",
   "title": "",
   "street_address": "",
   "town_suburb": "",
@@ -7,12 +9,18 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2010": {
       "12": {
-        "1": 1.0,
-        "2": 2.0
+        "2": 2.0,
+        "1": 1.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

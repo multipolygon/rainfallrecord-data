@@ -1,5 +1,7 @@
 {
   "id": 269,
+  "created_at": "2013-11-19T08:37:25.000Z",
+  "updated_at": "2013-11-19T08:37:25.000Z",
   "title": "18 Seary Road Mareeba",
   "street_address": "",
   "town_suburb": "",
@@ -7,12 +9,18 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2013": {
       "11": {
-        "18": 37.0,
-        "20": 25.0
+        "20": 25.0,
+        "18": 37.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

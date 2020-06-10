@@ -1,5 +1,7 @@
 {
   "id": 607,
+  "created_at": "2017-01-29T07:25:26.636Z",
+  "updated_at": "2017-01-29T07:25:26.636Z",
   "title": "Nass Rainfal records ,Migori",
   "street_address": "Kisii Isebania Highway",
   "town_suburb": "migori",
@@ -7,7 +9,7 @@
   "country": "Kenya",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2017": {
       "1": {
         "29": 20.0,
@@ -17,5 +19,11 @@
         "25": 1.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

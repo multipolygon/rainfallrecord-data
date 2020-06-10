@@ -1,5 +1,7 @@
 {
   "id": 581,
+  "created_at": "2016-10-19T00:27:07.749Z",
+  "updated_at": "2016-10-19T00:27:07.749Z",
   "title": "Mount Mee",
   "street_address": "1393 Mt Mee Rd",
   "town_suburb": "Mount Mee",
@@ -7,17 +9,23 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
-      "10": {
-        "17": 5.5,
-        "22": 2.0,
-        "28": 0.5
-      },
       "11": {
-        "1": 10.0,
-        "8": 43.0
+        "8": 43.0,
+        "1": 10.0
+      },
+      "10": {
+        "28": 0.5,
+        "22": 2.0,
+        "17": 5.5
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

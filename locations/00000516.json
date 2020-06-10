@@ -1,5 +1,7 @@
 {
   "id": 516,
+  "created_at": "2016-02-05T13:34:08.317Z",
+  "updated_at": "2016-02-05T13:34:08.317Z",
   "title": "mr",
   "street_address": "rusterburg road",
   "town_suburb": "magaliesburg",
@@ -7,11 +9,17 @@
   "country": "south africa",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
       "2": {
         "2": 3.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

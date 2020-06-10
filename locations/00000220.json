@@ -1,5 +1,7 @@
 {
   "id": 220,
+  "created_at": "2013-01-28T16:57:51.000Z",
+  "updated_at": "2013-01-28T16:57:51.000Z",
   "title": "marlene's records",
   "street_address": "",
   "town_suburb": "",
@@ -7,14 +9,20 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2013": {
       "1": {
-        "25": 110.0,
-        "24": 75.0,
+        "27": 15.0,
         "26": 110.0,
-        "27": 15.0
+        "25": 110.0,
+        "24": 75.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

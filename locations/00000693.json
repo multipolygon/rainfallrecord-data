@@ -1,5 +1,7 @@
 {
   "id": 693,
+  "created_at": "2019-03-07T00:45:53.213Z",
+  "updated_at": "2019-03-07T00:45:53.213Z",
   "title": "Rain",
   "street_address": "Veloso st.",
   "town_suburb": "San juan",
@@ -7,11 +9,17 @@
   "country": "Philippines",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2017": {
       "1": {
         "1": 0.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

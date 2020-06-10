@@ -1,5 +1,7 @@
 {
   "id": 629,
+  "created_at": "2017-10-12T11:26:48.596Z",
+  "updated_at": "2017-10-12T11:26:48.596Z",
   "title": "BANJO-Skye House Yard",
   "street_address": "3522 Rye Park Road",
   "town_suburb": "Blakney Creek",
@@ -7,7 +9,7 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2017": {
       "10": {
         "12": 13.0,
@@ -15,5 +17,11 @@
         "9": 5.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

@@ -1,5 +1,7 @@
 {
   "id": 685,
+  "created_at": "2018-12-04T17:11:12.492Z",
+  "updated_at": "2018-12-04T17:11:12.492Z",
   "title": "Home",
   "street_address": "",
   "town_suburb": "Starkville",
@@ -7,18 +9,24 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2018": {
-      "1": {
-        "11": 1.4,
-        "22": 0.4
-      },
       "2": {
-        "4": 1.92,
-        "7": 2.0,
+        "17": 0.6,
         "10": 2.85,
-        "17": 0.6
+        "7": 2.0,
+        "4": 1.92
+      },
+      "1": {
+        "22": 0.4,
+        "11": 1.4
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

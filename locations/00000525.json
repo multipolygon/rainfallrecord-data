@@ -1,5 +1,7 @@
 {
   "id": 525,
+  "created_at": "2016-02-18T09:08:32.734Z",
+  "updated_at": "2016-02-18T09:08:55.735Z",
   "title": "Lucknow",
   "street_address": "",
   "town_suburb": "Tarkastad",
@@ -7,11 +9,17 @@
   "country": "south africa",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
       "2": {
         "17": 34.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

@@ -1,5 +1,7 @@
 {
   "id": 342,
+  "created_at": "2014-09-30T13:28:31.000Z",
+  "updated_at": "2014-09-30T13:28:31.000Z",
   "title": "odayakulam, Anaimalai, India",
   "street_address": "",
   "town_suburb": "",
@@ -7,7 +9,7 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2014": {
       "8": {
         "30": 10.0,
@@ -15,5 +17,11 @@
         "27": 5.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

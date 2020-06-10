@@ -1,5 +1,7 @@
 {
   "id": 494,
+  "created_at": "2016-01-09T04:29:02.474Z",
+  "updated_at": "2016-01-09T04:29:02.474Z",
   "title": "mr Hayles",
   "street_address": "8 barclays",
   "town_suburb": "dumbleton,mackay",
@@ -7,11 +9,17 @@
   "country": null,
   "latitude": -21.136,
   "longitude": 149.083,
-  "records": {
+  "precipitation": {
     "2016": {
       "1": {
         "8": 29.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

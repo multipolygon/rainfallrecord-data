@@ -1,5 +1,7 @@
 {
   "id": 593,
+  "created_at": "2017-01-01T21:51:40.144Z",
+  "updated_at": "2017-01-01T21:52:33.066Z",
   "title": "Foxhound",
   "street_address": "Row",
   "town_suburb": "kepnock",
@@ -7,11 +9,17 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2017": {
       "1": {
         "1": 4.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

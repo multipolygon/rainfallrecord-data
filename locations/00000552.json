@@ -1,5 +1,7 @@
 {
   "id": 552,
+  "created_at": "2016-05-20T00:27:36.234Z",
+  "updated_at": "2016-05-20T00:27:36.234Z",
   "title": "Vasse",
   "street_address": "rendezvous",
   "town_suburb": "Vasse",
@@ -7,7 +9,7 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
       "6": {
         "24": 35.0
@@ -16,5 +18,11 @@
         "29": 0.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

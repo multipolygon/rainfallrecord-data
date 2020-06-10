@@ -4,7 +4,7 @@ OPT="--silent --show-error"
 HEADER="Authorization: Token $API_KEY"
 
 curl -o "locations.json" "$HOST/locations.json" $OPT --header "$HEADER"
-curl -o "index.txt" "$HOST/locations.txt?_recent=show" $OPT --header "$HEADER"
+curl -o "index.txt" "$HOST/locations.txt?_all=show" $OPT --header "$HEADER"
 
 while read id
 do

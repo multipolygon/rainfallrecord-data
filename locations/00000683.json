@@ -1,5 +1,7 @@
 {
   "id": 683,
+  "created_at": "2018-10-15T04:57:32.529Z",
+  "updated_at": "2018-10-15T04:57:32.529Z",
   "title": "MR",
   "street_address": "20 Gurney Crescent",
   "town_suburb": "Fairfield West",
@@ -7,11 +9,17 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2018": {
       "10": {
         "13": 22.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

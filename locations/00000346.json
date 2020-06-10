@@ -1,5 +1,7 @@
 {
   "id": 346,
+  "created_at": "2014-10-31T11:41:16.000Z",
+  "updated_at": "2014-10-31T11:41:16.000Z",
   "title": "Naringa",
   "street_address": "",
   "town_suburb": "",
@@ -7,11 +9,17 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "1908": {
       "1": {
         "1": 29.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

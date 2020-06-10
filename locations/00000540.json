@@ -1,5 +1,7 @@
 {
   "id": 540,
+  "created_at": "2016-04-18T07:27:26.528Z",
+  "updated_at": "2016-04-18T07:27:26.528Z",
   "title": "Occular Migraines",
   "street_address": "Third St",
   "town_suburb": "Railway Estate",
@@ -7,25 +9,31 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
-    "2016": {
-      "4": {
-        "17": 30.0
-      },
-      "8": {
-        "15": 30.0,
-        "16": 15.0
-      },
-      "9": {
-        "2": 30.0,
-        "8": 15.0,
-        "12": 30.0
-      }
-    },
+  "precipitation": {
     "2018": {
       "4": {
         "21": 20.0
       }
+    },
+    "2016": {
+      "9": {
+        "12": 30.0,
+        "8": 15.0,
+        "2": 30.0
+      },
+      "8": {
+        "16": 15.0,
+        "15": 30.0
+      },
+      "4": {
+        "17": 30.0
+      }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

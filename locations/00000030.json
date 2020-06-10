@@ -1,5 +1,7 @@
 {
   "id": 30,
+  "created_at": "2010-01-16T04:50:35.000Z",
+  "updated_at": "2010-01-16T04:50:35.000Z",
   "title": "Martin / Porter ",
   "street_address": "",
   "town_suburb": "",
@@ -7,12 +9,18 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2010": {
       "1": {
-        "14": 0.01,
-        "15": 0.01
+        "15": 0.01,
+        "14": 0.01
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

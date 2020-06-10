@@ -1,5 +1,7 @@
 {
   "id": 456,
+  "created_at": "2015-12-13T12:01:54.000Z",
+  "updated_at": "2015-12-13T12:01:54.000Z",
   "title": "December 2015",
   "street_address": "",
   "town_suburb": "",
@@ -7,11 +9,17 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2015": {
       "12": {
         "12": 1.87
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

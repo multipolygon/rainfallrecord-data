@@ -1,5 +1,7 @@
 {
   "id": 81,
+  "created_at": "2011-01-14T15:01:41.000Z",
+  "updated_at": "2011-01-14T15:01:41.000Z",
   "title": "woodend",
   "street_address": "",
   "town_suburb": "",
@@ -7,12 +9,18 @@
   "country": null,
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2011": {
       "1": {
-        "12": 50.0,
-        "14": 112.5
+        "14": 112.5,
+        "12": 50.0
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }

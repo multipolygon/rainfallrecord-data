@@ -1,5 +1,7 @@
 {
   "id": 547,
+  "created_at": "2016-05-08T04:13:12.368Z",
+  "updated_at": "2016-05-08T04:15:41.669Z",
   "title": "John's",
   "street_address": "Corrimal Ave",
   "town_suburb": "Noarlunga Downs",
@@ -7,20 +9,26 @@
   "country": "Australia",
   "latitude": null,
   "longitude": null,
-  "records": {
+  "precipitation": {
     "2016": {
       "5": {
-        "1": 2.4,
+        "10": 8.0,
+        "9": 2.2,
+        "8": 1.2,
+        "7": 0.0,
+        "6": 0.0,
+        "5": 0.2,
+        "4": 4.8,
         "3": 2.4,
         "2": 0.0,
-        "4": 4.8,
-        "5": 0.2,
-        "6": 0.0,
-        "7": 0.0,
-        "8": 1.2,
-        "9": 2.2,
-        "10": 8.0
+        "1": 2.4
       }
     }
+  },
+  "temperatureMin": {
+
+  },
+  "temperatureMax": {
+
   }
 }
