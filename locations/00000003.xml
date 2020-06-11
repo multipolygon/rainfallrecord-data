@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://api.climatelog.app/locations/00000003.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jun 2020 08:24:02 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2020 08:24:02 +0000</lastBuildDate>
+    <atom:link href="https://api.rainfallrecord.info/locations/00000003.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Jun 2020 08:44:25 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2020 08:44:25 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Test</title>
-    <link>https://api.climatelog.app/locations/00000003.xml</link>
+    <link>https://api.rainfallrecord.info/locations/00000003.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Wed, 10 Jun 2020 00:00:00 +0000</guid>
+      <description>12.0</description>
+    </item>
     <item>
       <pubDate>Wed, 3 Jun 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Wed, 3 Jun 2020 00:00:00 +0000</guid>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Sun, 17 May 2020 00:00:00 +0000</guid>
+      <description>100.0</description>
     </item>
     <item>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
@@ -42,6 +52,21 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Tue, 11 Feb 2020 00:00:00 +0000</guid>
       <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 1 Jan 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Tue, 1 Jan 2019 00:00:00 +0000</guid>
+      <description>100.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Jan 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Mon, 1 Jan 2018 00:00:00 +0000</guid>
+      <description>100.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 Jan 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Sun, 1 Jan 2017 00:00:00 +0000</guid>
+      <description>100.0</description>
     </item>
   </channel>
 </rss>
