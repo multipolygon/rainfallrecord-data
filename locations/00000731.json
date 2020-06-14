@@ -1,7 +1,7 @@
 {
   "id": 731,
   "created_at": "2020-05-06T00:24:13.750Z",
-  "updated_at": "2020-06-11T02:53:14.420Z",
+  "updated_at": "2020-06-13T23:58:50.475Z",
   "title": "Test2020",
   "street_address": "101 Collins St",
   "town_suburb": "Melbourne",
@@ -24,9 +24,17 @@
     }
   },
   "temperatureMin": {
-
+    "2020": {
+      "6": {
+        "13": -4.0
+      }
+    }
   },
   "temperatureMax": {
-
+    "2020": {
+      "6": {
+        "13": 4.0
+      }
+    }
   }
 }
