@@ -2,12 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api.rainfallrecord.app/locations/00000669.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jun 2020 22:43:52 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2020 22:43:52 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2020 11:22:39 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2020 11:22:39 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Taylor St (Auto)</title>
     <link>https://api.rainfallrecord.app/locations/00000669.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Sun, 14 Jun 2020 00:00:00 +0000</guid>
+      <description>1.2</description>
+    </item>
     <item>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Sat, 13 Jun 2020 00:00:00 +0000</guid>
@@ -16,7 +21,7 @@
     <item>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Fri, 12 Jun 2020 00:00:00 +0000</guid>
-      <description>0.9</description>
+      <description/>
     </item>
     <item>
       <pubDate>Sun, 7 Jun 2020 00:00:00 +0000</pubDate>

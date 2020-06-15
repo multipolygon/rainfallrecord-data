@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://api.rainfallrecord.info/locations/00000726.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2020 00:43:44 +0000</pubDate>
-    <lastBuildDate>Fri, 29 May 2020 00:43:44 +0000</lastBuildDate>
+    <atom:link href="https://api.rainfallrecord.app/locations/00000726.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Jun 2020 05:31:08 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2020 05:31:08 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Ballagin</title>
-    <link>https://api.rainfallrecord.info/locations/00000726.xml</link>
+    <link>https://api.rainfallrecord.app/locations/00000726.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Sat, 13 Jun 2020 00:00:00 +0000</guid>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Fri, 12 Jun 2020 00:00:00 +0000</guid>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Wed, 3 Jun 2020 00:00:00 +0000</guid>
+      <description>11.0</description>
+    </item>
     <item>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Fri, 29 May 2020 00:00:00 +0000</guid>
