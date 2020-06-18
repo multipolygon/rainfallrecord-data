@@ -2,12 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api.rainfallrecord.app/locations/00000696.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Jun 2020 13:13:17 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2020 13:13:17 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2020 12:56:30 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2020 12:56:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Rain1</title>
     <link>https://api.rainfallrecord.app/locations/00000696.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Tue, 16 Jun 2020 00:00:00 +0000</guid>
+      <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Mon, 15 Jun 2020 00:00:00 +0000</guid>
+      <description>19.0</description>
+    </item>
     <item>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Sun, 14 Jun 2020 00:00:00 +0000</guid>
@@ -147,6 +157,11 @@
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Sun, 12 Apr 2020 00:00:00 +0000</guid>
       <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Tue, 31 Mar 2020 00:00:00 +0000</guid>
+      <description>0.0</description>
     </item>
     <item>
       <pubDate>Fri, 7 Feb 2020 00:00:00 +0000</pubDate>

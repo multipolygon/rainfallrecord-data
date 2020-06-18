@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://api.rainfallrecord.info/locations/00000706.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Nov 2019 09:48:50 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Nov 2019 09:48:50 +0000</lastBuildDate>
+    <atom:link href="https://api.rainfallrecord.app/locations/00000706.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Jun 2020 11:07:50 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2020 11:07:50 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Lone Hill, Johannesburg, South Africa</title>
-    <link>https://api.rainfallrecord.info/locations/00000706.xml</link>
+    <link>https://api.rainfallrecord.app/locations/00000706.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Tue, 16 Jun 2020 00:00:00 +0000</guid>
+      <description>16.0</description>
+    </item>
     <item>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Sun, 26 Apr 2020 00:00:00 +0000</guid>
