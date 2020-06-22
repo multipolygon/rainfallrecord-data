@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://api.rainfallrecord.info/locations/00000626.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Aug 2017 12:05:48 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Aug 2017 12:05:48 +0000</lastBuildDate>
+    <atom:link href="https://api.rainfallrecord.app/locations/00000626.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 21 Jun 2020 13:04:29 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2020 13:04:29 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Heathfield</title>
-    <link>https://api.rainfallrecord.info/locations/00000626.xml</link>
+    <link>https://api.rainfallrecord.app/locations/00000626.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
@@ -372,6 +372,11 @@
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Sat, 29 Jun 2019 00:00:00 +0000</guid>
       <description>55.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Fri, 21 Jun 2019 00:00:00 +0000</guid>
+      <description/>
     </item>
     <item>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
@@ -1067,6 +1072,11 @@
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Sun, 24 Jun 2018 00:00:00 +0000</guid>
       <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Fri, 22 Jun 2018 00:00:00 +0000</guid>
+      <description/>
     </item>
     <item>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
@@ -1849,6 +1859,11 @@
       <description>3.8</description>
     </item>
     <item>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Fri, 23 Jun 2017 00:00:00 +0000</guid>
+      <description/>
+    </item>
+    <item>
       <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Fri, 16 Jun 2017 00:00:00 +0000</guid>
       <description>2.0</description>
@@ -2616,7 +2631,7 @@
     <item>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Fri, 24 Jun 2016 00:00:00 +0000</guid>
-      <description>8.4</description>
+      <description/>
     </item>
     <item>
       <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
@@ -2937,6 +2952,11 @@
       <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Mon, 11 Jan 2016 00:00:00 +0000</guid>
       <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Thu, 25 Jun 2015 00:00:00 +0000</guid>
+      <description/>
     </item>
   </channel>
 </rss>
