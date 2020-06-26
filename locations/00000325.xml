@@ -2,12 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api.rainfallrecord.app/locations/00000325.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jun 2020 01:04:35 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2020 01:04:35 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2020 21:02:37 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2020 21:02:37 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Napier Rainfall</title>
     <link>https://api.rainfallrecord.app/locations/00000325.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">Thu, 25 Jun 2020 00:00:00 +0000</guid>
+      <description>15.0</description>
+    </item>
     <item>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">Fri, 19 Jun 2020 00:00:00 +0000</guid>
