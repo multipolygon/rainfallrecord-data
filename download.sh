@@ -4,7 +4,9 @@ OPT="--silent --show-error"
 HEADER="Authorization: Token $API_KEY"
 
 curl -o "locations.json" "$HOST/locations.json" $OPT --header "$HEADER"
-curl -o "index.txt" "$HOST/locations.txt?_recent=show" $OPT --header "$HEADER"
+curl -o "locations.txt" "$HOST/locations.txt?_recent=show" $OPT --header "$HEADER"
+
+cat locations.txt 
 
 while read id
 do
@@ -15,7 +17,7 @@ do
     curl -o "locations/$id.csv" "$HOST/locations/$id.csv" $OPT --header "$HEADER"
     echo ".xml"
     curl -o "locations/$id.xml" "$HOST/locations/$id.xml" $OPT --header "$HEADER"
-done < index.txt
+done < locations.txt
 
 echo "Diff:"
 git diff --name-only
