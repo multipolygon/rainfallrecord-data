@@ -5,7 +5,7 @@ on:
     types:
       - created
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '*/20 * * * *'
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: master
-      
+
       - name: Download
         shell: bash
         env:
