@@ -3,11 +3,8 @@ echo $HOST
 OPT="--silent --show-error"
 HEADER="Authorization: Token $API_KEY"
 
-if [ `date +"%H"` == "00" ]
-then
-    echo "Download locations json:"
-    curl -o "locations.json" "$HOST/locations.json" $OPT --header "$HEADER"
-fi
+echo "Download locations json:"
+curl -o "locations.json" "$HOST/locations.json" $OPT --header "$HEADER"
 
 echo "Download recent locations txt:"
 curl -o "locations.txt" "$HOST/locations.txt?_recent=show" $OPT --header "$HEADER"
