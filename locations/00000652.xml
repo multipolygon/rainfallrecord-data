@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000652.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jul 2020 19:44:25 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2020 19:44:25 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2020 19:14:51 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2020 19:14:51 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Awatahi</title>
     <link>http://api.rainfallrecord.app/locations/00000652.xml</link>
@@ -3775,6 +3775,10 @@
     <item>
       <pubDate>Sun, 5 Jul 2020 00:00:00 +0000</pubDate>
       <description>27.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Jul 2020 00:00:00 +0000</pubDate>
+      <description>12.0</description>
     </item>
   </channel>
 </rss>
