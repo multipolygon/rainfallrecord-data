@@ -1,7 +1,8 @@
 {
   "id": 728,
-  "created_at": "2020-03-16T04:17:39.557Z",
-  "updated_at": "2020-06-29T08:05:46.844Z",
+  "created_at": "2020-03-16 04:17:39 UTC",
+  "updated_at": "2020-07-09 05:26:05 UTC",
+  "last_record_at": "2020-07-09 00:00:00 UTC",
   "title": "Hillside",
   "street_address": "Piesseville Tarwonga Rd",
   "town_suburb": "Wagin",
@@ -11,23 +12,24 @@
   "longitude": null,
   "precipitation": {
     "2020": {
-      "6": {
-        "29": 26.0,
-        "23": 8.5,
-        "18": 26.0
+      "3": {
+        "16": 33.0
       },
       "5": {
         "31": 20.0
       },
-      "3": {
-        "16": 33.0
+      "6": {
+        "18": 26.0,
+        "23": 8.5,
+        "29": 26.0
+      },
+      "7": {
+        "9": 5.0
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

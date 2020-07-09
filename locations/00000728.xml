@@ -1,47 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://api.rainfallrecord.app/locations/00000728.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jun 2020 08:05:46 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2020 08:05:46 +0000</lastBuildDate>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000728.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Jul 2020 05:26:05 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2020 05:26:05 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hillside</title>
-    <link>https://api.rainfallrecord.app/locations/00000728.xml</link>
+    <link>http://api.rainfallrecord.app/locations/00000728.xml</link>
     <description>Unified and curated feed.</description>
     <item>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Mon, 29 Jun 2020 00:00:00 +0000</guid>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <description>33.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       <description>26.0</description>
     </item>
     <item>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Tue, 23 Jun 2020 00:00:00 +0000</guid>
       <description>8.5</description>
     </item>
     <item>
-      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Thu, 18 Jun 2020 00:00:00 +0000</guid>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <description>26.0</description>
     </item>
     <item>
-      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Sat, 13 Jun 2020 00:00:00 +0000</guid>
-      <description/>
-    </item>
-    <item>
-      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Fri, 12 Jun 2020 00:00:00 +0000</guid>
-      <description/>
-    </item>
-    <item>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Sun, 31 May 2020 00:00:00 +0000</guid>
-      <description>20.0</description>
-    </item>
-    <item>
-      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">Mon, 16 Mar 2020 00:00:00 +0000</guid>
-      <description>33.0</description>
+      <pubDate>Thu, 9 Jul 2020 00:00:00 +0000</pubDate>
+      <description>5.0</description>
     </item>
   </channel>
 </rss>
