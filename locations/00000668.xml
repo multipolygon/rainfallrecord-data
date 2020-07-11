@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000668.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Jul 2020 03:49:14 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2020 03:49:14 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2020 00:15:27 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2020 00:15:27 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Taylor St</title>
     <link>http://api.rainfallrecord.app/locations/00000668.xml</link>
@@ -1019,6 +1019,10 @@
     <item>
       <pubDate>Wed, 8 Jul 2020 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      <description>1.5</description>
     </item>
   </channel>
 </rss>
