@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000644.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jul 2020 19:09:39 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2020 19:09:39 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2020 22:31:06 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2020 22:31:06 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Willows Kirwan</title>
     <link>http://api.rainfallrecord.app/locations/00000644.xml</link>
@@ -889,8 +889,12 @@
       <description>2.29</description>
     </item>
     <item>
-      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       <description>31.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <description>1.27</description>
     </item>
   </channel>
 </rss>
