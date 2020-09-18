@@ -11,11 +11,11 @@
         ]
       },
       "properties": {
-        "id": 268,
-        "title": "the inlet",
-        "location": "Attunga, NSW",
+        "id": 694,
+        "title": "No 9 Wildehondweg ",
+        "location": "Woodland Hills",
         "total_7_days": 0,
-        "total_30_days": 20.5
+        "total_30_days": 10.0
       }
     },
     {
@@ -28,11 +28,96 @@
         ]
       },
       "properties": {
-        "id": 726,
-        "title": "Ballagin",
-        "location": "Wagin, WA",
+        "id": 395,
+        "title": "Belaradah, Wangandary Upper",
+        "location": "Wangandary Upper, VIC",
+        "total_7_days": 9.0,
+        "total_30_days": 19.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 268,
+        "title": "the inlet",
+        "location": "Attunga, NSW",
         "total_7_days": 0,
-        "total_30_days": 8.0
+        "total_30_days": 20.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.569,
+          -33.726
+        ]
+      },
+      "properties": {
+        "id": 720,
+        "title": "Hazelbrook",
+        "location": "Hazelbrook, NSW",
+        "total_7_days": 0,
+        "total_30_days": 27.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.311,
+          -37.805
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "title": "Kilsyth ",
+        "location": "Kilsyth, Yarra Ranges, VIC",
+        "total_7_days": 12.0,
+        "total_30_days": 39.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.953,
+          -27.455
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "title": "Jim's rain guage",
+        "location": "The Gap, QLD",
+        "total_7_days": 0,
+        "total_30_days": 7.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 668,
+        "title": "Taylor St",
+        "location": "Ashburton, VIC",
+        "total_7_days": 22.0,
+        "total_30_days": 70.0
       }
     },
     {
@@ -50,74 +135,6 @@
         "location": "Blackbutt, QLD",
         "total_7_days": 0,
         "total_30_days": 1.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.878,
-          -32.049
-        ]
-      },
-      "properties": {
-        "id": 138,
-        "title": "Willetton WA",
-        "location": "Willetton, WA",
-        "total_7_days": 0,
-        "total_30_days": 50.3
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 712,
-        "title": "Kenton Valley",
-        "location": "Kenton Valley, SA",
-        "total_7_days": 8.5,
-        "total_30_days": 65.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 554,
-        "title": "Rendezvous Road",
-        "location": "Busselton, WA",
-        "total_7_days": 0,
-        "total_30_days": 65.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 728,
-        "title": "Hillside",
-        "location": "Wagin, WA",
-        "total_7_days": 0,
-        "total_30_days": 16.0
       }
     },
     {
@@ -147,11 +164,11 @@
         ]
       },
       "properties": {
-        "id": 744,
-        "title": "Rain Record",
-        "location": "Fairburn, GA",
+        "id": 681,
+        "title": "Garden Drive - Rain Gauge",
+        "location": "Urangan. Hervey Bay, QLD",
         "total_7_days": 0,
-        "total_30_days": 13.6
+        "total_30_days": 40.0
       }
     },
     {
@@ -159,16 +176,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.007,
-          -17.808
+          150.485,
+          -33.517
         ]
       },
       "properties": {
-        "id": 59,
-        "title": "El Arish Rain",
-        "location": "El Arish, QLD",
-        "total_7_days": 124.0,
-        "total_30_days": 215.0
+        "id": 485,
+        "title": "Noonameena",
+        "location": "Bilpin, NSW",
+        "total_7_days": 0.5,
+        "total_30_days": 35.0
       }
     },
     {
@@ -176,67 +193,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.333,
-          -26.974
+          117.333,
+          -35.002
         ]
       },
       "properties": {
-        "id": 743,
-        "title": "Millpool",
-        "location": "Bodmin, Cornwall",
-        "total_7_days": 0.04,
-        "total_30_days": 5.03
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.751,
-          -26.691
-        ]
-      },
-      "properties": {
-        "id": 476,
-        "title": "Donovans Knob",
-        "location": "Curramore, QLD",
-        "total_7_days": 7.0,
-        "total_30_days": 22.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.787,
-          -25.364
-        ]
-      },
-      "properties": {
-        "id": 468,
-        "title": "Moorabinda drive",
-        "location": "Sunshine Acres, QLD",
-        "total_7_days": 49.5,
-        "total_30_days": 76.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 737,
-        "title": "Glenholm",
-        "location": "Lalalty, Nsw",
-        "total_7_days": 6.0,
-        "total_30_days": 25.5
+        "id": 501,
+        "title": "My Readings",
+        "location": "Ocean Beach, WA",
+        "total_7_days": 3.5,
+        "total_30_days": 91.0
       }
     },
     {
@@ -266,10 +232,61 @@
         ]
       },
       "properties": {
+        "id": 714,
+        "title": "Kersbrook",
+        "location": "Kersbrook, SA",
+        "total_7_days": 8.0,
+        "total_30_days": 25.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 697,
+        "title": "craigs rain gauge",
+        "location": "Croydon North, VIC",
+        "total_7_days": 13.0,
+        "total_30_days": 70.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 733,
+        "title": "Garland Rd",
+        "location": "Bundanoon, NSW",
+        "total_7_days": 3.5,
+        "total_30_days": 8.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
         "id": 746,
         "title": "Atkinson Road Rainfall Records",
         "location": "Canoona, Queensland",
-        "total_7_days": 10.0,
+        "total_7_days": 0,
         "total_30_days": 15.4
       }
     },
@@ -278,50 +295,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.333,
-          -35.002
-        ]
-      },
-      "properties": {
-        "id": 501,
-        "title": "My Readings",
-        "location": "Ocean Beach, WA",
-        "total_7_days": 3.5,
-        "total_30_days": 91.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.953,
-          -27.455
-        ]
-      },
-      "properties": {
-        "id": 38,
-        "title": "Jim's rain guage",
-        "location": "The Gap, QLD",
-        "total_7_days": 1.8,
-        "total_30_days": 7.9
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           133.333,
           -26.974
         ]
       },
       "properties": {
-        "id": 669,
-        "title": "Taylor St (Auto)",
-        "location": "Ashburton, VIC",
-        "total_7_days": 7.8,
-        "total_30_days": 29.7
+        "id": 652,
+        "title": "Awatahi",
+        "location": "Hikuai",
+        "total_7_days": 0,
+        "total_30_days": 109.0
       }
     },
     {
@@ -329,33 +312,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.333,
-          -26.974
+          152.807,
+          -30.611
         ]
       },
       "properties": {
-        "id": 653,
-        "title": "Quoit House",
-        "location": "Marlesford, Woodbridge ",
-        "total_7_days": 0,
-        "total_30_days": 30.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.801,
-          -32.036
-        ]
-      },
-      "properties": {
-        "id": 571,
-        "title": "Keith 6156",
-        "location": "Melville, WA",
-        "total_7_days": 0,
-        "total_30_days": 51.5
+        "id": 619,
+        "title": "Windy Hill",
+        "location": "Argents Hill, NSW",
+        "total_7_days": 2.5,
+        "total_30_days": 28.0
       }
     },
     {
@@ -372,7 +338,7 @@
         "title": "Debbie's rain gauge",
         "location": "Tolaga Bay",
         "total_7_days": 0,
-        "total_30_days": 84.3
+        "total_30_days": 49.8
       }
     },
     {
@@ -385,130 +351,11 @@
         ]
       },
       "properties": {
-        "id": 696,
-        "title": "Rain1",
-        "location": "Caldera , Panama",
-        "total_7_days": 133.0,
-        "total_30_days": 761.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 603,
-        "title": "Barragga Bay",
-        "location": "Barragga Bay, NSW",
-        "total_7_days": 0.8,
-        "total_30_days": 7.6
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 638,
-        "title": "Highfield at Oldbury Rd",
-        "location": "Sutton Forest, NSW",
-        "total_7_days": 3.0,
-        "total_30_days": 17.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 681,
-        "title": "Garden Drive - Rain Gauge",
-        "location": "Urangan. Hervey Bay, QLD",
-        "total_7_days": 20.0,
-        "total_30_days": 40.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 608,
-        "title": "44 Grays Point",
-        "location": "Grays Point, NSW",
-        "total_7_days": 0,
-        "total_30_days": 14.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 395,
-        "title": "Belaradah, Wangandary Upper",
-        "location": "Wangandary Upper, VIC",
-        "total_7_days": 7.0,
-        "total_30_days": 26.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 652,
-        "title": "Awatahi",
-        "location": "Hikuai",
-        "total_7_days": 4.0,
-        "total_30_days": 146.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.311,
-          -37.805
-        ]
-      },
-      "properties": {
-        "id": 122,
-        "title": "Kilsyth ",
-        "location": "Kilsyth, Yarra Ranges, VIC",
-        "total_7_days": 12.0,
-        "total_30_days": 45.0
+        "id": 704,
+        "title": "BF Depot",
+        "location": "Beechforest, VIC",
+        "total_7_days": 37.0,
+        "total_30_days": 257.0
       }
     },
     {
@@ -525,143 +372,7 @@
         "title": "Lynsdale Park",
         "location": "Blakney Creek, NSW",
         "total_7_days": 0,
-        "total_30_days": 62.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 694,
-        "title": "No 9 Wildehondweg ",
-        "location": "Woodland Hills",
-        "total_7_days": 0,
-        "total_30_days": 10.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.612,
-          -32.296
-        ]
-      },
-      "properties": {
-        "id": 225,
-        "title": "Tannermount Rain Gauge",
-        "location": "Dubbo, NSW",
-        "total_7_days": 1.0,
-        "total_30_days": 18.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.552,
-          -34.898
-        ]
-      },
-      "properties": {
-        "id": 507,
-        "title": "104",
-        "location": "Beverley, SA",
-        "total_7_days": 10.0,
-        "total_30_days": 31.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 733,
-        "title": "Garland Rd",
-        "location": "Bundanoon, NSW",
-        "total_7_days": 2.0,
-        "total_30_days": 14.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.569,
-          -33.726
-        ]
-      },
-      "properties": {
-        "id": 720,
-        "title": "Hazelbrook",
-        "location": "Hazelbrook, NSW",
-        "total_7_days": 0,
-        "total_30_days": 27.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.608,
-          -38.132
-        ]
-      },
-      "properties": {
-        "id": 152,
-        "title": "Kerlie Park",
-        "location": "Heywood, VIC",
-        "total_7_days": 21.25,
-        "total_30_days": 97.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.585,
-          -33.412
-        ]
-      },
-      "properties": {
-        "id": 445,
-        "title": "Limbrick's gauge",
-        "location": "Bathurst, NSW",
-        "total_7_days": 0,
-        "total_30_days": 58.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.298,
-          -34.657
-        ]
-      },
-      "properties": {
-        "id": 643,
-        "title": "Bundanoon Anglican Church",
-        "location": "Bundanoon, NSW",
-        "total_7_days": 3.4,
-        "total_30_days": 22.8
+        "total_30_days": 61.0
       }
     },
     {
@@ -691,11 +402,28 @@
         ]
       },
       "properties": {
-        "id": 674,
-        "title": "Hentie Gerber",
-        "location": "Benoni",
+        "id": 603,
+        "title": "Barragga Bay",
+        "location": "Barragga Bay, NSW",
+        "total_7_days": 6.6,
+        "total_30_days": 13.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 728,
+        "title": "Hillside",
+        "location": "Wagin, WA",
         "total_7_days": 0,
-        "total_30_days": 8.0
+        "total_30_days": 16.0
       }
     },
     {
@@ -708,96 +436,11 @@
         ]
       },
       "properties": {
-        "id": 714,
-        "title": "Kersbrook",
-        "location": "Kersbrook, SA",
-        "total_7_days": 8.0,
-        "total_30_days": 56.7
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.807,
-          -30.611
-        ]
-      },
-      "properties": {
-        "id": 619,
-        "title": "Windy Hill",
-        "location": "Argents Hill, NSW",
-        "total_7_days": 16.0,
-        "total_30_days": 28.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 668,
-        "title": "Taylor St",
-        "location": "Ashburton, VIC",
-        "total_7_days": 22.0,
-        "total_30_days": 80.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 704,
-        "title": "BF Depot",
-        "location": "Beechforest, VIC",
-        "total_7_days": 37.0,
-        "total_30_days": 278.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.564,
-          -37.421
-        ]
-      },
-      "properties": {
-        "id": 373,
-        "title": "House gauge",
-        "location": "Macedon, VIC",
-        "total_7_days": 10.0,
-        "total_30_days": 66.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.139,
-          -33.824
-        ]
-      },
-      "properties": {
-        "id": 487,
-        "title": "Boronia Park",
-        "location": "Hunters Hill, NSW",
+        "id": 653,
+        "title": "Quoit House",
+        "location": "Marlesford, Woodbridge ",
         "total_7_days": 0,
-        "total_30_days": 45.0
+        "total_30_days": 27.0
       }
     },
     {
@@ -805,16 +448,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.333,
-          -26.974
+          152.787,
+          -25.364
         ]
       },
       "properties": {
-        "id": 697,
-        "title": "craigs rain gauge",
-        "location": "Croydon North, VIC",
-        "total_7_days": 13.0,
-        "total_30_days": 80.5
+        "id": 468,
+        "title": "Moorabinda drive",
+        "location": "Sunshine Acres, QLD",
+        "total_7_days": 44.5,
+        "total_30_days": 76.5
       }
     },
     {
@@ -839,16 +482,254 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.485,
-          -33.517
+          115.801,
+          -32.036
         ]
       },
       "properties": {
-        "id": 485,
-        "title": "Noonameena",
-        "location": "Bilpin, NSW",
+        "id": 571,
+        "title": "Keith 6156",
+        "location": "Melville, WA",
+        "total_7_days": 0,
+        "total_30_days": 51.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 696,
+        "title": "Rain1",
+        "location": "Caldera , Panama",
+        "total_7_days": 111.0,
+        "total_30_days": 757.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 638,
+        "title": "Highfield at Oldbury Rd",
+        "location": "Sutton Forest, NSW",
         "total_7_days": 3.0,
-        "total_30_days": 35.0
+        "total_30_days": 17.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 744,
+        "title": "Rain Record",
+        "location": "Fairburn, GA",
+        "total_7_days": 0,
+        "total_30_days": 12.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.552,
+          -34.898
+        ]
+      },
+      "properties": {
+        "id": 507,
+        "title": "104",
+        "location": "Beverley, SA",
+        "total_7_days": 10.0,
+        "total_30_days": 22.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.298,
+          -34.657
+        ]
+      },
+      "properties": {
+        "id": 643,
+        "title": "Bundanoon Anglican Church",
+        "location": "Bundanoon, NSW",
+        "total_7_days": 2.0,
+        "total_30_days": 22.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.612,
+          -32.296
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "title": "Tannermount Rain Gauge",
+        "location": "Dubbo, NSW",
+        "total_7_days": 1.0,
+        "total_30_days": 18.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.878,
+          -32.049
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "title": "Willetton WA",
+        "location": "Willetton, WA",
+        "total_7_days": 0,
+        "total_30_days": 47.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.585,
+          -33.412
+        ]
+      },
+      "properties": {
+        "id": 445,
+        "title": "Limbrick's gauge",
+        "location": "Bathurst, NSW",
+        "total_7_days": 0,
+        "total_30_days": 52.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 554,
+        "title": "Rendezvous Road",
+        "location": "Busselton, WA",
+        "total_7_days": 0,
+        "total_30_days": 65.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.007,
+          -17.808
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "title": "El Arish Rain",
+        "location": "El Arish, QLD",
+        "total_7_days": 124.0,
+        "total_30_days": 215.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.751,
+          -26.691
+        ]
+      },
+      "properties": {
+        "id": 476,
+        "title": "Donovans Knob",
+        "location": "Curramore, QLD",
+        "total_7_days": 2.0,
+        "total_30_days": 22.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 712,
+        "title": "Kenton Valley",
+        "location": "Kenton Valley, SA",
+        "total_7_days": 10.0,
+        "total_30_days": 57.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 737,
+        "title": "Glenholm",
+        "location": "Lalalty, Nsw",
+        "total_7_days": 6.0,
+        "total_30_days": 19.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.139,
+          -33.824
+        ]
+      },
+      "properties": {
+        "id": 487,
+        "title": "Boronia Park",
+        "location": "Hunters Hill, NSW",
+        "total_7_days": 0,
+        "total_30_days": 45.0
       }
     },
     {
@@ -864,8 +745,127 @@
         "id": 721,
         "title": "Korimako Reserve",
         "location": "Akaroa, Canterbury ",
-        "total_7_days": 15.5,
-        "total_30_days": 67.0
+        "total_7_days": 12.0,
+        "total_30_days": 79.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 674,
+        "title": "Hentie Gerber",
+        "location": "Benoni",
+        "total_7_days": 0,
+        "total_30_days": 8.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.564,
+          -37.421
+        ]
+      },
+      "properties": {
+        "id": 373,
+        "title": "House gauge",
+        "location": "Macedon, VIC",
+        "total_7_days": 10.0,
+        "total_30_days": 47.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 726,
+        "title": "Ballagin",
+        "location": "Wagin, WA",
+        "total_7_days": 0,
+        "total_30_days": 8.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 743,
+        "title": "Millpool",
+        "location": "Bodmin, Cornwall",
+        "total_7_days": 0.04,
+        "total_30_days": 3.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.608,
+          -38.132
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "title": "Kerlie Park",
+        "location": "Heywood, VIC",
+        "total_7_days": 10.5,
+        "total_30_days": 94.25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 608,
+        "title": "44 Grays Point",
+        "location": "Grays Point, NSW",
+        "total_7_days": 0,
+        "total_30_days": 14.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 669,
+        "title": "Taylor St (Auto)",
+        "location": "Ashburton, VIC",
+        "total_7_days": 7.8,
+        "total_30_days": 25.8
       }
     }
   ]
