@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000624.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Sep 2020 23:46:47 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2020 23:46:47 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2020 10:41:18 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2020 10:41:18 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>ErsnmyneManton</title>
     <link>http://api.rainfallrecord.app/locations/00000624.xml</link>
@@ -863,6 +863,10 @@
     <item>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
