@@ -6,16 +6,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.94,
+          28.9
+        ]
+      },
+      "properties": {
+        "id": 370,
+        "title": "Simjojims Rain Gauge",
+        "location": "Wallangarra, QLD",
+        "total_7_days": 0,
+        "total_30_days": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           133.333,
           -26.974
         ]
       },
       "properties": {
-        "id": 714,
-        "title": "Kersbrook",
-        "location": "Kersbrook, SA",
-        "total_7_days": 50.5,
-        "total_30_days": 139.5
+        "id": 638,
+        "title": "Highfield at Oldbury Rd",
+        "location": "Sutton Forest, NSW",
+        "total_7_days": 7.0,
+        "total_30_days": 32.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.552,
+          -34.898
+        ]
+      },
+      "properties": {
+        "id": 507,
+        "title": "104",
+        "location": "Beverley, SA",
+        "total_7_days": 43.3,
+        "total_30_days": 104.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.333,
+          -26.974
+        ]
+      },
+      "properties": {
+        "id": 653,
+        "title": "Quoit House",
+        "location": "Marlesford, Woodbridge ",
+        "total_7_days": 27.0,
+        "total_30_days": 97.0
       }
     },
     {
@@ -45,11 +96,28 @@
         ]
       },
       "properties": {
-        "id": 712,
-        "title": "Kenton Valley",
-        "location": "Kenton Valley, SA",
-        "total_7_days": 55.5,
-        "total_30_days": 157.0
+        "id": 714,
+        "title": "Kersbrook",
+        "location": "Kersbrook, SA",
+        "total_7_days": 50.5,
+        "total_30_days": 139.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.444,
+          -33.909
+        ]
+      },
+      "properties": {
+        "id": 465,
+        "title": "Rubyvale",
+        "location": "Bumbaldry, NSW",
+        "total_7_days": 8.0,
+        "total_30_days": 54.0
       }
     },
     {
@@ -79,79 +147,11 @@
         ]
       },
       "properties": {
-        "id": 638,
-        "title": "Highfield at Oldbury Rd",
-        "location": "Sutton Forest, NSW",
-        "total_7_days": 7.0,
-        "total_30_days": 32.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.333,
-          -26.974
-        ]
-      },
-      "properties": {
-        "id": 653,
-        "title": "Quoit House",
-        "location": "Marlesford, Woodbridge ",
-        "total_7_days": 33.0,
-        "total_30_days": 97.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.444,
-          -33.909
-        ]
-      },
-      "properties": {
-        "id": 465,
-        "title": "Rubyvale",
-        "location": "Bumbaldry, NSW",
-        "total_7_days": 8.0,
-        "total_30_days": 54.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.552,
-          -34.898
-        ]
-      },
-      "properties": {
-        "id": 507,
-        "title": "104",
-        "location": "Beverley, SA",
-        "total_7_days": 43.3,
-        "total_30_days": 104.3
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.94,
-          28.9
-        ]
-      },
-      "properties": {
-        "id": 370,
-        "title": "Simjojims Rain Gauge",
-        "location": "Wallangarra, QLD",
-        "total_7_days": 0,
-        "total_30_days": 10.0
+        "id": 712,
+        "title": "Kenton Valley",
+        "location": "Kenton Valley, SA",
+        "total_7_days": 55.5,
+        "total_30_days": 157.0
       }
     }
   ]
