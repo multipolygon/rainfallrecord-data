@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000721.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Oct 2020 19:22:01 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2020 19:22:01 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2020 18:44:02 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2020 18:44:02 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Korimako Reserve</title>
     <link>http://api.rainfallrecord.app/locations/00000721.xml</link>
@@ -1211,6 +1211,18 @@
     <item>
       <pubDate>Wed, 7 Oct 2020 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <description>1.5</description>
     </item>
   </channel>
 </rss>
