@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000697.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Oct 2020 07:42:48 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2020 07:42:48 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2020 21:38:58 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2020 21:38:58 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>craigs rain gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000697.xml</link>
@@ -483,6 +483,14 @@
     <item>
       <pubDate>Fri, 9 Oct 2020 00:00:00 +0000</pubDate>
       <description>14.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <description>12.5</description>
     </item>
   </channel>
 </rss>
