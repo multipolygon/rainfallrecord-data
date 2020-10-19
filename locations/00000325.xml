@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000325.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Oct 2020 19:26:29 +0000</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2020 19:26:29 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2020 03:31:14 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2020 03:31:14 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Napier Rainfall</title>
     <link>http://api.rainfallrecord.app/locations/00000325.xml</link>
@@ -1551,6 +1551,10 @@
     <item>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <description>15.0</description>
     </item>
   </channel>
 </rss>
