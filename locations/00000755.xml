@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000755.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Oct 2020 21:34:50 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2020 21:34:50 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Home</title>
+    <link>http://api.rainfallrecord.app/locations/00000755.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <description>21.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <description>2.5</description>
+    </item>
+  </channel>
+</rss>
