@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000704.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Oct 2020 20:47:34 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2020 20:47:34 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2020 20:51:39 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2020 20:51:39 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>BF Depot</title>
     <link>http://api.rainfallrecord.app/locations/00000704.xml</link>
@@ -579,6 +579,10 @@
     <item>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       <description>14.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <description>16.0</description>
     </item>
   </channel>
 </rss>
