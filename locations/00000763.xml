@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000763.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Oct 2020 20:23:19 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2020 20:23:19 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Rossmoya </title>
+    <link>http://api.rainfallrecord.app/locations/00000763.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      <description>25.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <description>24.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <description>52.0</description>
+    </item>
+  </channel>
+</rss>
