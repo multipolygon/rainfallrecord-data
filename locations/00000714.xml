@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000714.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Oct 2020 08:29:48 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2020 08:29:48 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2020 02:42:02 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2020 02:42:02 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kersbrook</title>
     <link>http://api.rainfallrecord.app/locations/00000714.xml</link>
@@ -707,6 +707,10 @@
     <item>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       <description>39.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      <description>0.25</description>
     </item>
   </channel>
 </rss>
