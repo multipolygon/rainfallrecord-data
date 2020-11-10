@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000138.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Nov 2020 03:01:59 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2020 03:01:59 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2020 23:01:24 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2020 23:01:24 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Willetton WA</title>
     <link>http://api.rainfallrecord.app/locations/00000138.xml</link>
@@ -3419,6 +3419,14 @@
     <item>
       <pubDate>Tue, 3 Nov 2020 00:00:00 +0000</pubDate>
       <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 9 Nov 2020 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <description>26.2</description>
     </item>
   </channel>
 </rss>
