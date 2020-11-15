@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000748.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Nov 2020 00:08:43 +0000</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2020 00:08:43 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2020 23:34:35 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2020 23:34:35 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>bolgart west</title>
     <link>http://api.rainfallrecord.app/locations/00000748.xml</link>
@@ -55,6 +55,10 @@
     <item>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       <description>14.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <description>3.5</description>
     </item>
   </channel>
 </rss>

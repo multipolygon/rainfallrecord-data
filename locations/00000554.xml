@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000554.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Nov 2020 05:33:56 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2020 05:33:56 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2020 09:28:19 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2020 09:28:19 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Rendezvous Road</title>
     <link>http://api.rainfallrecord.app/locations/00000554.xml</link>
@@ -1807,6 +1807,10 @@
     <item>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      <description>18.0</description>
     </item>
   </channel>
 </rss>
