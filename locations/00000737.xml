@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000737.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Nov 2020 23:26:51 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2020 23:26:51 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Dec 2020 08:04:18 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Dec 2020 08:04:18 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Glenholm</title>
     <link>http://api.rainfallrecord.app/locations/00000737.xml</link>
@@ -267,6 +267,10 @@
     <item>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 5 Dec 2020 00:00:00 +0000</pubDate>
+      <description>3.5</description>
     </item>
   </channel>
 </rss>
