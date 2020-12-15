@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000759.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Dec 2020 23:19:38 +0000</pubDate>
-    <lastBuildDate>Sun, 13 Dec 2020 23:19:38 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Dec 2020 01:22:17 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Dec 2020 01:22:17 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Bellbowrie </title>
     <link>http://api.rainfallrecord.app/locations/00000759.xml</link>
@@ -211,6 +211,10 @@
     <item>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <description>40.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
