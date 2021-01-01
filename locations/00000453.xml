@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000453.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Dec 2020 08:59:29 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Dec 2020 08:59:29 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Dec 2020 23:09:03 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2020 23:09:03 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Delicia@Mapleton</title>
     <link>http://api.rainfallrecord.app/locations/00000453.xml</link>
@@ -4667,6 +4667,18 @@
     <item>
       <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
       <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <description>30.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>
