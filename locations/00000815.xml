@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000815.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Jan 2021 07:01:07 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2021 07:01:07 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>255 Great Alpine Road Lucknow </title>
+    <link>http://api.rainfallrecord.app/locations/00000815.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sun, 3 Jan 2021 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+  </channel>
+</rss>
