@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000225.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Jan 2021 20:26:59 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Jan 2021 20:26:59 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Jan 2021 02:36:20 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2021 02:36:20 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Tannermount Rain Gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000225.xml</link>
@@ -1342,7 +1342,11 @@
     </item>
     <item>
       <pubDate>Sun, 3 Jan 2021 00:00:00 +0000</pubDate>
-      <description>51.0</description>
+      <description>53.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 4 Jan 2021 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>
