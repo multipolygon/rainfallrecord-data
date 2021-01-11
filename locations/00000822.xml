@@ -1,5 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000822.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Jan 2021 07:57:43 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2021 07:57:43 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>bellenden ker</title>
+    <link>http://api.rainfallrecord.app/locations/00000822.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Tue, 1 Jan 1974 00:00:00 +0000</pubDate>
+      <description>536.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 1 Feb 1974 00:00:00 +0000</pubDate>
+      <description>1102.99</description>
+    </item>
+    <item>
+      <pubDate>Fri, 1 Mar 1974 00:00:00 +0000</pubDate>
+      <description>1216.51</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Apr 1974 00:00:00 +0000</pubDate>
+      <description>458.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 1 May 1974 00:00:00 +0000</pubDate>
+      <description>446.99</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 Jun 1974 00:00:00 +0000</pubDate>
+      <description>68.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Jul 1974 00:00:00 +0000</pubDate>
+      <description>10.01</description>
+    </item>
+    <item>
+      <pubDate>Thu, 1 Aug 1974 00:00:00 +0000</pubDate>
+      <description>41.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 Sep 1974 00:00:00 +0000</pubDate>
+      <description>69.49</description>
+    </item>
+    <item>
+      <pubDate>Tue, 1 Oct 1974 00:00:00 +0000</pubDate>
+      <description>61.01</description>
+    </item>
+    <item>
+      <pubDate>Fri, 1 Nov 1974 00:00:00 +0000</pubDate>
+      <description>167.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 Dec 1974 00:00:00 +0000</pubDate>
+      <description>177.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 1 Jan 2021 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 2 Jan 2021 00:00:00 +0000</pubDate>
+      <description>30.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Jan 2021 00:00:00 +0000</pubDate>
+      <description>40.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 4 Jan 2021 00:00:00 +0000</pubDate>
+      <description>50.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 5 Jan 2021 00:00:00 +0000</pubDate>
+      <description>210.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 6 Jan 2021 00:00:00 +0000</pubDate>
+      <description>90.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 7 Jan 2021 00:00:00 +0000</pubDate>
+      <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 8 Jan 2021 00:00:00 +0000</pubDate>
+      <description>19.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 9 Jan 2021 00:00:00 +0000</pubDate>
+      <description>24.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <description>3.2</description>
+    </item>
+  </channel>
+</rss>
