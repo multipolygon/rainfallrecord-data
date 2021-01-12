@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000824.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Jan 2021 00:40:46 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2021 00:40:46 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Dave,s rain record</title>
+    <link>http://api.rainfallrecord.app/locations/00000824.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sun, 3 Jan 2021 00:00:00 +0000</pubDate>
+      <description>25.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <description>15.5</description>
+    </item>
+  </channel>
+</rss>

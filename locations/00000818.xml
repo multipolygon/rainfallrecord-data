@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000818.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Jan 2021 21:06:46 +0000</pubDate>
-    <lastBuildDate>Sun, 10 Jan 2021 21:06:46 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Jan 2021 20:15:54 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2021 20:15:54 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Petford</title>
     <link>http://api.rainfallrecord.app/locations/00000818.xml</link>
@@ -51,6 +51,10 @@
     <item>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <description>27.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <description>4.0</description>
     </item>
   </channel>
 </rss>
