@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000370.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jan 2021 07:07:13 +0000</pubDate>
-    <lastBuildDate>Fri, 08 Jan 2021 07:07:13 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Jan 2021 19:49:49 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2021 19:49:49 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Simjojims Rain Gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000370.xml</link>
@@ -1199,6 +1199,10 @@
     <item>
       <pubDate>Fri, 8 Jan 2021 00:00:00 +0000</pubDate>
       <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <description>45.0</description>
     </item>
   </channel>
 </rss>
