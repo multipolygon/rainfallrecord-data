@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000059.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Jan 2021 01:44:46 +0000</pubDate>
-    <lastBuildDate>Sun, 31 Jan 2021 01:44:46 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2021 04:11:30 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2021 04:11:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>El Arish Rain</title>
     <link>http://api.rainfallrecord.app/locations/00000059.xml</link>
@@ -7675,6 +7675,10 @@
     <item>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Feb 2021 00:00:00 +0000</pubDate>
+      <description>18.0</description>
     </item>
   </channel>
 </rss>
