@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000770.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Jan 2021 15:00:01 +0000</pubDate>
-    <lastBuildDate>Sun, 31 Jan 2021 15:00:01 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2021 05:15:09 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2021 05:15:09 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Thornhill</title>
     <link>http://api.rainfallrecord.app/locations/00000770.xml</link>
@@ -1595,6 +1595,18 @@
     <item>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Feb 2021 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 2 Feb 2021 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Feb 2021 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
