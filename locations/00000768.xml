@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000768.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jan 2021 14:34:39 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Jan 2021 14:34:39 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2021 16:27:53 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2021 16:27:53 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Mr F Jansen</title>
     <link>http://api.rainfallrecord.app/locations/00000768.xml</link>
@@ -79,6 +79,10 @@
     <item>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <description>80.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Feb 2021 00:00:00 +0000</pubDate>
+      <description>70.0</description>
     </item>
   </channel>
 </rss>
