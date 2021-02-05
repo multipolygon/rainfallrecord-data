@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000653.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2021 07:51:45 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2021 07:51:45 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Feb 2021 06:44:38 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Feb 2021 06:44:38 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hazlewood Hall Farm</title>
     <link>http://api.rainfallrecord.app/locations/00000653.xml</link>
@@ -1502,7 +1502,15 @@
     </item>
     <item>
       <pubDate>Mon, 1 Feb 2021 00:00:00 +0000</pubDate>
-      <description>2.0</description>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Feb 2021 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 5 Feb 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
