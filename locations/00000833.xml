@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000833.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Feb 2021 06:50:10 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Feb 2021 06:50:10 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Feb 2021 07:54:22 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Feb 2021 07:54:22 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Phakalane Rain</title>
     <link>http://api.rainfallrecord.app/locations/00000833.xml</link>
@@ -159,6 +159,10 @@
     <item>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <description>23.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <description>16.0</description>
     </item>
   </channel>
 </rss>
