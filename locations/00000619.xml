@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000619.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Mar 2021 22:25:59 +0000</pubDate>
-    <lastBuildDate>Sat, 20 Mar 2021 22:25:59 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Mar 2021 06:10:03 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Mar 2021 06:10:03 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Windy Hill</title>
     <link>http://api.rainfallrecord.app/locations/00000619.xml</link>
@@ -1035,6 +1035,14 @@
     <item>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
       <description>59.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <description>116.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <description>26.0</description>
     </item>
   </channel>
 </rss>
