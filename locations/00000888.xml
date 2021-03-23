@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000888.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Mar 2021 03:51:06 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Mar 2021 03:51:06 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Carpendale</title>
+    <link>http://api.rainfallrecord.app/locations/00000888.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <description>46.0</description>
+    </item>
+  </channel>
+</rss>

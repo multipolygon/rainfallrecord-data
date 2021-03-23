@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000823.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Mar 2021 15:53:26 +0000</pubDate>
-    <lastBuildDate>Sun, 21 Mar 2021 15:53:26 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Mar 2021 04:26:46 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Mar 2021 04:26:46 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Finkenstein </title>
     <link>http://api.rainfallrecord.app/locations/00000823.xml</link>
@@ -327,6 +327,14 @@
     <item>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
       <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
