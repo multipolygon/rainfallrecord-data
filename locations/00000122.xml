@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000122.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Mar 2021 01:50:47 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Mar 2021 01:50:47 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Mar 2021 00:55:17 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Mar 2021 00:55:17 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kilsyth Home</title>
     <link>http://api.rainfallrecord.app/locations/00000122.xml</link>
@@ -4745,6 +4745,10 @@
       <description>45.0</description>
     </item>
     <item>
+      <pubDate>Wed, 3 Feb 2021 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
       <pubDate>Sat, 6 Feb 2021 00:00:00 +0000</pubDate>
       <description>4.0</description>
     </item>
@@ -4779,6 +4783,10 @@
     <item>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <description>17.0</description>
     </item>
   </channel>
 </rss>
