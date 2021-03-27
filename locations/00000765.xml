@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000765.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Mar 2021 06:48:34 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Mar 2021 06:48:34 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Mar 2021 01:42:16 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Mar 2021 01:42:16 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Trentham</title>
     <link>http://api.rainfallrecord.app/locations/00000765.xml</link>
@@ -107,6 +107,14 @@
     <item>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       <description>14.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
