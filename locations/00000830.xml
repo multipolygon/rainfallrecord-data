@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000830.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Apr 2021 13:50:04 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Apr 2021 13:50:04 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Apr 2021 08:59:03 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Apr 2021 08:59:03 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hartwell</title>
     <link>http://api.rainfallrecord.app/locations/00000830.xml</link>
@@ -387,6 +387,14 @@
     <item>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
