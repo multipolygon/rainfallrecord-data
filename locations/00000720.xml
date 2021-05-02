@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000720.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Apr 2021 23:16:53 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Apr 2021 23:16:53 +0000</lastBuildDate>
+    <pubDate>Sat, 01 May 2021 23:35:50 +0000</pubDate>
+    <lastBuildDate>Sat, 01 May 2021 23:35:50 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hazelbrook</title>
     <link>http://api.rainfallrecord.app/locations/00000720.xml</link>
@@ -847,6 +847,10 @@
     <item>
       <pubDate>Thu, 8 Apr 2021 00:00:00 +0000</pubDate>
       <description>44.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 2 May 2021 00:00:00 +0000</pubDate>
+      <description>0.5</description>
     </item>
   </channel>
 </rss>
