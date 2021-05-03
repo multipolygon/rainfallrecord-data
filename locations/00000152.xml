@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000152.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Apr 2021 23:11:08 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Apr 2021 23:11:08 +0000</lastBuildDate>
+    <pubDate>Sun, 02 May 2021 22:59:01 +0000</pubDate>
+    <lastBuildDate>Sun, 02 May 2021 22:59:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kerlie Park</title>
     <link>http://api.rainfallrecord.app/locations/00000152.xml</link>
@@ -35779,6 +35779,14 @@
     <item>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
       <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 May 2021 00:00:00 +0000</pubDate>
+      <description>0.25</description>
+    </item>
+    <item>
+      <pubDate>Sun, 2 May 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
