@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000724.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Apr 2021 06:36:21 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 06:36:21 +0000</lastBuildDate>
+    <pubDate>Mon, 10 May 2021 10:31:19 +0000</pubDate>
+    <lastBuildDate>Mon, 10 May 2021 10:31:19 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Luanda</title>
     <link>http://api.rainfallrecord.app/locations/00000724.xml</link>
@@ -111,6 +111,14 @@
     <item>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 May 2021 00:00:00 +0000</pubDate>
+      <description>50.0</description>
     </item>
   </channel>
 </rss>
