@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000003.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Jun 2021 00:00:47 +0000</pubDate>
-    <lastBuildDate>Sat, 05 Jun 2021 00:00:47 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Jun 2021 00:01:05 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Jun 2021 00:01:05 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hawthorn East</title>
     <link>http://api.rainfallrecord.app/locations/00000003.xml</link>
@@ -103,6 +103,10 @@
     <item>
       <pubDate>Fri, 4 Jun 2021 00:00:00 +0000</pubDate>
       <description>0.56</description>
+    </item>
+    <item>
+      <pubDate>Sun, 6 Jun 2021 00:00:00 +0000</pubDate>
+      <description>0.28</description>
     </item>
   </channel>
 </rss>

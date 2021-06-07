@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000767.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 May 2021 20:47:41 +0000</pubDate>
-    <lastBuildDate>Mon, 31 May 2021 20:47:41 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Jun 2021 03:32:36 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Jun 2021 03:32:36 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>79 Wilson Rd Warkworth</title>
     <link>http://api.rainfallrecord.app/locations/00000767.xml</link>
@@ -151,6 +151,14 @@
     <item>
       <pubDate>Tue, 1 Jun 2021 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 6 Jun 2021 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 7 Jun 2021 00:00:00 +0000</pubDate>
+      <description>60.0</description>
     </item>
   </channel>
 </rss>
