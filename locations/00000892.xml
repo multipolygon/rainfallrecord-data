@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000892.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Jun 2021 09:04:50 +0000</pubDate>
-    <lastBuildDate>Thu, 10 Jun 2021 09:04:50 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Jun 2021 08:14:53 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Jun 2021 08:14:53 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hardwood </title>
     <link>http://api.rainfallrecord.app/locations/00000892.xml</link>
@@ -827,6 +827,10 @@
     <item>
       <pubDate>Wed, 9 Jun 2021 00:00:00 +0000</pubDate>
       <description>0.7</description>
+    </item>
+    <item>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <description>3.1</description>
     </item>
   </channel>
 </rss>
