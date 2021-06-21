@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000775.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jun 2021 07:30:30 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Jun 2021 07:30:30 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jun 2021 07:33:47 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jun 2021 07:33:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Gloucester</title>
     <link>http://api.rainfallrecord.app/locations/00000775.xml</link>
@@ -1169,8 +1169,16 @@
       <description>0.0</description>
     </item>
     <item>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <description>21.0</description>
+      <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>

@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000874.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Jun 2021 01:55:30 +0000</pubDate>
-    <lastBuildDate>Wed, 16 Jun 2021 01:55:30 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Jun 2021 02:02:36 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Jun 2021 02:02:36 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Turrama Pingaring</title>
     <link>http://api.rainfallrecord.app/locations/00000874.xml</link>
@@ -207,6 +207,10 @@
     <item>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <description>7.0</description>
     </item>
   </channel>
 </rss>
