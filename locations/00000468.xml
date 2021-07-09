@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000468.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Jul 2021 10:23:52 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Jul 2021 10:23:52 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jul 2021 08:56:54 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Jul 2021 08:56:54 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Moorabinda drive</title>
     <link>http://api.rainfallrecord.app/locations/00000468.xml</link>
@@ -1655,6 +1655,10 @@
     <item>
       <pubDate>Sat, 3 Jul 2021 00:00:00 +0000</pubDate>
       <description>32.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 9 Jul 2021 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
