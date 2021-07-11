@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000902.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Jul 2021 16:44:07 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Jul 2021 16:44:07 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Jul 2021 13:45:47 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Jul 2021 13:45:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Belhaven</title>
     <link>http://api.rainfallrecord.app/locations/00000902.xml</link>
@@ -11,6 +11,14 @@
     <item>
       <pubDate>Fri, 2 Jul 2021 00:00:00 +0000</pubDate>
       <description>0.24</description>
+    </item>
+    <item>
+      <pubDate>Thu, 8 Jul 2021 00:00:00 +0000</pubDate>
+      <description>0.92</description>
+    </item>
+    <item>
+      <pubDate>Fri, 9 Jul 2021 00:00:00 +0000</pubDate>
+      <description>0.94</description>
     </item>
   </channel>
 </rss>
