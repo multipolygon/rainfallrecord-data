@@ -2,11 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000903.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Jul 2021 01:31:29 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Jul 2021 01:31:29 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jul 2021 03:20:01 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Jul 2021 03:20:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Rain</title>
     <link>http://api.rainfallrecord.app/locations/00000903.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <description>12.5</description>
+    </item>
   </channel>
 </rss>
