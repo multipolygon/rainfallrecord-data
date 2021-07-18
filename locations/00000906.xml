@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000906.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 18 Jul 2021 04:20:57 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Jul 2021 04:20:57 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Woodbridge</title>
+    <link>http://api.rainfallrecord.app/locations/00000906.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <description>16.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <description>24.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <description>16.0</description>
+    </item>
+  </channel>
+</rss>
