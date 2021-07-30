@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000697.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jul 2021 08:06:34 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Jul 2021 08:06:34 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jul 2021 02:44:50 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Jul 2021 02:44:50 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>craigs rain gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000697.xml</link>
@@ -647,6 +647,14 @@
     <item>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       <description>14.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>
