@@ -2,12 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000911.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Aug 2021 00:13:31 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Aug 2021 00:13:31 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Aug 2021 03:28:34 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Aug 2021 03:28:34 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Maffra</title>
     <link>http://api.rainfallrecord.app/locations/00000911.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <description>75.0</description>
+    </item>
     <item>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       <description>13.0</description>
@@ -15,6 +19,10 @@
     <item>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
       <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
