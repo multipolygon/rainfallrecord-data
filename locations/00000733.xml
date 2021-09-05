@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000733.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Aug 2021 00:34:02 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Aug 2021 00:34:02 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Sep 2021 21:37:30 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Sep 2021 21:37:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Garland Rd</title>
     <link>http://api.rainfallrecord.app/locations/00000733.xml</link>
@@ -1375,6 +1375,10 @@
     <item>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 4 Sep 2021 00:00:00 +0000</pubDate>
+      <description>16.0</description>
     </item>
   </channel>
 </rss>
