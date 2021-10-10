@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000373.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Oct 2021 22:56:45 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Oct 2021 22:56:45 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Oct 2021 20:50:39 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Oct 2021 20:50:39 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>House gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000373.xml</link>
@@ -1951,6 +1951,14 @@
     <item>
       <pubDate>Sat, 2 Oct 2021 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 9 Oct 2021 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
