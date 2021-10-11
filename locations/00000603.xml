@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000603.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Oct 2021 19:54:12 +0000</pubDate>
-    <lastBuildDate>Wed, 06 Oct 2021 19:54:12 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Oct 2021 22:57:28 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Oct 2021 22:57:28 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Barragga Bay</title>
     <link>http://api.rainfallrecord.app/locations/00000603.xml</link>
@@ -2235,6 +2235,10 @@
     <item>
       <pubDate>Wed, 6 Oct 2021 00:00:00 +0000</pubDate>
       <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
