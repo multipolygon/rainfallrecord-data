@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000917.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Oct 2021 02:30:57 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Oct 2021 02:30:57 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Oct 2021 08:03:59 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Oct 2021 08:03:59 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Dudleys Block</title>
     <link>http://api.rainfallrecord.app/locations/00000917.xml</link>
@@ -19,6 +19,10 @@
     <item>
       <pubDate>Sat, 2 Oct 2021 00:00:00 +0000</pubDate>
       <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <description>4.25</description>
     </item>
   </channel>
 </rss>
