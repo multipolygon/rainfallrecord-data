@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000129.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Oct 2021 21:34:08 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Oct 2021 21:34:08 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Oct 2021 07:15:52 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Oct 2021 07:15:52 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Tina's Rain Gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000129.xml</link>
@@ -3999,6 +3999,10 @@
     <item>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
       <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>
