@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000837.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Oct 2021 21:15:43 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Oct 2021 21:15:43 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Oct 2021 05:05:05 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Oct 2021 05:05:05 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Witta Waters</title>
     <link>http://api.rainfallrecord.app/locations/00000837.xml</link>
@@ -363,6 +363,10 @@
     <item>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <description>10.75</description>
+    </item>
+    <item>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <description>23.0</description>
     </item>
   </channel>
 </rss>
