@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000911.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Nov 2021 20:23:16 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Nov 2021 20:23:16 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Nov 2021 20:09:29 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Nov 2021 20:09:29 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Maffra</title>
     <link>http://api.rainfallrecord.app/locations/00000911.xml</link>
@@ -171,6 +171,10 @@
     <item>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <description>55.0</description>
     </item>
   </channel>
 </rss>
