@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000608.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Dec 2021 05:53:59 +0000</pubDate>
-    <lastBuildDate>Sat, 04 Dec 2021 05:53:59 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Dec 2021 07:15:07 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Dec 2021 07:15:07 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>44 Grays Point</title>
     <link>http://api.rainfallrecord.app/locations/00000608.xml</link>
@@ -1795,6 +1795,10 @@
     <item>
       <pubDate>Sat, 4 Dec 2021 00:00:00 +0000</pubDate>
       <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 7 Dec 2021 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
