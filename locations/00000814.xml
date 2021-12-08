@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000814.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Nov 2021 22:18:20 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Nov 2021 22:18:20 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Dec 2021 23:32:43 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Dec 2021 23:32:43 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>wattsquilpie</title>
     <link>http://api.rainfallrecord.app/locations/00000814.xml</link>
@@ -439,6 +439,10 @@
     <item>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 8 Dec 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
