@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000828.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Dec 2021 06:08:32 +0000</pubDate>
-    <lastBuildDate>Sat, 18 Dec 2021 06:08:32 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Dec 2021 13:31:10 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Dec 2021 13:31:10 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Vryheid</title>
     <link>http://api.rainfallrecord.app/locations/00000828.xml</link>
@@ -439,6 +439,10 @@
     <item>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <description>12.0</description>
     </item>
   </channel>
 </rss>
