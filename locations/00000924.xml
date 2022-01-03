@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000924.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Dec 2021 14:15:49 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Dec 2021 14:15:49 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jan 2022 12:10:05 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jan 2022 12:10:05 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Rose Reid</title>
     <link>http://api.rainfallrecord.app/locations/00000924.xml</link>
@@ -315,6 +315,18 @@
     <item>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <description>13.25</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 Jan 2022 00:00:00 +0000</pubDate>
+      <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 2 Jan 2022 00:00:00 +0000</pubDate>
+      <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 Jan 2022 00:00:00 +0000</pubDate>
+      <description>6.25</description>
     </item>
   </channel>
 </rss>
