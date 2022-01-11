@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000938.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jan 2022 07:12:55 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Jan 2022 07:12:55 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jan 2022 06:49:28 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Jan 2022 06:49:28 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Pumpherston Golf Club</title>
     <link>http://api.rainfallrecord.app/locations/00000938.xml</link>
@@ -647,6 +647,10 @@
     <item>
       <pubDate>Sun, 9 Jan 2022 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <description>1.5</description>
     </item>
   </channel>
 </rss>
