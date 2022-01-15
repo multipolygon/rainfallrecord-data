@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000836.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jan 2022 06:45:49 +0000</pubDate>
-    <lastBuildDate>Fri, 14 Jan 2022 06:45:49 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jan 2022 23:25:57 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Jan 2022 23:25:57 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Narre Warren South</title>
     <link>http://api.rainfallrecord.app/locations/00000836.xml</link>
@@ -323,6 +323,10 @@
     <item>
       <pubDate>Fri, 7 Jan 2022 00:00:00 +0000</pubDate>
       <description>10.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <description>2.5</description>
     </item>
   </channel>
 </rss>
