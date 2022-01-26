@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000813.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Jan 2022 08:33:59 +0000</pubDate>
-    <lastBuildDate>Sat, 22 Jan 2022 08:33:59 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jan 2022 22:20:17 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Jan 2022 22:20:17 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Highfields </title>
     <link>http://api.rainfallrecord.app/locations/00000813.xml</link>
@@ -322,7 +322,11 @@
     </item>
     <item>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <description>5.0</description>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <description>4.0</description>
     </item>
   </channel>
 </rss>
