@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000952.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Jan 2022 23:48:09 +0000</pubDate>
-    <lastBuildDate>Fri, 28 Jan 2022 23:48:09 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Jan 2022 20:58:29 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Jan 2022 20:58:29 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>RMM</title>
     <link>http://api.rainfallrecord.app/locations/00000952.xml</link>
@@ -43,6 +43,10 @@
     <item>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       <description>24.7</description>
+    </item>
+    <item>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <description>17.0</description>
     </item>
   </channel>
 </rss>
