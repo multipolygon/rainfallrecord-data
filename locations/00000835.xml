@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000835.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Feb 2022 07:41:55 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Feb 2022 07:41:55 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Feb 2022 19:38:10 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Feb 2022 19:38:10 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Maporiki</title>
     <link>http://api.rainfallrecord.app/locations/00000835.xml</link>
@@ -171,6 +171,10 @@
     <item>
       <pubDate>Mon, 7 Feb 2022 00:00:00 +0000</pubDate>
       <description>123.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 8 Feb 2022 00:00:00 +0000</pubDate>
+      <description>17.0</description>
     </item>
   </channel>
 </rss>
