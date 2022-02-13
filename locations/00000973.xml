@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000973.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Feb 2022 11:15:24 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Feb 2022 11:15:24 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Grootpos</title>
+    <link>http://api.rainfallrecord.app/locations/00000973.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      <description>26.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+  </channel>
+</rss>
