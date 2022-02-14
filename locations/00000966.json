@@ -1,14 +1,29 @@
 {
   "id": 966,
   "created_at": "2022-02-12 12:41:44 UTC",
-  "updated_at": "2022-02-12 12:41:44 UTC",
-  "last_record_at": null,
+  "updated_at": "2022-02-14 10:33:10 UTC",
+  "last_record_at": "2021-04-02 00:00:00 UTC",
   "title": "Camp 2 NW",
   "town_suburb": "Outjo",
   "country": "Namibia",
   "latitude": -20.11,
   "longitude": 16.14,
-  "precipitation": null,
+  "precipitation": {
+    "2021": {
+      "1": {
+        "5": 38.0,
+        "12": 60.0
+      },
+      "3": {
+        "16": 19.0,
+        "22": 11.0,
+        "27": 14.0
+      },
+      "4": {
+        "2": 28.0
+      }
+    }
+  },
   "temperatureMin": null,
   "temperatureMax": null
 }

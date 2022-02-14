@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000971.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Feb 2022 10:59:16 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Feb 2022 10:59:16 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Gate 2</title>
+    <link>http://api.rainfallrecord.app/locations/00000971.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Tue, 5 Jan 2021 00:00:00 +0000</pubDate>
+      <description>80.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 8 Jan 2021 00:00:00 +0000</pubDate>
+      <description>44.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <description>25.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <description>5.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <description>75.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <description>23.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 3 Dec 2021 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+  </channel>
+</rss>

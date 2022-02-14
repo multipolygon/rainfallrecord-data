@@ -1,5 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000972.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Feb 2022 11:57:09 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Feb 2022 11:57:09 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Gerhards gate</title>
+    <link>http://api.rainfallrecord.app/locations/00000972.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 8 Jan 2021 00:00:00 +0000</pubDate>
+      <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <description>24.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <description>65.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <description>32.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <description>21.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <description>51.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 9 Apr 2021 00:00:00 +0000</pubDate>
+      <description>28.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+  </channel>
+</rss>
