@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00000965.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Feb 2022 16:09:29 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Feb 2022 16:09:29 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Camp 1 SE</title>
+    <link>http://api.rainfallrecord.app/locations/00000965.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      <description>28.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      <description>62.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <description>22.0</description>
+    </item>
+  </channel>
+</rss>
