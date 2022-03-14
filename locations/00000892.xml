@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000892.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Mar 2022 06:42:00 +0000</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2022 06:42:00 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 22:03:21 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 22:03:21 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hardwood </title>
     <link>http://api.rainfallrecord.app/locations/00000892.xml</link>
@@ -1265,6 +1265,10 @@
       <description>79.7</description>
     </item>
     <item>
+      <pubDate>Wed, 2 Mar 2022 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
       <pubDate>Thu, 3 Mar 2022 00:00:00 +0000</pubDate>
       <description>1.5</description>
     </item>
@@ -1299,6 +1303,10 @@
     <item>
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
       <description>4.7</description>
+    </item>
+    <item>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <description>11.0</description>
     </item>
   </channel>
 </rss>
