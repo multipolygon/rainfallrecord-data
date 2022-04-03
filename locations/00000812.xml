@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000812.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Mar 2022 08:28:50 +0000</pubDate>
-    <lastBuildDate>Thu, 31 Mar 2022 08:28:50 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Apr 2022 08:17:31 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Apr 2022 08:17:31 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Rowena</title>
     <link>http://api.rainfallrecord.app/locations/00000812.xml</link>
@@ -255,6 +255,10 @@
     <item>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       <description>52.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Apr 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
