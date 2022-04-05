@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000992.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Apr 2022 04:01:38 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Apr 2022 04:01:38 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Apr 2022 15:47:27 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2022 15:47:27 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Erasmuskloof</title>
     <link>http://api.rainfallrecord.app/locations/00000992.xml</link>
@@ -38,7 +38,11 @@
     </item>
     <item>
       <pubDate>Sun, 3 Apr 2022 00:00:00 +0000</pubDate>
-      <description>9.0</description>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 4 Apr 2022 00:00:00 +0000</pubDate>
+      <description>12.0</description>
     </item>
   </channel>
 </rss>
