@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000638.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Apr 2022 04:29:17 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Apr 2022 04:29:17 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Apr 2022 06:04:50 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Apr 2022 06:04:50 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Highfield at Oldbury Rd</title>
     <link>http://api.rainfallrecord.app/locations/00000638.xml</link>
@@ -1039,6 +1039,10 @@
     <item>
       <pubDate>Mon, 4 Apr 2022 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 6 Apr 2022 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
