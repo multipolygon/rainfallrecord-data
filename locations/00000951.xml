@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000951.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Apr 2022 04:28:12 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Apr 2022 04:28:12 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2022 04:39:22 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2022 04:39:22 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hermansburg </title>
     <link>http://api.rainfallrecord.app/locations/00000951.xml</link>
@@ -147,6 +147,14 @@
     <item>
       <pubDate>Mon, 4 Apr 2022 00:00:00 +0000</pubDate>
       <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <description>5.0</description>
     </item>
   </channel>
 </rss>
