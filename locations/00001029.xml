@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00001029.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Apr 2022 08:00:27 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Apr 2022 08:00:27 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Home</title>
+    <link>http://api.rainfallrecord.app/locations/00001029.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sun, 6 Feb 2022 00:00:00 +0000</pubDate>
+      <description>16.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <description>200.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <description>60.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <description>70.0</description>
+    </item>
+  </channel>
+</rss>
