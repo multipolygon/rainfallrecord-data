@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001030.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Apr 2022 12:58:06 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Apr 2022 12:58:06 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Apr 2022 01:13:48 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Apr 2022 01:13:48 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Gov Gauge</title>
     <link>http://api.rainfallrecord.app/locations/00001030.xml</link>
@@ -35,6 +35,10 @@
     <item>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       <description>7.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <description>1.4</description>
     </item>
   </channel>
 </rss>
