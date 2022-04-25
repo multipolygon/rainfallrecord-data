@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000921.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2022 12:31:40 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2022 12:31:40 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Apr 2022 10:13:33 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Apr 2022 10:13:33 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Moreleta Park</title>
     <link>http://api.rainfallrecord.app/locations/00000921.xml</link>
@@ -299,6 +299,10 @@
     <item>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
       <description>17.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <description>11.0</description>
     </item>
   </channel>
 </rss>
