@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000927.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Apr 2022 04:43:11 +0000</pubDate>
-    <lastBuildDate>Sun, 10 Apr 2022 04:43:11 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Apr 2022 00:58:56 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2022 00:58:56 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Vinnie House</title>
     <link>http://api.rainfallrecord.app/locations/00000927.xml</link>
@@ -171,6 +171,18 @@
     <item>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <description>20.0</description>
     </item>
   </channel>
 </rss>
