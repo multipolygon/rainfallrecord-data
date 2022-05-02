@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000942.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Mar 2022 13:16:48 +0000</pubDate>
-    <lastBuildDate>Fri, 18 Mar 2022 13:16:48 +0000</lastBuildDate>
+    <pubDate>Sun, 01 May 2022 12:53:24 +0000</pubDate>
+    <lastBuildDate>Sun, 01 May 2022 12:53:24 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Bradley Stoke</title>
     <link>http://api.rainfallrecord.app/locations/00000942.xml</link>
@@ -243,6 +243,10 @@
     <item>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 May 2022 00:00:00 +0000</pubDate>
+      <description>3.6</description>
     </item>
   </channel>
 </rss>
