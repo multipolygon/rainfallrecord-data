@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000991.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Mar 2022 08:41:02 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Mar 2022 08:41:02 +0000</lastBuildDate>
+    <pubDate>Sun, 08 May 2022 01:12:33 +0000</pubDate>
+    <lastBuildDate>Sun, 08 May 2022 01:12:33 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Blue Hills</title>
     <link>http://api.rainfallrecord.app/locations/00000991.xml</link>
@@ -263,6 +263,18 @@
     <item>
       <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
       <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 6 May 2022 00:00:00 +0000</pubDate>
+      <description>28.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 7 May 2022 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 8 May 2022 00:00:00 +0000</pubDate>
+      <description>17.2</description>
     </item>
   </channel>
 </rss>
