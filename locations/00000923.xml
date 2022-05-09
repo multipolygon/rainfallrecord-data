@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000923.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 May 2022 10:58:53 +0000</pubDate>
-    <lastBuildDate>Mon, 02 May 2022 10:58:53 +0000</lastBuildDate>
+    <pubDate>Mon, 09 May 2022 06:30:19 +0000</pubDate>
+    <lastBuildDate>Mon, 09 May 2022 06:30:19 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Olaff</title>
     <link>http://api.rainfallrecord.app/locations/00000923.xml</link>
@@ -279,6 +279,10 @@
     <item>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       <description>32.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 9 May 2022 00:00:00 +0000</pubDate>
+      <description>12.0</description>
     </item>
   </channel>
 </rss>
