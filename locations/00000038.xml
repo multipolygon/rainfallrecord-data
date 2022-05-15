@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000038.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 May 2022 21:31:30 +0000</pubDate>
-    <lastBuildDate>Fri, 13 May 2022 21:31:30 +0000</lastBuildDate>
+    <pubDate>Sat, 14 May 2022 21:48:43 +0000</pubDate>
+    <lastBuildDate>Sat, 14 May 2022 21:48:43 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Jim's rain guage</title>
     <link>http://api.rainfallrecord.app/locations/00000038.xml</link>
@@ -5303,6 +5303,10 @@
     <item>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <description>39.7</description>
+    </item>
+    <item>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <description>28.9</description>
     </item>
   </channel>
 </rss>
