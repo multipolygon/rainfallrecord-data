@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000681.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2022 03:46:44 +0000</pubDate>
-    <lastBuildDate>Thu, 26 May 2022 03:46:44 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jun 2022 21:14:18 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jun 2022 21:14:18 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Urangan, Qld - Rain Gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000681.xml</link>
@@ -919,6 +919,18 @@
     <item>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
       <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 5 Jun 2022 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Jun 2022 00:00:00 +0000</pubDate>
+      <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 7 Jun 2022 00:00:00 +0000</pubDate>
+      <description>5.0</description>
     </item>
   </channel>
 </rss>
