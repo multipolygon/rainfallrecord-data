@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000904.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jun 2022 01:10:28 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Jun 2022 01:10:28 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jun 2022 23:16:04 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jun 2022 23:16:04 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Lake Warden</title>
     <link>http://api.rainfallrecord.app/locations/00000904.xml</link>
@@ -3607,6 +3607,10 @@
     <item>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
       <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <description>11.4</description>
     </item>
   </channel>
 </rss>
