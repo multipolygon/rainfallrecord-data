@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000819.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jun 2022 00:07:57 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2022 00:07:57 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jun 2022 23:09:01 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2022 23:09:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kenjamin Springs, Severnlea</title>
     <link>http://api.rainfallrecord.app/locations/00000819.xml</link>
@@ -2267,6 +2267,14 @@
     <item>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       <description>0.25</description>
+    </item>
+    <item>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <description>0.1</description>
     </item>
   </channel>
 </rss>
