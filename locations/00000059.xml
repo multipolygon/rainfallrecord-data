@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000059.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Aug 2022 05:00:52 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Aug 2022 05:00:52 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Aug 2022 05:23:24 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2022 05:23:24 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>El Arish Rain</title>
     <link>http://api.rainfallrecord.app/locations/00000059.xml</link>
@@ -8647,6 +8647,14 @@
     <item>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
       <description>21.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 8 Aug 2022 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 9 Aug 2022 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
