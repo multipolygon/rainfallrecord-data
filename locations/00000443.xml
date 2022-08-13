@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000443.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Aug 2022 06:56:19 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Aug 2022 06:56:19 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Aug 2022 06:51:31 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Aug 2022 06:51:31 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Allambie</title>
     <link>http://api.rainfallrecord.app/locations/00000443.xml</link>
@@ -2199,6 +2199,10 @@
     <item>
       <pubDate>Fri, 5 Aug 2022 00:00:00 +0000</pubDate>
       <description>19.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <description>24.0</description>
     </item>
   </channel>
 </rss>
