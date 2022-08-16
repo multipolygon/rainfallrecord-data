@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001072.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Aug 2022 12:48:23 +0000</pubDate>
-    <lastBuildDate>Sat, 13 Aug 2022 12:48:23 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Aug 2022 12:31:08 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Aug 2022 12:31:08 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>La Chaconera</title>
     <link>http://api.rainfallrecord.app/locations/00001072.xml</link>
@@ -279,6 +279,10 @@
     <item>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      <description>26.0</description>
     </item>
   </channel>
 </rss>
