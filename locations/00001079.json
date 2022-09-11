@@ -1,14 +1,20 @@
 {
   "id": 1079,
   "created_at": "2022-09-09 18:04:12 UTC",
-  "updated_at": "2022-09-09 18:07:33 UTC",
-  "last_record_at": null,
+  "updated_at": "2022-09-11 05:40:41 UTC",
+  "last_record_at": "2022-09-10 00:00:00 UTC",
   "title": "Glenwood",
   "town_suburb": "Durban",
   "country": "South Africa",
   "latitude": -29.865,
   "longitude": 30.98,
-  "precipitation": null,
+  "precipitation": {
+    "2022": {
+      "9": {
+        "10": 0.5
+      }
+    }
+  },
   "temperatureMin": null,
   "temperatureMax": null
 }
