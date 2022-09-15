@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001076.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Sep 2022 20:16:07 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Sep 2022 20:16:07 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 07:44:15 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 07:44:15 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Drienovec 270</title>
     <link>http://api.rainfallrecord.app/locations/00001076.xml</link>
@@ -175,6 +175,18 @@
     <item>
       <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
       <description>28.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
