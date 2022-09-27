@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000465.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2022 08:58:56 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2022 08:58:56 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Sep 2022 06:28:05 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Sep 2022 06:28:05 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Rubyvale</title>
     <link>http://api.rainfallrecord.app/locations/00000465.xml</link>
@@ -991,6 +991,10 @@
     <item>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
       <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>
