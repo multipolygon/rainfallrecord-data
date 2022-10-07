@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000518.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2022 22:38:16 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2022 22:38:16 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 22:38:04 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 22:38:04 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Debbie's rain gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000518.xml</link>
@@ -7198,11 +7198,19 @@
     </item>
     <item>
       <pubDate>Sat, 1 Oct 2022 00:00:00 +0000</pubDate>
-      <description>14.3</description>
+      <description>14.4</description>
     </item>
     <item>
       <pubDate>Sun, 2 Oct 2022 00:00:00 +0000</pubDate>
       <description>2.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 4 Oct 2022 00:00:00 +0000</pubDate>
+      <description>3.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 5 Oct 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
     </item>
   </channel>
 </rss>
