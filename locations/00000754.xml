@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000754.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Oct 2022 20:54:36 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2022 20:54:36 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2022 09:29:20 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2022 09:29:20 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Berkeley Farm</title>
     <link>http://api.rainfallrecord.app/locations/00000754.xml</link>
@@ -1971,6 +1971,10 @@
     <item>
       <pubDate>Sun, 9 Oct 2022 00:00:00 +0000</pubDate>
       <description>11.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <description>1.5</description>
     </item>
   </channel>
 </rss>
