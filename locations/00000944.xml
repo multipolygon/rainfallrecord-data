@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000944.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Oct 2022 06:58:11 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Oct 2022 06:58:11 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Nov 2022 09:44:27 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Nov 2022 09:44:27 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Tenningering Creek</title>
     <link>http://api.rainfallrecord.app/locations/00000944.xml</link>
@@ -75,6 +75,14 @@
     <item>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
       <description>62.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 3 Nov 2022 00:00:00 +0000</pubDate>
+      <description>20.0</description>
     </item>
   </channel>
 </rss>
