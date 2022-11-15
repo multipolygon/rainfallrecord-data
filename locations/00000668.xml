@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000668.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Nov 2022 06:54:58 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Nov 2022 06:54:58 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2022 21:50:32 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2022 21:50:32 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Taylor St</title>
     <link>http://api.rainfallrecord.app/locations/00000668.xml</link>
@@ -2351,6 +2351,10 @@
     <item>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       <description>25.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <description>11.0</description>
     </item>
   </channel>
 </rss>
