@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00001127.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 19 Nov 2022 04:02:10 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2022 04:02:10 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Finniss Rain</title>
+    <link>http://api.rainfallrecord.app/locations/00001127.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      <description>68.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <description>15.0</description>
+    </item>
+  </channel>
+</rss>
