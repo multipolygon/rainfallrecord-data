@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001079.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Nov 2022 06:04:35 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Nov 2022 06:04:35 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Nov 2022 06:13:10 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Nov 2022 06:13:10 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Glenwood</title>
     <link>http://api.rainfallrecord.app/locations/00001079.xml</link>
@@ -111,6 +111,14 @@
     <item>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <description>2.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <description>15.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>
