@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000928.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Nov 2022 08:00:06 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Nov 2022 08:00:06 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Nov 2022 21:34:20 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2022 21:34:20 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Breakwater</title>
     <link>http://api.rainfallrecord.app/locations/00000928.xml</link>
@@ -1675,6 +1675,10 @@
     <item>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       <description>7.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <description>7.0</description>
     </item>
   </channel>
 </rss>
