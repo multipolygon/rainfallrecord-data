@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001119.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Dec 2022 07:45:46 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Dec 2022 07:45:46 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2022 10:03:19 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2022 10:03:19 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>jerrypurvis</title>
     <link>http://api.rainfallrecord.app/locations/00001119.xml</link>
@@ -131,6 +131,18 @@
     <item>
       <pubDate>Thu, 1 Dec 2022 00:00:00 +0000</pubDate>
       <description>2.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 2 Dec 2022 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 3 Dec 2022 00:00:00 +0000</pubDate>
+      <description>0.1</description>
+    </item>
+    <item>
+      <pubDate>Sun, 4 Dec 2022 00:00:00 +0000</pubDate>
+      <description>2.9</description>
     </item>
   </channel>
 </rss>
