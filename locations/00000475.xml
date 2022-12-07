@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000475.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Nov 2022 18:47:49 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Nov 2022 18:47:49 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Dec 2022 09:00:54 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Dec 2022 09:00:54 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Lynsdale Park</title>
     <link>http://api.rainfallrecord.app/locations/00000475.xml</link>
@@ -2683,6 +2683,10 @@
     <item>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 4 Dec 2022 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
