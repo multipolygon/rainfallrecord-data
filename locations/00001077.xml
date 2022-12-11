@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001077.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Dec 2022 09:32:26 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Dec 2022 09:32:26 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Dec 2022 02:27:56 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Dec 2022 02:27:56 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kanagala_WMS</title>
     <link>http://api.rainfallrecord.app/locations/00001077.xml</link>
@@ -771,6 +771,14 @@
     <item>
       <pubDate>Fri, 9 Dec 2022 00:00:00 +0000</pubDate>
       <description>3.81</description>
+    </item>
+    <item>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <description>36.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <description>7.9</description>
     </item>
   </channel>
 </rss>
