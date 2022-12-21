@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000950.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Dec 2022 05:04:18 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2022 05:04:18 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Dec 2022 06:39:10 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2022 06:39:10 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>heidelberg</title>
     <link>http://api.rainfallrecord.app/locations/00000950.xml</link>
@@ -471,6 +471,10 @@
     <item>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
