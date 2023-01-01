@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000743.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Dec 2022 15:34:31 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2022 15:34:31 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Dec 2022 19:10:52 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Dec 2022 19:10:52 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Millpool</title>
     <link>http://api.rainfallrecord.app/locations/00000743.xml</link>
@@ -3467,6 +3467,18 @@
     <item>
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <description>0.3</description>
+    </item>
+    <item>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <description>0.85</description>
+    </item>
+    <item>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <description>0.55</description>
     </item>
   </channel>
 </rss>

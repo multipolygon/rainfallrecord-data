@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000827.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Dec 2022 10:21:35 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Dec 2022 10:21:35 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Dec 2022 13:19:47 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Dec 2022 13:19:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Schildpadkuil</title>
     <link>http://api.rainfallrecord.app/locations/00000827.xml</link>
@@ -607,6 +607,10 @@
     <item>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       <description>38.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <description>12.0</description>
     </item>
   </channel>
 </rss>
