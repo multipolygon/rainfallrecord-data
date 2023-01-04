@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000951.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Jan 2023 14:47:22 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Jan 2023 14:47:22 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2023 04:21:24 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2023 04:21:24 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hermansburg </title>
     <link>http://api.rainfallrecord.app/locations/00000951.xml</link>
@@ -379,6 +379,10 @@
     <item>
       <pubDate>Sun, 1 Jan 2023 00:00:00 +0000</pubDate>
       <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 4 Jan 2023 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
