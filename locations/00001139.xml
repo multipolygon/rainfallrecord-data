@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001139.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Jan 2023 23:58:53 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Jan 2023 23:58:53 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Jan 2023 00:46:55 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2023 00:46:55 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Watsonville</title>
     <link>http://api.rainfallrecord.app/locations/00001139.xml</link>
@@ -11,6 +11,18 @@
     <item>
       <pubDate>Sun, 1 Jan 2023 00:00:00 +0000</pubDate>
       <description>83.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 2 Jan 2023 00:00:00 +0000</pubDate>
+      <description>46.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 3 Jan 2023 00:00:00 +0000</pubDate>
+      <description>35.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 4 Jan 2023 00:00:00 +0000</pubDate>
+      <description>33.0</description>
     </item>
   </channel>
 </rss>
