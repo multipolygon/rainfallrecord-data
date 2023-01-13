@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001132.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jan 2023 04:10:53 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Jan 2023 04:10:53 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Jan 2023 20:30:15 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Jan 2023 20:30:15 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Ulamdale</title>
     <link>http://api.rainfallrecord.app/locations/00001132.xml</link>
@@ -2873,6 +2873,10 @@
       <description>4.0</description>
     </item>
     <item>
+      <pubDate>Tue, 25 Mar 2014 00:00:00 +0000</pubDate>
+      <description>74.0</description>
+    </item>
+    <item>
       <pubDate>Fri, 2 Jan 2015 00:00:00 +0000</pubDate>
       <description>30.0</description>
     </item>
@@ -4167,6 +4171,10 @@
     <item>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
