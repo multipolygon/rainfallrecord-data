@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001140.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Jan 2023 23:23:02 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2023 23:23:02 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2023 00:59:58 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2023 00:59:58 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Coomalie </title>
     <link>http://api.rainfallrecord.app/locations/00001140.xml</link>
@@ -475,6 +475,10 @@
     <item>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       <description>72.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
