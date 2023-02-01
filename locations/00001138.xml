@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001138.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jan 2023 21:14:21 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Jan 2023 21:14:21 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Feb 2023 01:28:47 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2023 01:28:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Nanyetta Park</title>
     <link>http://api.rainfallrecord.app/locations/00001138.xml</link>
@@ -151,6 +151,10 @@
     <item>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       <description>105.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <description>12.0</description>
     </item>
   </channel>
 </rss>
