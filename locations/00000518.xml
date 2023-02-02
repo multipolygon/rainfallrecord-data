@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000518.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jan 2023 23:15:21 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Jan 2023 23:15:21 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Feb 2023 21:31:36 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2023 21:31:36 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Debbie's rain gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000518.xml</link>
@@ -7507,6 +7507,14 @@
     <item>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      <description>8.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 1 Feb 2023 00:00:00 +0000</pubDate>
+      <description>12.6</description>
     </item>
   </channel>
 </rss>
