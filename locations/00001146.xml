@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001146.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Feb 2023 01:01:12 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2023 01:01:12 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2023 22:31:00 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2023 22:31:00 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Westcourt </title>
     <link>http://api.rainfallrecord.app/locations/00001146.xml</link>
@@ -1807,6 +1807,10 @@
     <item>
       <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
       <description>40.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
