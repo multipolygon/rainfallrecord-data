@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001030.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2023 22:53:19 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2023 22:53:19 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2023 04:36:07 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2023 04:36:07 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Gov Gauge</title>
     <link>http://api.rainfallrecord.app/locations/00001030.xml</link>
@@ -447,6 +447,10 @@
     <item>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       <description>7.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Mar 2023 00:00:00 +0000</pubDate>
+      <description>6.4</description>
     </item>
   </channel>
 </rss>

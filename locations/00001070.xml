@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001070.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Mar 2023 20:52:35 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Mar 2023 20:52:35 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Mar 2023 18:57:00 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Mar 2023 18:57:00 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Braeburn</title>
     <link>http://api.rainfallrecord.app/locations/00001070.xml</link>
@@ -399,6 +399,10 @@
     <item>
       <pubDate>Sat, 4 Mar 2023 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Mar 2023 00:00:00 +0000</pubDate>
+      <description>21.5</description>
     </item>
   </channel>
 </rss>
