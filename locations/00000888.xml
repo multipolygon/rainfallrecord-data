@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000888.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jan 2023 21:11:33 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Jan 2023 21:11:33 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Mar 2023 19:49:38 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Mar 2023 19:49:38 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Carpendale</title>
     <link>http://api.rainfallrecord.app/locations/00000888.xml</link>
@@ -271,6 +271,10 @@
     <item>
       <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
       <description>14.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <description>5.0</description>
     </item>
   </channel>
 </rss>
