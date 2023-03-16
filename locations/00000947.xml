@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000947.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Mar 2023 11:43:41 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2023 11:43:41 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Mar 2023 20:30:15 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Mar 2023 20:30:15 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>St Kilda</title>
     <link>http://api.rainfallrecord.app/locations/00000947.xml</link>
@@ -295,6 +295,10 @@
     <item>
       <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
       <description>17.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <description>11.0</description>
     </item>
   </channel>
 </rss>
