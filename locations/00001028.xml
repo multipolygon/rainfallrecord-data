@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001028.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Mar 2023 09:47:57 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Mar 2023 09:47:57 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2023 10:50:44 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2023 10:50:44 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Oswestry</title>
     <link>http://api.rainfallrecord.app/locations/00001028.xml</link>
@@ -3987,6 +3987,10 @@
     <item>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <description>7.0</description>
     </item>
   </channel>
 </rss>
