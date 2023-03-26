@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001128.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Mar 2023 06:07:11 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Mar 2023 06:07:11 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Mar 2023 06:07:27 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Mar 2023 06:07:27 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Lubango</title>
     <link>http://api.rainfallrecord.app/locations/00001128.xml</link>
@@ -203,6 +203,14 @@
     <item>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <description>42.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>
