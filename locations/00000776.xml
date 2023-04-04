@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000776.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Mar 2023 06:17:09 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2023 06:17:09 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2023 07:02:56 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2023 07:02:56 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Theo Coetzee</title>
     <link>http://api.rainfallrecord.app/locations/00000776.xml</link>
@@ -775,6 +775,14 @@
     <item>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 Apr 2023 00:00:00 +0000</pubDate>
+      <description>11.0</description>
     </item>
   </channel>
 </rss>
