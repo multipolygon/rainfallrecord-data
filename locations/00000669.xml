@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000669.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Apr 2023 05:53:19 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Apr 2023 05:53:19 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Apr 2023 12:02:01 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Apr 2023 12:02:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Taylor St (Auto)</title>
     <link>http://api.rainfallrecord.app/locations/00000669.xml</link>
@@ -2698,7 +2698,11 @@
     </item>
     <item>
       <pubDate>Sat, 8 Apr 2023 00:00:00 +0000</pubDate>
-      <description>1.8</description>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 9 Apr 2023 00:00:00 +0000</pubDate>
+      <description>2.7</description>
     </item>
   </channel>
 </rss>
