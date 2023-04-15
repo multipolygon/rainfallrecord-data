@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000994.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Apr 2023 00:16:31 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Apr 2023 00:16:31 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Apr 2023 07:39:01 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Apr 2023 07:39:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Havenlea Korumburra</title>
     <link>http://api.rainfallrecord.app/locations/00000994.xml</link>
@@ -187,6 +187,10 @@
     <item>
       <pubDate>Sun, 2 Apr 2023 00:00:00 +0000</pubDate>
       <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <description>24.0</description>
     </item>
   </channel>
 </rss>
