@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001158.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Mar 2023 21:00:03 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Mar 2023 21:00:03 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Apr 2023 04:46:20 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Apr 2023 04:46:20 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Yuruga</title>
     <link>http://api.rainfallrecord.app/locations/00001158.xml</link>
@@ -159,6 +159,10 @@
     <item>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
       <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>

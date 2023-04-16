@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001162.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Mar 2023 20:58:25 +0000</pubDate>
-    <lastBuildDate>Wed, 15 Mar 2023 20:58:25 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Apr 2023 04:45:27 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Apr 2023 04:45:27 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Pelican Dam</title>
     <link>http://api.rainfallrecord.app/locations/00001162.xml</link>
@@ -39,6 +39,10 @@
     <item>
       <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      <description>8.5</description>
     </item>
   </channel>
 </rss>
