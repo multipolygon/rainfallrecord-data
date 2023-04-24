@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000652.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Apr 2023 23:40:33 +0000</pubDate>
-    <lastBuildDate>Sat, 22 Apr 2023 23:40:33 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Apr 2023 22:10:44 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Apr 2023 22:10:44 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Awatahi</title>
     <link>http://api.rainfallrecord.app/locations/00000652.xml</link>
@@ -5181,6 +5181,10 @@
       <description>12.0</description>
     </item>
     <item>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       <description>10.0</description>
     </item>
@@ -5195,6 +5199,10 @@
     <item>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <description>5.0</description>
     </item>
   </channel>
 </rss>
