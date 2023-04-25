@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000748.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Apr 2023 22:54:52 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Apr 2023 22:54:52 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Apr 2023 05:09:28 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Apr 2023 05:09:28 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>bolgart west</title>
     <link>http://api.rainfallrecord.app/locations/00000748.xml</link>
@@ -595,6 +595,10 @@
     <item>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
