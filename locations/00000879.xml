@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000879.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Apr 2023 02:28:01 +0000</pubDate>
-    <lastBuildDate>Wed, 26 Apr 2023 02:28:01 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Apr 2023 23:22:14 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Apr 2023 23:22:14 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Coominya</title>
     <link>http://api.rainfallrecord.app/locations/00000879.xml</link>
@@ -667,6 +667,10 @@
     <item>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <description>4.2</description>
     </item>
   </channel>
 </rss>
