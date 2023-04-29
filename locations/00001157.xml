@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001157.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Apr 2023 04:44:16 +0000</pubDate>
-    <lastBuildDate>Sun, 16 Apr 2023 04:44:16 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Apr 2023 06:15:50 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Apr 2023 06:15:50 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Withywine</title>
     <link>http://api.rainfallrecord.app/locations/00001157.xml</link>
@@ -43,6 +43,10 @@
     <item>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       <description>8.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <description>7.0</description>
     </item>
   </channel>
 </rss>
