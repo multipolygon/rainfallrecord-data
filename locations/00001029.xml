@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001029.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 May 2023 21:12:57 +0000</pubDate>
-    <lastBuildDate>Wed, 03 May 2023 21:12:57 +0000</lastBuildDate>
+    <pubDate>Fri, 05 May 2023 00:29:45 +0000</pubDate>
+    <lastBuildDate>Fri, 05 May 2023 00:29:45 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Home</title>
     <link>http://api.rainfallrecord.app/locations/00001029.xml</link>
@@ -815,6 +815,10 @@
     <item>
       <pubDate>Wed, 3 May 2023 00:00:00 +0000</pubDate>
       <description>33.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 May 2023 00:00:00 +0000</pubDate>
+      <description>28.0</description>
     </item>
   </channel>
 </rss>
