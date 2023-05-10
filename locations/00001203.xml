@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001203.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 May 2023 00:33:36 +0000</pubDate>
-    <lastBuildDate>Mon, 08 May 2023 00:33:36 +0000</lastBuildDate>
+    <pubDate>Wed, 10 May 2023 02:27:58 +0000</pubDate>
+    <lastBuildDate>Wed, 10 May 2023 02:27:58 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Ashbourne</title>
     <link>http://api.rainfallrecord.app/locations/00001203.xml</link>
@@ -1977,8 +1977,16 @@
       <description>4.0</description>
     </item>
     <item>
+      <pubDate>Sat, 6 May 2023 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
       <pubDate>Mon, 8 May 2023 00:00:00 +0000</pubDate>
       <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <description>3.5</description>
     </item>
   </channel>
 </rss>
