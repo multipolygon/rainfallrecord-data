@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001207.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Jun 2023 04:49:58 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Jun 2023 04:49:58 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jun 2023 07:18:34 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Jun 2023 07:18:34 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Elgin</title>
     <link>http://api.rainfallrecord.app/locations/00001207.xml</link>
@@ -155,6 +155,10 @@
     <item>
       <pubDate>Thu, 1 Jun 2023 00:00:00 +0000</pubDate>
       <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 3 Jun 2023 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>
