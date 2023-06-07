@@ -1,14 +1,20 @@
 {
   "id": 1250,
   "created_at": "2023-06-01 19:30:58 UTC",
-  "updated_at": "2023-06-01 19:31:37 UTC",
-  "last_record_at": null,
+  "updated_at": "2023-06-07 08:30:56 UTC",
+  "last_record_at": "2023-06-06 00:00:00 UTC",
   "title": "Kavuru",
   "town_suburb": "Guntur",
   "country": "India",
   "latitude": 16.034,
   "longitude": 80.657,
-  "precipitation": null,
+  "precipitation": {
+    "2023": {
+      "6": {
+        "6": 5.0
+      }
+    }
+  },
   "temperatureMin": null,
   "temperatureMax": null
 }

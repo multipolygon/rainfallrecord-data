@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001248.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Jun 2023 00:47:50 +0000</pubDate>
-    <lastBuildDate>Sat, 03 Jun 2023 00:47:50 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Jun 2023 14:03:08 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Jun 2023 14:03:08 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kasson, MN, USA</title>
     <link>http://api.rainfallrecord.app/locations/00001248.xml</link>
@@ -115,6 +115,18 @@
     <item>
       <pubDate>Fri, 2 Jun 2023 00:00:00 +0000</pubDate>
       <description>0.1</description>
+    </item>
+    <item>
+      <pubDate>Sat, 3 Jun 2023 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 4 Jun 2023 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 5 Jun 2023 00:00:00 +0000</pubDate>
+      <description>0.0</description>
     </item>
   </channel>
 </rss>
