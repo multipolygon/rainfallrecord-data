@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000712.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Jun 2023 19:39:36 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Jun 2023 19:39:36 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 12:14:11 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2023 12:14:11 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kenton Valley</title>
     <link>http://api.rainfallrecord.app/locations/00000712.xml</link>
@@ -1395,6 +1395,10 @@
     <item>
       <pubDate>Thu, 8 Jun 2023 00:00:00 +0000</pubDate>
       <description>19.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 9 Jun 2023 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
