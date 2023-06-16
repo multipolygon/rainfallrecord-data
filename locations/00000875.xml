@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000875.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Jun 2023 04:22:53 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Jun 2023 04:22:53 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2023 02:15:45 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2023 02:15:45 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Turrama Max’s Block</title>
     <link>http://api.rainfallrecord.app/locations/00000875.xml</link>
@@ -667,6 +667,10 @@
     <item>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       <description>0.75</description>
+    </item>
+    <item>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <description>0.5</description>
     </item>
   </channel>
 </rss>
