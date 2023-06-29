@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000445.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Jun 2023 22:12:15 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Jun 2023 22:12:15 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2023 13:04:53 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2023 13:04:53 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Limbrick's gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000445.xml</link>
@@ -2663,6 +2663,10 @@
     <item>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
       <description>14.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <description>3.5</description>
     </item>
   </channel>
 </rss>
