@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001254.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Jul 2023 07:33:49 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Jul 2023 07:33:49 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Jul 2023 03:34:30 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Jul 2023 03:34:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kanagala IoT AWS</title>
     <link>http://api.rainfallrecord.app/locations/00001254.xml</link>
@@ -135,6 +135,14 @@
     <item>
       <pubDate>Sun, 2 Jul 2023 00:00:00 +0000</pubDate>
       <description>0.25</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 Jul 2023 00:00:00 +0000</pubDate>
+      <description>8.38</description>
+    </item>
+    <item>
+      <pubDate>Tue, 4 Jul 2023 00:00:00 +0000</pubDate>
+      <description>8.64</description>
     </item>
   </channel>
 </rss>

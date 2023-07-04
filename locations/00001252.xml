@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001252.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jun 2023 18:55:57 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Jun 2023 18:55:57 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Jul 2023 03:27:54 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Jul 2023 03:27:54 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kuchinapudi</title>
     <link>http://api.rainfallrecord.app/locations/00001252.xml</link>
@@ -111,6 +111,18 @@
     <item>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
       <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 Jul 2023 00:00:00 +0000</pubDate>
+      <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 2 Jul 2023 00:00:00 +0000</pubDate>
+      <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 Jul 2023 00:00:00 +0000</pubDate>
+      <description>87.25</description>
     </item>
   </channel>
 </rss>

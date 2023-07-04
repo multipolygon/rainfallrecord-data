@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001035.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 May 2023 20:21:31 +0000</pubDate>
-    <lastBuildDate>Mon, 01 May 2023 20:21:31 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jul 2023 20:37:21 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2023 20:37:21 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>RAAF Townsville</title>
     <link>http://api.rainfallrecord.app/locations/00001035.xml</link>
@@ -471,6 +471,10 @@
     <item>
       <pubDate>Tue, 2 May 2023 00:00:00 +0000</pubDate>
       <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 4 Jul 2023 00:00:00 +0000</pubDate>
+      <description>44.0</description>
     </item>
   </channel>
 </rss>
