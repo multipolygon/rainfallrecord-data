@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000936.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Jun 2023 23:13:50 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Jun 2023 23:13:50 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Jul 2023 20:23:25 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Jul 2023 20:23:25 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Skywatch - Reedy Creek</title>
     <link>http://api.rainfallrecord.app/locations/00000936.xml</link>
@@ -1423,6 +1423,14 @@
     <item>
       <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 4 Jul 2023 00:00:00 +0000</pubDate>
+      <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 5 Jul 2023 00:00:00 +0000</pubDate>
+      <description>23.0</description>
     </item>
   </channel>
 </rss>
