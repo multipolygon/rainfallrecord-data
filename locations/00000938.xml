@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000938.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jun 2023 04:25:13 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Jun 2023 04:25:13 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jul 2023 12:54:22 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jul 2023 12:54:22 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Pumpherston Golf Club</title>
     <link>http://api.rainfallrecord.app/locations/00000938.xml</link>
@@ -1741,6 +1741,10 @@
       <description>2.0</description>
     </item>
     <item>
+      <pubDate>Fri, 2 Jun 2023 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
       <description>1.0</description>
     </item>
@@ -1771,6 +1775,26 @@
     <item>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
       <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 Jul 2023 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 4 Jul 2023 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>
