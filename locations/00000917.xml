@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000917.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Jul 2023 13:44:14 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Jul 2023 13:44:14 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Jul 2023 01:31:08 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Jul 2023 01:31:08 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Dudleys Block</title>
     <link>http://api.rainfallrecord.app/locations/00000917.xml</link>
@@ -463,6 +463,10 @@
     <item>
       <pubDate>Wed, 5 Jul 2023 00:00:00 +0000</pubDate>
       <description>0.75</description>
+    </item>
+    <item>
+      <pubDate>Sat, 8 Jul 2023 00:00:00 +0000</pubDate>
+      <description>0.5</description>
     </item>
   </channel>
 </rss>
