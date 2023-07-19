@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001118.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Jul 2023 02:22:51 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Jul 2023 02:22:51 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Jul 2023 02:37:33 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Jul 2023 02:37:33 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Barragup</title>
     <link>http://api.rainfallrecord.app/locations/00001118.xml</link>
@@ -319,6 +319,10 @@
     <item>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <description>18.25</description>
     </item>
   </channel>
 </rss>
