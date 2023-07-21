@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001257.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jul 2023 22:04:24 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Jul 2023 22:04:24 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2023 21:26:19 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 21:26:19 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>One Oak House</title>
     <link>http://api.rainfallrecord.app/locations/00001257.xml</link>
@@ -19,6 +19,10 @@
     <item>
       <pubDate>Thu, 6 Jul 2023 00:00:00 +0000</pubDate>
       <description>16.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <description>4.5</description>
     </item>
   </channel>
 </rss>
