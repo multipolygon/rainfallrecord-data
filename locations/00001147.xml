@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001147.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Aug 2023 09:11:00 +0000</pubDate>
-    <lastBuildDate>Sat, 05 Aug 2023 09:11:00 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Aug 2023 06:32:59 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Aug 2023 06:32:59 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Nacton </title>
     <link>http://api.rainfallrecord.app/locations/00001147.xml</link>
@@ -307,6 +307,14 @@
     <item>
       <pubDate>Fri, 4 Aug 2023 00:00:00 +0000</pubDate>
       <description>23.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 5 Aug 2023 00:00:00 +0000</pubDate>
+      <description>39.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 6 Aug 2023 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
