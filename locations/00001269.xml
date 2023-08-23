@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001269.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Aug 2023 23:17:17 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Aug 2023 23:17:17 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2023 21:11:23 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2023 21:11:23 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Wanurp - Records are in points not mm!</title>
     <link>http://api.rainfallrecord.app/locations/00001269.xml</link>
@@ -1763,6 +1763,10 @@
     <item>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <description>38.0</description>
     </item>
   </channel>
 </rss>

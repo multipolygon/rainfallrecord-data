@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001251.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2023 06:19:28 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2023 06:19:28 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Aug 2023 06:51:34 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Aug 2023 06:51:34 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Mulpuru</title>
     <link>http://api.rainfallrecord.app/locations/00001251.xml</link>
@@ -219,6 +219,10 @@
     <item>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <description>4.5</description>
     </item>
   </channel>
 </rss>
