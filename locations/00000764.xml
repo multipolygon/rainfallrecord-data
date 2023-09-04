@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000764.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Sep 2023 23:59:06 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Sep 2023 23:59:06 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Sep 2023 22:20:54 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Sep 2023 22:20:54 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Butler</title>
     <link>http://api.rainfallrecord.app/locations/00000764.xml</link>
@@ -1019,6 +1019,10 @@
     <item>
       <pubDate>Sun, 3 Sep 2023 00:00:00 +0000</pubDate>
       <description>17.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 4 Sep 2023 00:00:00 +0000</pubDate>
+      <description>1.5</description>
     </item>
   </channel>
 </rss>
