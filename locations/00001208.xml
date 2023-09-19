@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001208.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Sep 2023 09:11:17 +0000</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2023 09:11:17 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2023 16:34:07 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2023 16:34:07 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Mr Adrian Pickett </title>
     <link>http://api.rainfallrecord.app/locations/00001208.xml</link>
@@ -243,6 +243,10 @@
     <item>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
