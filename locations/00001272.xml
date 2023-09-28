@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001272.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Sep 2023 06:17:02 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Sep 2023 06:17:02 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Sep 2023 12:49:01 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2023 12:49:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Cappagh</title>
     <link>http://api.rainfallrecord.app/locations/00001272.xml</link>
@@ -63,6 +63,10 @@
     <item>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <description>29.0</description>
     </item>
   </channel>
 </rss>
