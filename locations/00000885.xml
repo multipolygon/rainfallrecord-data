@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000885.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Oct 2023 06:42:48 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Oct 2023 06:42:48 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Oct 2023 06:24:43 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Oct 2023 06:24:43 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Littledean Hill Weather</title>
     <link>http://api.rainfallrecord.app/locations/00000885.xml</link>
@@ -1155,6 +1155,10 @@
     <item>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <description>0.85</description>
+    </item>
+    <item>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <description>0.25</description>
     </item>
   </channel>
 </rss>
