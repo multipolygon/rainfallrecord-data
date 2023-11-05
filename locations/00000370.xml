@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000370.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Nov 2023 10:35:24 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2023 10:35:24 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Nov 2023 05:54:59 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Nov 2023 05:54:59 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Simjojims Rain Gauge</title>
     <link>http://api.rainfallrecord.app/locations/00000370.xml</link>
@@ -1847,6 +1847,14 @@
     <item>
       <pubDate>Fri, 3 Nov 2023 00:00:00 +0000</pubDate>
       <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 4 Nov 2023 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 5 Nov 2023 00:00:00 +0000</pubDate>
+      <description>9.0</description>
     </item>
   </channel>
 </rss>
