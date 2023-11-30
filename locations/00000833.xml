@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000833.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Nov 2023 03:34:21 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Nov 2023 03:34:21 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Nov 2023 14:54:01 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 14:54:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Ruretse Rain</title>
     <link>http://api.rainfallrecord.app/locations/00000833.xml</link>
@@ -587,6 +587,10 @@
     <item>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <description>4.5</description>
     </item>
   </channel>
 </rss>
