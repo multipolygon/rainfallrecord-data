@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000152.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Dec 2023 01:02:16 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2023 01:02:16 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 21:15:53 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 21:15:53 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kerlie Park</title>
     <link>http://api.rainfallrecord.app/locations/00000152.xml</link>
@@ -40597,6 +40597,10 @@
       <description>0.75</description>
     </item>
     <item>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <description>0.25</description>
+    </item>
+    <item>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       <description>0.5</description>
     </item>
@@ -40626,7 +40630,7 @@
     </item>
     <item>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <description>1.5</description>
+      <description>1.25</description>
     </item>
     <item>
       <pubDate>Fri, 1 Dec 2023 00:00:00 +0000</pubDate>
@@ -40647,6 +40651,10 @@
     <item>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <description>0.25</description>
     </item>
   </channel>
 </rss>
