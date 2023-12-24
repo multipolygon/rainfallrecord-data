@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001167.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Dec 2023 20:35:52 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Dec 2023 20:35:52 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 21:20:29 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 21:20:29 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Matildadale</title>
     <link>http://api.rainfallrecord.app/locations/00001167.xml</link>
@@ -159,6 +159,14 @@
     <item>
       <pubDate>Sat, 2 Dec 2023 00:00:00 +0000</pubDate>
       <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+      <description>23.0</description>
     </item>
   </channel>
 </rss>
