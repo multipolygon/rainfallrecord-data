@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001135.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Dec 2023 10:27:16 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Dec 2023 10:27:16 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2023 06:42:26 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2023 06:42:26 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Elimbah</title>
     <link>http://api.rainfallrecord.app/locations/00001135.xml</link>
@@ -591,6 +591,10 @@
     <item>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
       <description>25.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <description>20.0</description>
     </item>
   </channel>
 </rss>

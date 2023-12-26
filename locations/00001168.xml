@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001168.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Dec 2023 05:33:04 +0000</pubDate>
-    <lastBuildDate>Sat, 16 Dec 2023 05:33:04 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2023 03:47:58 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2023 03:47:58 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Corrie</title>
     <link>http://api.rainfallrecord.app/locations/00001168.xml</link>
@@ -219,6 +219,10 @@
     <item>
       <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <description>24.0</description>
     </item>
   </channel>
 </rss>
