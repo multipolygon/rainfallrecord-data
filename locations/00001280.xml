@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001280.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Dec 2023 07:25:13 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2023 07:25:13 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Dec 2023 00:28:17 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:28:17 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Melliodora</title>
     <link>http://api.rainfallrecord.app/locations/00001280.xml</link>
@@ -163,6 +163,14 @@
     <item>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
       <description>46.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <description>17.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      <description>4.0</description>
     </item>
   </channel>
 </rss>
