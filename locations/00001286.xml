@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://api.rainfallrecord.app/locations/00001286.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Jan 2024 20:28:26 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 20:28:26 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Dayboro</title>
+    <link>http://api.rainfallrecord.app/locations/00001286.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Mon, 1 Jan 2024 00:00:00 +0000</pubDate>
+      <description>55.0</description>
+    </item>
+  </channel>
+</rss>
