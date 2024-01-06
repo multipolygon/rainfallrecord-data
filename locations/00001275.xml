@@ -2,12 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00001275.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Jan 2024 05:04:14 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Jan 2024 05:04:14 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2024 17:02:29 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2024 17:02:29 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Vlakpan</title>
     <link>http://api.rainfallrecord.app/locations/00001275.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sun, 8 Oct 2023 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
     <item>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       <description>5.0</description>
@@ -35,6 +39,10 @@
     <item>
       <pubDate>Mon, 1 Jan 2024 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Jan 2024 00:00:00 +0000</pubDate>
+      <description>28.0</description>
     </item>
   </channel>
 </rss>
