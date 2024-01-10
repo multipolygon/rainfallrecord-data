@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000887.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Dec 2023 21:03:17 +0000</pubDate>
-    <lastBuildDate>Sat, 30 Dec 2023 21:03:17 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2024 19:47:30 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2024 19:47:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Eastvale</title>
     <link>http://api.rainfallrecord.app/locations/00000887.xml</link>
@@ -1063,6 +1063,14 @@
     <item>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <description>18.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 9 Jan 2024 00:00:00 +0000</pubDate>
+      <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <description>14.0</description>
     </item>
   </channel>
 </rss>
