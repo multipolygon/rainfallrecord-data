@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="http://api.rainfallrecord.app/locations/00000874.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Feb 2024 01:04:59 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Feb 2024 01:04:59 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Feb 2024 09:02:04 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Feb 2024 09:02:04 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Turrama Pingaring</title>
     <link>http://api.rainfallrecord.app/locations/00000874.xml</link>
@@ -1167,6 +1167,14 @@
     <item>
       <pubDate>Sun, 4 Feb 2024 00:00:00 +0000</pubDate>
       <description>1.25</description>
+    </item>
+    <item>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <description>14.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <description>7.0</description>
     </item>
   </channel>
 </rss>
