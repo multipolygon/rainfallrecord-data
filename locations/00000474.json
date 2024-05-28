@@ -1,26 +1,23 @@
 {
   "id": 474,
-  "created_at": "2016-01-04T21:15:12.791Z",
-  "updated_at": "2016-01-04T21:15:12.791Z",
+  "created_at": "2016-01-04 21:15:12 UTC",
+  "updated_at": "2016-01-04 21:15:12 UTC",
+  "last_record_at": "2016-01-05 00:00:00 UTC",
   "title": "Mr",
-  "street_address": "Cullen Crescent",
   "town_suburb": "Kangaroo Valley",
-  "region": "NSW",
   "country": null,
   "latitude": -34.73,
   "longitude": 150.523,
   "precipitation": {
     "2016": {
       "1": {
-        "5": 19.0,
-        "4": 9.5
+        "4": 9.5,
+        "5": 19.0
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

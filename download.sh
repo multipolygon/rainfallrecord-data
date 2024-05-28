@@ -21,5 +21,5 @@ do
     curl -o "locations/$id.xml" "$HOST/locations/$id.xml" $OPT --header "$HEADER"
 done < recent.txt
 
-echo "Diff:"
-git diff --name-only
+# echo "Diff:"
+# git diff --name-only

@@ -1,28 +1,25 @@
 {
   "id": 582,
-  "created_at": "2016-10-19T11:03:20.289Z",
-  "updated_at": "2016-10-19T11:03:20.289Z",
+  "created_at": "2016-10-19 11:03:20 UTC",
+  "updated_at": "2016-10-19 11:03:20 UTC",
+  "last_record_at": "2016-11-19 00:00:00 UTC",
   "title": "hg2",
-  "street_address": "",
   "town_suburb": "northrand",
-  "region": "",
   "country": "sa",
   "latitude": null,
   "longitude": null,
   "precipitation": {
     "2016": {
-      "11": {
-        "19": 2016.0
-      },
       "10": {
         "19": 14.0
+      },
+      "11": {
+        "19": 2016.0
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

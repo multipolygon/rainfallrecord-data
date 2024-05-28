@@ -1,28 +1,25 @@
 {
   "id": 552,
-  "created_at": "2016-05-20T00:27:36.234Z",
-  "updated_at": "2016-05-20T00:27:36.234Z",
+  "created_at": "2016-05-20 00:27:36 UTC",
+  "updated_at": "2016-05-20 00:27:36 UTC",
+  "last_record_at": "2016-06-24 00:00:00 UTC",
   "title": "Vasse",
-  "street_address": "rendezvous",
   "town_suburb": "Vasse",
-  "region": "WA",
   "country": "Australia",
   "latitude": null,
   "longitude": null,
   "precipitation": {
     "2016": {
-      "6": {
-        "24": 35.0
-      },
       "5": {
         "29": 0.0
+      },
+      "6": {
+        "24": 35.0
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

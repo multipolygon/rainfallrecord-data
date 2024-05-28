@@ -1,31 +1,28 @@
 {
   "id": 27,
-  "created_at": "2010-01-07T16:26:35.000Z",
-  "updated_at": "2010-01-07T16:26:35.000Z",
+  "created_at": "2010-01-07 16:26:35 UTC",
+  "updated_at": "2010-01-07 16:26:35 UTC",
+  "last_record_at": "2010-01-07 00:00:00 UTC",
   "title": "Wallarobba",
-  "street_address": "",
   "town_suburb": "",
-  "region": "",
   "country": null,
   "latitude": null,
   "longitude": null,
   "precipitation": {
     "2010": {
       "1": {
-        "7": 20.5,
-        "6": 5.0,
-        "5": 2.0,
-        "4": 8.0,
-        "3": 41.0,
+        "1": 13.0,
         "2": 5.0,
-        "1": 13.0
+        "3": 41.0,
+        "4": 8.0,
+        "5": 2.0,
+        "6": 5.0,
+        "7": 20.5
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

@@ -1,33 +1,30 @@
 {
   "id": 719,
-  "created_at": "2020-02-10T02:26:54.880Z",
-  "updated_at": "2020-02-10T02:26:54.880Z",
+  "created_at": "2020-02-10 02:26:54 UTC",
+  "updated_at": "2020-02-10 02:26:54 UTC",
+  "last_record_at": "2020-02-12 00:00:00 UTC",
   "title": "Manager",
-  "street_address": "80 Whittakers Lane",
   "town_suburb": "Riddells Creek",
-  "region": "VIC",
   "country": "Australia",
   "latitude": null,
   "longitude": null,
   "precipitation": {
     "2020": {
-      "2": {
-        "12": 1.5,
-        "9": 2.0,
-        "5": 1.0
-      },
       "1": {
-        "31": 1.5,
-        "29": 30.0,
+        "25": 13.0,
         "27": 8.0,
-        "25": 13.0
+        "29": 30.0,
+        "31": 1.5
+      },
+      "2": {
+        "5": 1.0,
+        "9": 2.0,
+        "12": 1.5
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

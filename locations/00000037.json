@@ -1,26 +1,23 @@
 {
   "id": 37,
-  "created_at": "2010-01-30T13:18:29.000Z",
-  "updated_at": "2010-01-30T13:18:29.000Z",
+  "created_at": "2010-01-30 13:18:29 UTC",
+  "updated_at": "2010-01-30 13:18:29 UTC",
+  "last_record_at": "2010-01-30 00:00:00 UTC",
   "title": "farm",
-  "street_address": "",
   "town_suburb": "",
-  "region": "",
   "country": null,
   "latitude": null,
   "longitude": null,
   "precipitation": {
     "2010": {
       "1": {
-        "30": 2.0,
-        "15": 1.0
+        "15": 1.0,
+        "30": 2.0
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

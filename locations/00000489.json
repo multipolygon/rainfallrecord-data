@@ -1,27 +1,24 @@
 {
   "id": 489,
-  "created_at": "2016-01-06T05:27:50.841Z",
-  "updated_at": "2016-01-06T05:27:50.841Z",
+  "created_at": "2016-01-06 05:27:50 UTC",
+  "updated_at": "2016-01-06 05:27:50 UTC",
+  "last_record_at": "2016-01-05 00:00:00 UTC",
   "title": "Ted and Alf Rainfall record",
-  "street_address": "10 wellington strett",
   "town_suburb": "Stuart Town",
-  "region": "NSW",
   "country": null,
   "latitude": -32.805,
   "longitude": 149.082,
   "precipitation": {
     "2016": {
       "1": {
-        "5": 8.0,
+        "3": 2.0,
         "4": 3.5,
-        "3": 2.0
+        "5": 8.0
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

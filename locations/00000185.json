@@ -1,29 +1,26 @@
 {
   "id": 185,
-  "created_at": "2012-10-05T04:57:11.000Z",
-  "updated_at": "2012-10-05T04:57:11.000Z",
+  "created_at": "2012-10-05 04:57:11 UTC",
+  "updated_at": "2012-10-05 04:57:11 UTC",
+  "last_record_at": "2012-09-24 00:00:00 UTC",
   "title": "Forest Ridge Narangba",
-  "street_address": "",
   "town_suburb": "Narangba",
-  "region": "QLD",
   "country": null,
   "latitude": -27.203,
   "longitude": 152.96,
   "precipitation": {
     "2012": {
       "9": {
-        "24": 0.8,
-        "23": 0.2,
-        "21": 3.0,
+        "18": 8.0,
         "20": 0.1,
-        "18": 8.0
+        "21": 3.0,
+        "23": 0.2,
+        "24": 0.8
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

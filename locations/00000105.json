@@ -1,33 +1,30 @@
 {
   "id": 105,
-  "created_at": "2011-05-19T05:10:53.000Z",
-  "updated_at": "2011-05-19T05:10:53.000Z",
+  "created_at": "2011-05-19 05:10:53 UTC",
+  "updated_at": "2011-05-19 05:10:53 UTC",
+  "last_record_at": "2011-06-06 00:00:00 UTC",
   "title": "Turners Beach",
-  "street_address": "10 Lukin Street",
   "town_suburb": "Turners Beach",
-  "region": "TAS",
   "country": null,
   "latitude": -41.161,
   "longitude": 146.248,
   "precipitation": {
     "2011": {
-      "6": {
-        "6": 7.0,
-        "5": 13.0,
-        "3": 7.0,
-        "2": 3.0
-      },
       "5": {
-        "23": 1.0,
+        "21": 1.0,
         "22": 5.0,
-        "21": 1.0
+        "23": 1.0
+      },
+      "6": {
+        "2": 3.0,
+        "3": 7.0,
+        "5": 13.0,
+        "6": 7.0
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

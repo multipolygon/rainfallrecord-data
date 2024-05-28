@@ -1,28 +1,25 @@
 {
   "id": 324,
-  "created_at": "2014-07-12T09:37:37.000Z",
-  "updated_at": "2014-07-12T09:37:37.000Z",
+  "created_at": "2014-07-12 09:37:37 UTC",
+  "updated_at": "2014-07-12 09:37:37 UTC",
+  "last_record_at": "2014-07-13 00:00:00 UTC",
   "title": "Coniston",
-  "street_address": "",
   "town_suburb": "",
-  "region": "",
   "country": null,
   "latitude": null,
   "longitude": null,
   "precipitation": {
     "2014": {
       "7": {
-        "13": 0.5,
-        "12": 4.5,
+        "9": 4.5,
         "10": 19.5,
-        "9": 4.5
+        "12": 4.5,
+        "13": 0.5
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }

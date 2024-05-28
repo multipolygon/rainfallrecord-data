@@ -1,28 +1,25 @@
 {
   "id": 112,
-  "created_at": "2011-08-07T22:38:59.000Z",
-  "updated_at": "2011-08-07T22:38:59.000Z",
+  "created_at": "2011-08-07 22:38:59 UTC",
+  "updated_at": "2011-08-07 22:38:59 UTC",
+  "last_record_at": "2011-08-06 00:00:00 UTC",
   "title": "Hambach",
-  "street_address": "",
   "town_suburb": "",
-  "region": "",
   "country": null,
   "latitude": null,
   "longitude": null,
   "precipitation": {
     "2011": {
       "8": {
-        "6": 13.5,
-        "5": 0.9,
+        "3": 19.8,
         "4": 3.6,
-        "3": 19.8
+        "5": 0.9,
+        "6": 13.5
       }
     }
   },
   "temperatureMin": {
-
   },
   "temperatureMax": {
-
   }
 }
