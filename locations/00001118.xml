@@ -2,12 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001118.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 May 2024 02:52:41 +0000</pubDate>
-    <lastBuildDate>Wed, 29 May 2024 02:52:41 +0000</lastBuildDate>
+    <pubDate>Thu, 30 May 2024 02:41:07 +0000</pubDate>
+    <lastBuildDate>Thu, 30 May 2024 02:41:07 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Barragup</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001118.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <description>86.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <description>23.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <description>170.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      <description>152.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      <description>61.0</description>
+    </item>
     <item>
       <pubDate>Mon, 5 Sep 2022 00:00:00 +0000</pubDate>
       <description>15.0</description>
@@ -519,6 +543,10 @@
     <item>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       <description>20.75</description>
+    </item>
+    <item>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
