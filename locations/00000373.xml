@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00000373.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jan 2024 21:07:06 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Jan 2024 21:07:06 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000373.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 May 2024 22:05:29 +0000</pubDate>
+    <lastBuildDate>Thu, 30 May 2024 22:05:29 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>House gauge</title>
-    <link>http://api.rainfallrecord.app/locations/00000373.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000373.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Sun, 4 Jan 2015 00:00:00 +0000</pubDate>
@@ -2567,6 +2567,42 @@
     <item>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       <description>11.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 2 Apr 2024 00:00:00 +0000</pubDate>
+      <description>80.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 9 Apr 2024 00:00:00 +0000</pubDate>
+      <description>16.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <description>31.0</description>
     </item>
   </channel>
 </rss>

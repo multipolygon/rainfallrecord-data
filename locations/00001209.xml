@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00001209.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jan 2024 03:39:39 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2024 03:39:39 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001209.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 May 2024 21:42:46 +0000</pubDate>
+    <lastBuildDate>Thu, 30 May 2024 21:42:46 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Huonville</title>
-    <link>http://api.rainfallrecord.app/locations/00001209.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001209.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
@@ -295,6 +295,34 @@
     <item>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
       <description>8.1</description>
+    </item>
+    <item>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <description>8.9</description>
+    </item>
+    <item>
+      <pubDate>Fri, 1 Mar 2024 00:00:00 +0000</pubDate>
+      <description>2.3</description>
+    </item>
+    <item>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <description>16.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Apr 2024 00:00:00 +0000</pubDate>
+      <description>5.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <description>26.6</description>
+    </item>
+    <item>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <description>9.2</description>
     </item>
   </channel>
 </rss>
