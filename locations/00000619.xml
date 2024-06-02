@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00000619.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Feb 2024 02:45:26 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Feb 2024 02:45:26 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000619.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 01 Jun 2024 22:43:57 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2024 22:43:57 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Windy Hill</title>
-    <link>http://api.rainfallrecord.app/locations/00000619.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000619.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
@@ -2135,6 +2135,118 @@
     <item>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
       <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 2 Mar 2024 00:00:00 +0000</pubDate>
+      <description>65.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Mar 2024 00:00:00 +0000</pubDate>
+      <description>9.3</description>
+    </item>
+    <item>
+      <pubDate>Sat, 9 Mar 2024 00:00:00 +0000</pubDate>
+      <description>8.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <description>15.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <description>64.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <description>2.3</description>
+    </item>
+    <item>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <description>17.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Apr 2024 00:00:00 +0000</pubDate>
+      <description>45.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 5 Apr 2024 00:00:00 +0000</pubDate>
+      <description>77.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Apr 2024 00:00:00 +0000</pubDate>
+      <description>24.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <description>8.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <description>5.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <description>1.7</description>
+    </item>
+    <item>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 1 May 2024 00:00:00 +0000</pubDate>
+      <description>6.3</description>
+    </item>
+    <item>
+      <pubDate>Thu, 2 May 2024 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 4 May 2024 00:00:00 +0000</pubDate>
+      <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 May 2024 00:00:00 +0000</pubDate>
+      <description>30.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 7 May 2024 00:00:00 +0000</pubDate>
+      <description>12.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <description>17.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <description>1.3</description>
+    </item>
+    <item>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      <description>4.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 Jun 2024 00:00:00 +0000</pubDate>
+      <description>23.0</description>
     </item>
   </channel>
 </rss>

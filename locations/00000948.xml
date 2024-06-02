@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00000948.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Feb 2024 08:37:24 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 08:37:24 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000948.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 01 Jun 2024 23:24:14 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2024 23:24:14 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Wallaville - Currajong Ck</title>
-    <link>http://api.rainfallrecord.app/locations/00000948.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000948.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Sat, 1 Jan 2022 00:00:00 +0000</pubDate>
@@ -247,6 +247,42 @@
     <item>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       <description>25.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 7 Mar 2024 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <description>11.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 5 Apr 2024 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <description>55.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <description>30.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 8 May 2024 00:00:00 +0000</pubDate>
+      <description>16.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 2 Jun 2024 00:00:00 +0000</pubDate>
+      <description>26.0</description>
     </item>
   </channel>
 </rss>
