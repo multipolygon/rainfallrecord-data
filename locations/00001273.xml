@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00001273.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Feb 2024 00:29:40 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 00:29:40 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001273.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Jun 2024 04:02:06 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 04:02:06 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Bells At Killcare</title>
-    <link>http://api.rainfallrecord.app/locations/00001273.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001273.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
@@ -99,6 +99,90 @@
     <item>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       <description>30.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <description>16.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Apr 2024 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 5 Apr 2024 00:00:00 +0000</pubDate>
+      <description>72.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Apr 2024 00:00:00 +0000</pubDate>
+      <description>190.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <description>31.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <description>5.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <description>8.9</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <description>26.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 1 May 2024 00:00:00 +0000</pubDate>
+      <description>72.6</description>
+    </item>
+    <item>
+      <pubDate>Thu, 2 May 2024 00:00:00 +0000</pubDate>
+      <description>74.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 3 May 2024 00:00:00 +0000</pubDate>
+      <description>20.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 May 2024 00:00:00 +0000</pubDate>
+      <description>115.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 7 May 2024 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 8 May 2024 00:00:00 +0000</pubDate>
+      <description>7.6</description>
+    </item>
+    <item>
+      <pubDate>Thu, 9 May 2024 00:00:00 +0000</pubDate>
+      <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <description>51.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <description>4.6</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 Jun 2024 00:00:00 +0000</pubDate>
+      <description>89.8</description>
     </item>
   </channel>
 </rss>

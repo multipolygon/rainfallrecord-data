@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00001126.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Feb 2024 06:24:13 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Feb 2024 06:24:13 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001126.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Jun 2024 04:40:34 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 04:40:34 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Randfontein</title>
-    <link>http://api.rainfallrecord.app/locations/00001126.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001126.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Sun, 2 Jan 2022 00:00:00 +0000</pubDate>
@@ -475,6 +475,66 @@
     <item>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       <description>27.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 2 Mar 2024 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Mar 2024 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 7 Mar 2024 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Apr 2024 00:00:00 +0000</pubDate>
+      <description>17.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Apr 2024 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Apr 2024 00:00:00 +0000</pubDate>
+      <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 7 Apr 2024 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 8 Apr 2024 00:00:00 +0000</pubDate>
+      <description>67.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 2 Jun 2024 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>

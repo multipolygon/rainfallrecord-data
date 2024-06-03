@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00000754.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Feb 2024 22:46:12 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Feb 2024 22:46:12 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000754.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Jun 2024 07:14:13 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2024 07:14:13 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Berkeley Farm</title>
-    <link>http://api.rainfallrecord.app/locations/00000754.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000754.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Fri, 1 Jan 2016 00:00:00 +0000</pubDate>
@@ -2327,6 +2327,82 @@
     <item>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Mar 2024 00:00:00 +0000</pubDate>
+      <description>7.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 5 Mar 2024 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <description>20.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Apr 2024 00:00:00 +0000</pubDate>
+      <description>47.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 5 Apr 2024 00:00:00 +0000</pubDate>
+      <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Apr 2024 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 7 Apr 2024 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <description>10.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 Jun 2024 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 Jun 2024 00:00:00 +0000</pubDate>
+      <description>5.0</description>
     </item>
   </channel>
 </rss>
