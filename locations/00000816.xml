@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00000816.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Feb 2024 05:09:55 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2024 05:09:55 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000816.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Jun 2024 07:09:47 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Jun 2024 07:09:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Avoca Rd Tintinhull </title>
-    <link>http://api.rainfallrecord.app/locations/00000816.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000816.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Wed, 9 Jan 2008 00:00:00 +0000</pubDate>
@@ -2791,6 +2791,58 @@
     <item>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 2 Mar 2024 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Mar 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <description>65.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Apr 2024 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Apr 2024 00:00:00 +0000</pubDate>
+      <description>80.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <description>24.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 1 May 2024 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 5 May 2024 00:00:00 +0000</pubDate>
+      <description>17.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 May 2024 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <description>15.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 Jun 2024 00:00:00 +0000</pubDate>
+      <description>45.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 9 Jun 2024 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
