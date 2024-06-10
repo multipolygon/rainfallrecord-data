@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000764.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Jun 2024 22:35:54 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Jun 2024 22:35:54 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Jun 2024 22:24:08 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Jun 2024 22:24:08 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Butler</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000764.xml</link>
@@ -1167,6 +1167,10 @@
     <item>
       <pubDate>Sun, 9 Jun 2024 00:00:00 +0000</pubDate>
       <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <description>5.5</description>
     </item>
   </channel>
 </rss>
