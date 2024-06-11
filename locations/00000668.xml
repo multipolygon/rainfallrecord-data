@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000668.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Jun 2024 02:36:58 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Jun 2024 02:36:58 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jun 2024 05:46:21 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:46:21 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Taylor St</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000668.xml</link>
@@ -3059,6 +3059,10 @@
     <item>
       <pubDate>Sun, 2 Jun 2024 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <description>11.5</description>
     </item>
   </channel>
 </rss>

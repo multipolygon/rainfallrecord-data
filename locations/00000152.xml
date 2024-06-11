@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000152.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Jun 2024 23:39:38 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Jun 2024 23:39:38 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jun 2024 05:41:34 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:41:34 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kerlie Park</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000152.xml</link>
@@ -40907,6 +40907,10 @@
     <item>
       <pubDate>Sun, 2 Jun 2024 00:00:00 +0000</pubDate>
       <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <description>9.0</description>
     </item>
   </channel>
 </rss>
