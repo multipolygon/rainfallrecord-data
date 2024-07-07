@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001207.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jul 2024 05:45:10 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Jul 2024 05:45:10 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2024 06:30:31 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:30:31 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Elgin</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001207.xml</link>
@@ -473,6 +473,10 @@
       <description>20.0</description>
     </item>
     <item>
+      <pubDate>Thu, 7 Mar 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
       <pubDate>Fri, 8 Mar 2024 00:00:00 +0000</pubDate>
       <description>1.0</description>
     </item>
@@ -563,6 +567,10 @@
     <item>
       <pubDate>Fri, 5 Jul 2024 00:00:00 +0000</pubDate>
       <description>29.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 7 Jul 2024 00:00:00 +0000</pubDate>
+      <description>25.0</description>
     </item>
   </channel>
 </rss>
