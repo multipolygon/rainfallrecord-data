@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001273.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jul 2024 00:28:08 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Jul 2024 00:28:08 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jul 2024 23:08:15 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2024 23:08:15 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Bells At Killcare</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001273.xml</link>
@@ -207,6 +207,10 @@
     <item>
       <pubDate>Fri, 5 Jul 2024 00:00:00 +0000</pubDate>
       <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 8 Jul 2024 00:00:00 +0000</pubDate>
+      <description>18.0</description>
     </item>
   </channel>
 </rss>
