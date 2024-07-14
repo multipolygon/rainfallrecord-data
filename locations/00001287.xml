@@ -1,13 +1,1297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00001287.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jan 2024 10:37:21 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 10:37:21 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001287.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 13 Jul 2024 15:49:05 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2024 15:49:05 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Erica Road Heathfield</title>
-    <link>http://api.rainfallrecord.app/locations/00001287.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001287.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <description>44.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Feb 2021 00:00:00 +0000</pubDate>
+      <description>24.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 5 Feb 2021 00:00:00 +0000</pubDate>
+      <description>17.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Feb 2021 00:00:00 +0000</pubDate>
+      <description>21.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 7 Feb 2021 00:00:00 +0000</pubDate>
+      <description>3.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 7 Mar 2021 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <description>4.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
+      <description>12.6</description>
+    </item>
+    <item>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <description>3.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <description>4.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 9 Apr 2021 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <description>5.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <description>10.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <description>11.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <description>7.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 3 May 2021 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 8 May 2021 00:00:00 +0000</pubDate>
+      <description>4.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 9 May 2021 00:00:00 +0000</pubDate>
+      <description>3.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <description>14.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <description>5.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <description>6.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <description>21.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 2 Jun 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 4 Jun 2021 00:00:00 +0000</pubDate>
+      <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 7 Jun 2021 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 8 Jun 2021 00:00:00 +0000</pubDate>
+      <description>33.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 9 Jun 2021 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <description>4.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <description>14.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <description>14.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <description>21.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <description>12.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <description>3.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <description>3.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <description>32.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <description>9.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <description>3.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <description>12.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 1 Jul 2021 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 2 Jul 2021 00:00:00 +0000</pubDate>
+      <description>12.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 3 Jul 2021 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 4 Jul 2021 00:00:00 +0000</pubDate>
+      <description>1.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <description>11.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <description>5.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <description>16.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <description>26.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <description>4.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      <description>5.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <description>15.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <description>24.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <description>14.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <description>5.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <description>14.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 Aug 2021 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Mon, 2 Aug 2021 00:00:00 +0000</pubDate>
+      <description>13.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 3 Aug 2021 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 4 Aug 2021 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 5 Aug 2021 00:00:00 +0000</pubDate>
+      <description>5.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 6 Aug 2021 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 7 Aug 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <description>27.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      <description>2.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <description>11.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <description>1.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <description>2.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      <description>12.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      <description>4.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 3 Sep 2021 00:00:00 +0000</pubDate>
+      <description>6.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 4 Sep 2021 00:00:00 +0000</pubDate>
+      <description>3.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 5 Sep 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Sep 2021 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 7 Sep 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      <description>13.6</description>
+    </item>
+    <item>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      <description>9.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <description>10.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <description>13.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 1 Oct 2021 00:00:00 +0000</pubDate>
+      <description>3.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Oct 2021 00:00:00 +0000</pubDate>
+      <description>10.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 4 Oct 2021 00:00:00 +0000</pubDate>
+      <description>8.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <description>14.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <description>13.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <description>16.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <description>1.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <description>3.6</description>
+    </item>
+    <item>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <description>21.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Nov 2021 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Nov 2021 00:00:00 +0000</pubDate>
+      <description>4.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 7 Nov 2021 00:00:00 +0000</pubDate>
+      <description>1.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <description>22.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <description>7.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      <description>1.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <description>12.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <description>4.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 3 Dec 2021 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 5 Dec 2021 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Dec 2021 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 7 Dec 2021 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 8 Dec 2021 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 5 Jan 2022 00:00:00 +0000</pubDate>
+      <description>8.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 6 Jan 2022 00:00:00 +0000</pubDate>
+      <description>8.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 7 Jan 2022 00:00:00 +0000</pubDate>
+      <description>8.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 8 Jan 2022 00:00:00 +0000</pubDate>
+      <description>3.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <description>5.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <description>22.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 8 Feb 2022 00:00:00 +0000</pubDate>
+      <description>3.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      <description>1.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <description>1.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 4 Mar 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 5 Mar 2022 00:00:00 +0000</pubDate>
+      <description>1.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 6 Mar 2022 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <description>9.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 5 Apr 2022 00:00:00 +0000</pubDate>
+      <description>4.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 6 Apr 2022 00:00:00 +0000</pubDate>
+      <description>4.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      <description>2.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <description>2.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <description>8.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 3 May 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 4 May 2022 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 5 May 2022 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 6 May 2022 00:00:00 +0000</pubDate>
+      <description>10.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 7 May 2022 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <description>9.6</description>
+    </item>
+    <item>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <description>17.6</description>
+    </item>
+    <item>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <description>12.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <description>3.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <description>4.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <description>22.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <description>57.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <description>18.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 1 Jun 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 3 Jun 2022 00:00:00 +0000</pubDate>
+      <description>15.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 4 Jun 2022 00:00:00 +0000</pubDate>
+      <description>47.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 5 Jun 2022 00:00:00 +0000</pubDate>
+      <description>53.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Jun 2022 00:00:00 +0000</pubDate>
+      <description>10.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 7 Jun 2022 00:00:00 +0000</pubDate>
+      <description>5.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 8 Jun 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 9 Jun 2022 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      <description>3.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <description>20.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <description>11.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <description>14.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      <description>3.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <description>4.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <description>8.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <description>6.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 1 Jul 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Sat, 2 Jul 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Jul 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 7 Jul 2022 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 8 Jul 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 9 Jul 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      <description>21.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      <description>23.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      <description>4.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      <description>4.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 2 Aug 2022 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Aug 2022 00:00:00 +0000</pubDate>
+      <description>1.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Aug 2022 00:00:00 +0000</pubDate>
+      <description>29.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 5 Aug 2022 00:00:00 +0000</pubDate>
+      <description>22.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Aug 2022 00:00:00 +0000</pubDate>
+      <description>19.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <description>20.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <description>15.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <description>20.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      <description>1.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <description>11.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <description>8.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <description>25.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <description>13.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <description>5.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 1 Sep 2022 00:00:00 +0000</pubDate>
+      <description>3.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 2 Sep 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 3 Sep 2022 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 7 Sep 2022 00:00:00 +0000</pubDate>
+      <description>7.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 8 Sep 2022 00:00:00 +0000</pubDate>
+      <description>21.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 9 Sep 2022 00:00:00 +0000</pubDate>
+      <description>15.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <description>3.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      <description>23.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      <description>17.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <description>7.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <description>9.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <description>2.6</description>
+    </item>
+    <item>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <description>3.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <description>5.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <description>3.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 4 Oct 2022 00:00:00 +0000</pubDate>
+      <description>25.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 5 Oct 2022 00:00:00 +0000</pubDate>
+      <description>5.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 6 Oct 2022 00:00:00 +0000</pubDate>
+      <description>4.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 7 Oct 2022 00:00:00 +0000</pubDate>
+      <description>6.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <description>6.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <description>18.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <description>4.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <description>3.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <description>21.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 1 Nov 2022 00:00:00 +0000</pubDate>
+      <description>20.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 2 Nov 2022 00:00:00 +0000</pubDate>
+      <description>6.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 3 Nov 2022 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Wed, 9 Nov 2022 00:00:00 +0000</pubDate>
+      <description>4.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      <description>24.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      <description>13.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <description>30.6</description>
+    </item>
+    <item>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <description>3.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <description>33.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <description>17.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <description>3.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <description>1.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 4 Dec 2022 00:00:00 +0000</pubDate>
+      <description>4.6</description>
+    </item>
+    <item>
+      <pubDate>Mon, 5 Dec 2022 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 6 Dec 2022 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 7 Dec 2022 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <description>1.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
     <item>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       <description>2.8</description>
@@ -514,19 +1798,19 @@
     </item>
     <item>
       <pubDate>Mon, 2 Oct 2023 00:00:00 +0000</pubDate>
-      <description>1.6</description>
+      <description>0.0</description>
     </item>
     <item>
       <pubDate>Tue, 3 Oct 2023 00:00:00 +0000</pubDate>
-      <description>0.6</description>
+      <description>0.0</description>
     </item>
     <item>
       <pubDate>Wed, 4 Oct 2023 00:00:00 +0000</pubDate>
-      <description>1.4</description>
+      <description>0.0</description>
     </item>
     <item>
       <pubDate>Thu, 5 Oct 2023 00:00:00 +0000</pubDate>
-      <description>11.0</description>
+      <description>0.0</description>
     </item>
     <item>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
@@ -655,6 +1939,194 @@
     <item>
       <pubDate>Mon, 1 Jan 2024 00:00:00 +0000</pubDate>
       <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Jan 2024 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 4 Jan 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 6 Jan 2024 00:00:00 +0000</pubDate>
+      <description>13.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 7 Jan 2024 00:00:00 +0000</pubDate>
+      <description>18.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <description>8.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <description>2.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <description>55.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 1 Feb 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <description>1.8</description>
+    </item>
+    <item>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Apr 2024 00:00:00 +0000</pubDate>
+      <description>5.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 2 Apr 2024 00:00:00 +0000</pubDate>
+      <description>9.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Apr 2024 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 8 Apr 2024 00:00:00 +0000</pubDate>
+      <description>10.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 9 Apr 2024 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <description>2.4</description>
+    </item>
+    <item>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <description>3.8</description>
+    </item>
+    <item>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <description>5.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <description>18.8</description>
+    </item>
+    <item>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <description>15.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 4 Jun 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 6 Jun 2024 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 7 Jun 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <description>15.2</description>
+    </item>
+    <item>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <description>4.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <description>49.2</description>
+    </item>
+    <item>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <description>0.2</description>
+    </item>
+    <item>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <description>11.2</description>
+    </item>
+    <item>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <description>24.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <description>7.6</description>
+    </item>
+    <item>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <description>10.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <description>6.6</description>
+    </item>
+    <item>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <description>41.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <description>3.4</description>
     </item>
   </channel>
 </rss>
