@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00000903.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Feb 2024 08:36:17 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Feb 2024 08:36:17 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000903.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 19 Jul 2024 02:53:01 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 02:53:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Rain</title>
-    <link>http://api.rainfallrecord.app/locations/00000903.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000903.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
@@ -831,6 +831,14 @@
     <item>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <description>37.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <description>13.0</description>
     </item>
   </channel>
 </rss>
