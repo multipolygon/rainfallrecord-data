@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000704.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jul 2024 22:30:45 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jul 2024 22:30:45 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Jul 2024 22:28:19 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Jul 2024 22:28:19 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>BF Depot</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000704.xml</link>
@@ -2855,6 +2855,10 @@
     <item>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <description>97.0</description>
     </item>
   </channel>
 </rss>
