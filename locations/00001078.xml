@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001078.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jul 2024 09:01:37 +0000</pubDate>
-    <lastBuildDate>Sat, 20 Jul 2024 09:01:37 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jul 2024 10:53:40 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2024 10:53:40 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Gudavalli_AWS </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001078.xml</link>
@@ -2339,6 +2339,14 @@
     <item>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
       <description>12.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <description>2.5</description>
     </item>
   </channel>
 </rss>
