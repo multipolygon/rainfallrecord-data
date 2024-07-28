@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000720.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jul 2024 23:55:34 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Jul 2024 23:55:34 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jul 2024 00:01:31 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Jul 2024 00:01:31 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Hazelbrook</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000720.xml</link>
@@ -2387,6 +2387,10 @@
     <item>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       <description>9.25</description>
+    </item>
+    <item>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <description>2.5</description>
     </item>
   </channel>
 </rss>
