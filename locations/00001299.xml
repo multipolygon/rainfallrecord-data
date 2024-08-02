@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001299.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jul 2024 07:40:35 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Jul 2024 07:40:35 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Aug 2024 04:23:07 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Aug 2024 04:23:07 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>kingsclere</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001299.xml</link>
@@ -679,6 +679,18 @@
     <item>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 1 Aug 2024 00:00:00 +0000</pubDate>
+      <description>3.9</description>
     </item>
   </channel>
 </rss>
