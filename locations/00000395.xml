@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000395.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jul 2024 23:46:26 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Jul 2024 23:46:26 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Aug 2024 23:36:46 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Aug 2024 23:36:46 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Belaradah, Wangandary Upper</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000395.xml</link>
@@ -4671,6 +4671,10 @@
     <item>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 4 Aug 2024 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
