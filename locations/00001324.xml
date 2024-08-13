@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001324.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Aug 2024 05:47:31 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Aug 2024 05:47:31 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Aug 2024 23:14:14 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Aug 2024 23:14:14 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Arnup dr</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001324.xml</link>
@@ -191,6 +191,10 @@
     <item>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.5</description>
     </item>
   </channel>
 </rss>
