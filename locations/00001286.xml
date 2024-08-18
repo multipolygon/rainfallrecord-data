@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001286.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Aug 2024 00:39:22 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Aug 2024 00:39:22 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Aug 2024 23:09:10 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Aug 2024 23:09:10 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Dayboro</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001286.xml</link>
@@ -919,6 +919,18 @@
     <item>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
       <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
     </item>
   </channel>
 </rss>
