@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001118.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Aug 2024 02:06:34 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Aug 2024 02:06:34 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Aug 2024 04:05:45 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Aug 2024 04:05:45 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Barragup</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001118.xml</link>
@@ -791,6 +791,10 @@
     <item>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <description>6.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <description>12.1</description>
     </item>
   </channel>
 </rss>
