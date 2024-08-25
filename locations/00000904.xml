@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000904.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Aug 2024 23:58:11 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Aug 2024 23:58:11 +0000</lastBuildDate>
+    <pubDate>Sat, 24 Aug 2024 23:41:05 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Aug 2024 23:41:05 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Lake Warden</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000904.xml</link>
@@ -6783,6 +6783,10 @@
     <item>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
       <description>2.3</description>
+    </item>
+    <item>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <description>4.6</description>
     </item>
   </channel>
 </rss>
