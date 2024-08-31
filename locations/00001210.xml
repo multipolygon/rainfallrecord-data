@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001210.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Aug 2024 12:31:29 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Aug 2024 12:31:29 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Aug 2024 11:33:02 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Aug 2024 11:33:02 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>EX16 </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001210.xml</link>
@@ -15819,6 +15819,30 @@
     <item>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
     </item>
   </channel>
 </rss>
