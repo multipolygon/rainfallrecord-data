@@ -1,14 +1,20 @@
 {
   "id": 1493,
   "created_at": "2024-09-10 07:36:35 UTC",
-  "updated_at": "2024-09-10 07:36:35 UTC",
-  "last_record_at": null,
+  "updated_at": "2024-09-11 06:54:27 UTC",
+  "last_record_at": "2024-09-11 00:00:00 UTC",
   "title": "Taabinga",
   "town_suburb": "Kingaroy",
   "country": "Australia",
   "latitude": -26.585,
   "longitude": 151.822,
-  "precipitation": null,
+  "precipitation": {
+    "2024": {
+      "9": {
+        "11": 11.2
+      }
+    }
+  },
   "temperatureMin": null,
   "temperatureMax": null
 }
