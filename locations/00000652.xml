@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000652.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Sep 2024 21:41:20 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Sep 2024 21:41:20 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Sep 2024 20:48:45 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Sep 2024 20:48:45 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Awatahi</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000652.xml</link>
@@ -5723,6 +5723,14 @@
     <item>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <description>14.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <description>25.0</description>
     </item>
   </channel>
 </rss>
