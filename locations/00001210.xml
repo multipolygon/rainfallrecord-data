@@ -2,12 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001210.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Sep 2024 18:48:56 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Sep 2024 18:48:56 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Sep 2024 10:43:00 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Sep 2024 10:43:00 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>EX16 </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001210.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sat, 1 Jan 2005 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 Jan 2006 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Jan 2007 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 1 Jan 2008 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 1 Jan 2009 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 1 Jan 2010 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 Jan 2011 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
     <item>
       <pubDate>Sun, 1 Jan 2012 00:00:00 +0000</pubDate>
       <description>4.75</description>
@@ -15939,6 +15967,18 @@
     <item>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <description>14.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <description>10.5</description>
     </item>
   </channel>
 </rss>
