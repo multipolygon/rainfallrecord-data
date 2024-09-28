@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000754.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Sep 2024 22:09:06 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Sep 2024 22:09:06 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Sep 2024 23:44:35 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Sep 2024 23:44:35 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Berkeley Farm</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000754.xml</link>
@@ -2455,6 +2455,10 @@
     <item>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <description>16.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <description>12.0</description>
     </item>
   </channel>
 </rss>
