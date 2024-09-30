@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001280.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Sep 2024 23:11:47 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Sep 2024 23:11:47 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Sep 2024 22:19:49 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2024 22:19:49 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Melliodora</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001280.xml</link>
@@ -355,6 +355,10 @@
     <item>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <description>16.5</description>
     </item>
   </channel>
 </rss>
