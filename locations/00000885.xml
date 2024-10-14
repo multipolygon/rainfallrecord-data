@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000885.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Oct 2024 06:59:25 +0000</pubDate>
-    <lastBuildDate>Sat, 12 Oct 2024 06:59:25 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2024 06:46:35 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2024 06:46:35 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Littledean Hill Weather</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000885.xml</link>
@@ -1719,6 +1719,10 @@
     <item>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <description>0.05</description>
+    </item>
+    <item>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <description>0.4</description>
     </item>
   </channel>
 </rss>
