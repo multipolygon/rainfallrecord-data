@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000923.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Sep 2024 07:22:05 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Sep 2024 07:22:05 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 08:09:56 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2024 08:09:56 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Olaff</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000923.xml</link>
@@ -691,6 +691,10 @@
     <item>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
