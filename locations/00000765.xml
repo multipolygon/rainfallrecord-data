@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00000765.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Jul 2023 05:41:44 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2023 05:41:44 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000765.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Oct 2024 09:58:55 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2024 09:58:55 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Trentham</title>
-    <link>http://api.rainfallrecord.app/locations/00000765.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000765.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Wed, 4 Nov 2020 00:00:00 +0000</pubDate>
@@ -887,6 +887,10 @@
     <item>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <description>13.0</description>
     </item>
   </channel>
 </rss>
