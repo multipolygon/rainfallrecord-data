@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00001277.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Feb 2024 12:59:20 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Feb 2024 12:59:20 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001277.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Oct 2024 13:05:25 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2024 13:05:25 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Chingoma Farm</title>
-    <link>http://api.rainfallrecord.app/locations/00001277.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001277.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Sun, 1 Jan 1978 00:00:00 +0000</pubDate>
@@ -10155,6 +10155,30 @@
     <item>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
       <description>18.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 5 Mar 2024 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 6 Mar 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 9 Mar 2024 00:00:00 +0000</pubDate>
+      <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>
