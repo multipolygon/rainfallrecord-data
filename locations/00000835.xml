@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000835.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Oct 2024 23:32:01 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2024 23:32:01 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2024 03:43:32 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2024 03:43:32 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Maporiki</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000835.xml</link>
@@ -1139,6 +1139,22 @@
     <item>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
       <description>3.61</description>
+    </item>
+    <item>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <description>0.3</description>
+    </item>
+    <item>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <description>2.3</description>
+    </item>
+    <item>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <description>2.4</description>
     </item>
   </channel>
 </rss>
