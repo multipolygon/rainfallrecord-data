@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00001275.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Feb 2024 10:14:06 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Feb 2024 10:14:06 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001275.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Oct 2024 06:24:54 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Oct 2024 06:24:54 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Vlakpan</title>
-    <link>http://api.rainfallrecord.app/locations/00001275.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001275.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Sun, 8 Oct 2023 00:00:00 +0000</pubDate>
@@ -55,6 +55,10 @@
     <item>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <description>15.0</description>
     </item>
   </channel>
 </rss>
