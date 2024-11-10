@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000812.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Oct 2024 08:59:55 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Oct 2024 08:59:55 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Nov 2024 08:35:16 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Nov 2024 08:35:16 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Rowena</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000812.xml</link>
@@ -695,6 +695,18 @@
     <item>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 4 Nov 2024 00:00:00 +0000</pubDate>
+      <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 7 Nov 2024 00:00:00 +0000</pubDate>
+      <description>2.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <description>4.0</description>
     </item>
   </channel>
 </rss>
