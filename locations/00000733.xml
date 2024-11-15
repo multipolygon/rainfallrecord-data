@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000733.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Nov 2024 21:33:35 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Nov 2024 21:33:35 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Nov 2024 00:13:19 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Nov 2024 00:13:19 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Garland Rd</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000733.xml</link>
@@ -2855,6 +2855,10 @@
     <item>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       <description>11.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
