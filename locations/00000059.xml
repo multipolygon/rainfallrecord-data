@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000059.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Nov 2024 02:43:32 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Nov 2024 02:43:32 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Nov 2024 06:18:18 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Nov 2024 06:18:18 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>El Arish Rain</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000059.xml</link>
@@ -10195,6 +10195,10 @@
     <item>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <description>8.5</description>
     </item>
   </channel>
 </rss>
