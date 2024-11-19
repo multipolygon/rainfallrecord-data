@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000485.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Nov 2024 20:35:32 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Nov 2024 20:35:32 +0000</lastBuildDate>
+    <pubDate>Mon, 18 Nov 2024 20:16:35 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2024 20:16:35 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Noonameena</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000485.xml</link>
@@ -5375,6 +5375,10 @@
     <item>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
       <description>13.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <description>12.0</description>
     </item>
   </channel>
 </rss>
