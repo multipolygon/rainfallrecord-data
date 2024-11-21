@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001294.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Nov 2024 10:43:19 +0000</pubDate>
-    <lastBuildDate>Sat, 16 Nov 2024 10:43:19 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Nov 2024 20:48:24 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Nov 2024 20:48:24 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Old Bemboka Butter Factory </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001294.xml</link>
@@ -155,6 +155,14 @@
     <item>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       <description>25.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <description>1.5</description>
     </item>
   </channel>
 </rss>
