@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001153.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Dec 2024 08:45:40 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Dec 2024 08:45:40 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Dec 2024 09:51:49 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Dec 2024 09:51:49 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Welgedacht</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001153.xml</link>
@@ -4291,6 +4291,14 @@
     <item>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 2 Dec 2024 00:00:00 +0000</pubDate>
+      <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 3 Dec 2024 00:00:00 +0000</pubDate>
+      <description>0.0</description>
     </item>
   </channel>
 </rss>

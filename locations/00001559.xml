@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001559.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Nov 2024 12:07:51 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2024 12:07:51 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2024 20:45:17 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 20:45:17 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>King Valley</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001559.xml</link>
@@ -3645,6 +3645,10 @@
       <description>7.0</description>
     </item>
     <item>
+      <pubDate>Sun, 4 Aug 2024 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
       <pubDate>Tue, 6 Aug 2024 00:00:00 +0000</pubDate>
       <description>0.2</description>
     </item>
@@ -3763,6 +3767,10 @@
     <item>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <description>45.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <description>115.0</description>
     </item>
   </channel>
 </rss>

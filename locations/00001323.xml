@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001323.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Sep 2024 12:51:56 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Sep 2024 12:51:56 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Dec 2024 12:06:22 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Dec 2024 12:06:22 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Tivers rain</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001323.xml</link>
@@ -123,6 +123,38 @@
     <item>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
       <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <description>3.25</description>
+    </item>
+    <item>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 3 Oct 2024 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <description>17.75</description>
+    </item>
+    <item>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <description>0.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 2 Dec 2024 00:00:00 +0000</pubDate>
+      <description>5.25</description>
     </item>
   </channel>
 </rss>
