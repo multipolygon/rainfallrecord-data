@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001030.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Nov 2024 22:31:44 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Nov 2024 22:31:44 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Dec 2024 00:02:13 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Dec 2024 00:02:13 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Gov Gauge</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001030.xml</link>
@@ -1087,6 +1087,22 @@
     <item>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <description>13.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <description>7.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 Dec 2024 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 3 Dec 2024 00:00:00 +0000</pubDate>
+      <description>7.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 7 Dec 2024 00:00:00 +0000</pubDate>
+      <description>5.6</description>
     </item>
   </channel>
 </rss>
