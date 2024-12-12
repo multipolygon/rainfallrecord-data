@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00001158.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Feb 2024 03:25:36 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Feb 2024 03:25:36 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001158.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 Dec 2024 17:34:48 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 17:34:48 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Yuruga</title>
-    <link>http://api.rainfallrecord.app/locations/00001158.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001158.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
@@ -223,6 +223,38 @@
     <item>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       <description>41.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <description>19.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 3 Apr 2024 00:00:00 +0000</pubDate>
+      <description>17.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <description>27.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 4 Dec 2024 00:00:00 +0000</pubDate>
+      <description>19.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <description>14.0</description>
     </item>
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="http://api.rainfallrecord.app/locations/00001162.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jan 2024 00:07:14 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Jan 2024 00:07:14 +0000</lastBuildDate>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001162.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 Dec 2024 17:28:53 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 17:28:53 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Pelican Dam</title>
-    <link>http://api.rainfallrecord.app/locations/00001162.xml</link>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001162.xml</link>
     <description>Unified and curated feed.</description>
     <item>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
@@ -63,6 +63,14 @@
     <item>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
       <description>70.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <description>75.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 5 Dec 2024 00:00:00 +0000</pubDate>
+      <description>23.0</description>
     </item>
   </channel>
 </rss>
