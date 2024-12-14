@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000129.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Dec 2024 18:47:43 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Dec 2024 18:47:43 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Dec 2024 19:49:22 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Dec 2024 19:49:22 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Tina's Rain Gauge</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000129.xml</link>
@@ -5063,6 +5063,10 @@
     <item>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <description>34.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <description>3.5</description>
     </item>
   </channel>
 </rss>
