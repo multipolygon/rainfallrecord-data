@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hash>
-  <status type="integer">500</status>
-  <error>Internal Server Error</error>
-</hash>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000883.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Dec 2024 08:05:07 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Dec 2024 08:05:07 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Toowoomba</title>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000883.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <description>16.0</description>
+    </item>
+  </channel>
+</rss>
