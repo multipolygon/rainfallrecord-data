@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001313.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jan 2025 20:37:57 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Jan 2025 20:37:57 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jan 2025 20:14:50 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jan 2025 20:14:50 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Jim’s rain gauge 2</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001313.xml</link>
@@ -375,6 +375,10 @@
     <item>
       <pubDate>Thu, 2 Jan 2025 00:00:00 +0000</pubDate>
       <description>1.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 3 Jan 2025 00:00:00 +0000</pubDate>
+      <description>0.4</description>
     </item>
   </channel>
 </rss>
