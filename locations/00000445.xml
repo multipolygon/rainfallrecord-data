@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000445.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Dec 2024 07:22:47 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Dec 2024 07:22:47 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2025 12:12:43 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2025 12:12:43 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Limbrick's gauge</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000445.xml</link>
@@ -3099,6 +3099,18 @@
     <item>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 2 Jan 2025 00:00:00 +0000</pubDate>
+      <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 3 Jan 2025 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Jan 2025 00:00:00 +0000</pubDate>
+      <description>14.5</description>
     </item>
   </channel>
 </rss>
