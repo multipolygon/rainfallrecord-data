@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001167.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Dec 2024 11:21:08 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Dec 2024 11:21:08 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 23:37:14 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 23:37:14 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Matildadale</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001167.xml</link>
@@ -555,6 +555,18 @@
     <item>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <description>61.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 5 Jan 2025 00:00:00 +0000</pubDate>
+      <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 6 Jan 2025 00:00:00 +0000</pubDate>
+      <description>15.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 7 Jan 2025 00:00:00 +0000</pubDate>
+      <description>30.0</description>
     </item>
   </channel>
 </rss>
