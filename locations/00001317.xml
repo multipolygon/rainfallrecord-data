@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001317.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jan 2025 20:11:47 +0000</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2025 20:11:47 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jan 2025 20:12:10 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jan 2025 20:12:10 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>957 Ashby-Tullymorgan Rd</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001317.xml</link>
@@ -847,6 +847,10 @@
     <item>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       <description>41.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <description>7.5</description>
     </item>
   </channel>
 </rss>
