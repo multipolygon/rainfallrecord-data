@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000888.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jan 2025 04:45:33 +0000</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2025 04:45:33 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jan 2025 18:41:06 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jan 2025 18:41:06 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Carpendale</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000888.xml</link>
@@ -4739,6 +4739,10 @@
     <item>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       <description>16.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <description>13.0</description>
     </item>
   </channel>
 </rss>
