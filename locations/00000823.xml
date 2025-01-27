@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000823.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Jan 2025 08:23:36 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Jan 2025 08:23:36 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 07:01:45 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 07:01:45 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Finkenstein </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000823.xml</link>
@@ -2015,6 +2015,14 @@
     <item>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <description>0.0</description>
     </item>
   </channel>
 </rss>
