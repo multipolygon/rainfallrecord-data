@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001272.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jan 2025 08:11:25 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Jan 2025 08:11:25 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2025 14:34:55 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2025 14:34:55 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Cappagh</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001272.xml</link>
@@ -1031,6 +1031,26 @@
     <item>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
       <description>0.3</description>
+    </item>
+    <item>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <description>6.8</description>
+    </item>
+    <item>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <description>14.8</description>
+    </item>
+    <item>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <description>6.6</description>
+    </item>
+    <item>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <description>26.9</description>
     </item>
   </channel>
 </rss>
