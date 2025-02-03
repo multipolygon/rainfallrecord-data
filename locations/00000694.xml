@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000694.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jan 2025 06:52:49 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Jan 2025 06:52:49 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Feb 2025 17:10:57 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Feb 2025 17:10:57 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>No 9 Wildehondweg </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000694.xml</link>
@@ -1683,6 +1683,10 @@
     <item>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 1 Feb 2025 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
