@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001210.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Feb 2025 09:36:21 +0000</pubDate>
-    <lastBuildDate>Tue, 04 Feb 2025 09:36:21 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Feb 2025 13:49:16 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2025 13:49:16 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>EX16 </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001210.xml</link>
@@ -28719,6 +28719,10 @@
     <item>
       <pubDate>Mon, 3 Feb 2025 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 4 Feb 2025 00:00:00 +0000</pubDate>
+      <description>2.5</description>
     </item>
   </channel>
 </rss>
