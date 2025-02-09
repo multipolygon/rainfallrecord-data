@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000299.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Feb 2025 20:31:19 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Feb 2025 20:31:19 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Feb 2025 20:50:49 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Feb 2025 20:50:49 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Wallabadah Rd  Quirindi</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000299.xml</link>
@@ -5959,6 +5959,10 @@
     <item>
       <pubDate>Wed, 5 Feb 2025 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 8 Feb 2025 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
