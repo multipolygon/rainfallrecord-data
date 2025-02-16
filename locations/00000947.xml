@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000947.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Feb 2025 09:21:41 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Feb 2025 09:21:41 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Feb 2025 20:08:39 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Feb 2025 20:08:39 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>St Kilda</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000947.xml</link>
@@ -687,6 +687,14 @@
     <item>
       <pubDate>Wed, 5 Feb 2025 00:00:00 +0000</pubDate>
       <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>
