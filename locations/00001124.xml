@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001124.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Mar 2025 04:17:11 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Mar 2025 04:17:11 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Mar 2025 06:23:19 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Mar 2025 06:23:19 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Castelanno </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001124.xml</link>
@@ -847,6 +847,10 @@
     <item>
       <pubDate>Wed, 5 Mar 2025 00:00:00 +0000</pubDate>
       <description>14.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 7 Mar 2025 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
