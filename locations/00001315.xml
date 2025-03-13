@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001315.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Mar 2025 10:33:19 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Mar 2025 10:33:19 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Mar 2025 06:59:56 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Mar 2025 06:59:56 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Heidelberg GP</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001315.xml</link>
@@ -181,12 +181,16 @@
       <description>2.0</description>
     </item>
     <item>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <description>14.0</description>
     </item>
     <item>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
       <description>60.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <description>34.0</description>
     </item>
   </channel>
 </rss>
