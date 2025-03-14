@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001079.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Mar 2025 16:52:33 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Mar 2025 16:52:33 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Mar 2025 04:15:51 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Mar 2025 04:15:51 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Glenwood</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001079.xml</link>
@@ -835,6 +835,10 @@
     <item>
       <pubDate>Sun, 2 Mar 2025 00:00:00 +0000</pubDate>
       <description>73.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <description>103.0</description>
     </item>
   </channel>
 </rss>
