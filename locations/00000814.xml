@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000814.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Mar 2025 01:01:07 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Mar 2025 01:01:07 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Mar 2025 23:07:01 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Mar 2025 23:07:01 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>wattsquilpie</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000814.xml</link>
@@ -2383,6 +2383,10 @@
     <item>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
