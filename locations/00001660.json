@@ -1,14 +1,20 @@
 {
   "id": 1660,
   "created_at": "2025-03-28 01:00:21 UTC",
-  "updated_at": "2025-03-28 01:42:01 UTC",
-  "last_record_at": null,
+  "updated_at": "2025-04-03 21:49:22 UTC",
+  "last_record_at": "2025-04-04 00:00:00 UTC",
   "title": "Dorrigo",
   "town_suburb": "Coffs Harbour",
   "country": "Australia",
   "latitude": -30.335,
   "longitude": 152.714,
-  "precipitation": null,
+  "precipitation": {
+    "2025": {
+      "4": {
+        "4": 118.0
+      }
+    }
+  },
   "temperatureMin": null,
   "temperatureMax": null
 }
