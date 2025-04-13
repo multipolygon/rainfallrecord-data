@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000810.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Apr 2025 01:52:13 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Apr 2025 01:52:13 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Apr 2025 21:29:02 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Apr 2025 21:29:02 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Mortons Creek</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000810.xml</link>
@@ -14235,6 +14235,14 @@
     <item>
       <pubDate>Fri, 4 Apr 2025 00:00:00 +0000</pubDate>
       <description>1.5</description>
+    </item>
+    <item>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <description>2.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
