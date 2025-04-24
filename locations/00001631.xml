@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001631.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Apr 2025 09:59:37 +0000</pubDate>
-    <lastBuildDate>Thu, 10 Apr 2025 09:59:37 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Apr 2025 05:34:28 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Apr 2025 05:34:28 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Nottingham Fishing Camp</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001631.xml</link>
@@ -303,6 +303,10 @@
     <item>
       <pubDate>Wed, 9 Apr 2025 00:00:00 +0000</pubDate>
       <description>17.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
