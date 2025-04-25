@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001630.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Apr 2025 05:34:10 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Apr 2025 05:34:10 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Apr 2025 05:06:10 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Apr 2025 05:06:10 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Nottingham Newlands</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001630.xml</link>
@@ -395,6 +395,10 @@
     <item>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <description>15.0</description>
     </item>
   </channel>
 </rss>
