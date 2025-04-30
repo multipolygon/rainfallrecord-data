@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001320.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Feb 2025 11:25:53 +0000</pubDate>
-    <lastBuildDate>Wed, 26 Feb 2025 11:25:53 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Apr 2025 12:52:38 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Apr 2025 12:52:38 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Bensens</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001320.xml</link>
@@ -2739,6 +2739,18 @@
     <item>
       <pubDate>Mon, 6 Jan 2025 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <description>5.25</description>
+    </item>
+    <item>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <description>4.75</description>
     </item>
   </channel>
 </rss>
