@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000619.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 May 2025 02:43:01 +0000</pubDate>
-    <lastBuildDate>Sat, 10 May 2025 02:43:01 +0000</lastBuildDate>
+    <pubDate>Sat, 10 May 2025 21:59:13 +0000</pubDate>
+    <lastBuildDate>Sat, 10 May 2025 21:59:13 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Windy Hill</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000619.xml</link>
@@ -2623,6 +2623,10 @@
     <item>
       <pubDate>Fri, 9 May 2025 00:00:00 +0000</pubDate>
       <description>6.7</description>
+    </item>
+    <item>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <description>23.3</description>
     </item>
   </channel>
 </rss>
