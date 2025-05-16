@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001289.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 May 2025 22:30:43 +0000</pubDate>
-    <lastBuildDate>Wed, 14 May 2025 22:30:43 +0000</lastBuildDate>
+    <pubDate>Fri, 16 May 2025 03:22:53 +0000</pubDate>
+    <lastBuildDate>Fri, 16 May 2025 03:22:53 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>geoff williams</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001289.xml</link>
@@ -863,6 +863,10 @@
     <item>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
       <description>38.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
