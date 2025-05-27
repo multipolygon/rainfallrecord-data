@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001326.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 May 2025 19:38:03 +0000</pubDate>
-    <lastBuildDate>Sun, 25 May 2025 19:38:03 +0000</lastBuildDate>
+    <pubDate>Mon, 26 May 2025 14:35:47 +0000</pubDate>
+    <lastBuildDate>Mon, 26 May 2025 14:35:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>220 East Avenue A</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001326.xml</link>
@@ -451,6 +451,10 @@
     <item>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
       <description>1.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <description>0.41</description>
     </item>
   </channel>
 </rss>
