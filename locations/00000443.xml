@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000443.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 May 2025 21:45:28 +0000</pubDate>
-    <lastBuildDate>Fri, 23 May 2025 21:45:28 +0000</lastBuildDate>
+    <pubDate>Wed, 28 May 2025 11:45:47 +0000</pubDate>
+    <lastBuildDate>Wed, 28 May 2025 11:45:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Allambie</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000443.xml</link>
@@ -3347,6 +3347,10 @@
     <item>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
