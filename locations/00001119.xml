@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001119.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Apr 2025 17:15:24 +0000</pubDate>
-    <lastBuildDate>Wed, 30 Apr 2025 17:15:24 +0000</lastBuildDate>
+    <pubDate>Thu, 29 May 2025 09:32:24 +0000</pubDate>
+    <lastBuildDate>Thu, 29 May 2025 09:32:24 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>jerrypurvis</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001119.xml</link>
@@ -2231,6 +2231,18 @@
     <item>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
       <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Sun, 4 May 2025 00:00:00 +0000</pubDate>
+      <description>6.4</description>
+    </item>
+    <item>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <description>33.1</description>
+    </item>
+    <item>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <description>8.7</description>
     </item>
   </channel>
 </rss>
