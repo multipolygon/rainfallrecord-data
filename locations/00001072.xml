@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001072.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 May 2025 15:18:48 +0000</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 15:18:48 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 11:58:30 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 11:58:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>La Chaconera</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001072.xml</link>
@@ -1318,7 +1318,11 @@
     </item>
     <item>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <description>14.0</description>
+      <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 Jun 2025 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>
