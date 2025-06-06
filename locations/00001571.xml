@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001571.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Apr 2025 19:32:21 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Apr 2025 19:32:21 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Jun 2025 20:01:27 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Jun 2025 20:01:27 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>"Lorraine"</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001571.xml</link>
@@ -1529,6 +1529,10 @@
       <description>58.0</description>
     </item>
     <item>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <description>6.0</description>
     </item>
@@ -1551,6 +1555,42 @@
     <item>
       <pubDate>Wed, 2 Apr 2025 00:00:00 +0000</pubDate>
       <description>54.4</description>
+    </item>
+    <item>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <description>31.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 2 Jun 2025 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 3 Jun 2025 00:00:00 +0000</pubDate>
+      <description>0.4</description>
+    </item>
+    <item>
+      <pubDate>Wed, 4 Jun 2025 00:00:00 +0000</pubDate>
+      <description>0.2</description>
     </item>
   </channel>
 </rss>
