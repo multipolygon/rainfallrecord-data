@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001126.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 May 2025 05:49:26 +0000</pubDate>
-    <lastBuildDate>Sat, 10 May 2025 05:49:26 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 15:17:15 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 15:17:15 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Randfontein</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001126.xml</link>
@@ -1095,6 +1095,10 @@
     <item>
       <pubDate>Thu, 1 May 2025 00:00:00 +0000</pubDate>
       <description>22.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 8 Jun 2025 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
