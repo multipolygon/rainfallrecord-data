@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001285.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jun 2025 11:41:56 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 11:41:56 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 21:59:53 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 21:59:53 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Ellenboro,NC</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001285.xml</link>
@@ -3147,6 +3147,14 @@
     <item>
       <pubDate>Mon, 9 Jun 2025 00:00:00 +0000</pubDate>
       <description>0.55</description>
+    </item>
+    <item>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <description>0.31</description>
+    </item>
+    <item>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <description>0.02</description>
     </item>
   </channel>
 </rss>
