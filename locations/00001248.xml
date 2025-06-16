@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001248.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Nov 2024 22:02:34 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Nov 2024 22:02:34 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Jun 2025 15:06:36 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Jun 2025 15:06:36 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kasson, MN, USA</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001248.xml</link>
@@ -579,6 +579,14 @@
     <item>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
       <description>0.75</description>
+    </item>
+    <item>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <description>0.75</description>
+    </item>
+    <item>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <description>0.25</description>
     </item>
   </channel>
 </rss>
