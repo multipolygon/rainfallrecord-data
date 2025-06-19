@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000958.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 May 2025 21:45:55 +0000</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 21:45:55 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Jun 2025 00:24:30 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Jun 2025 00:24:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Llewxam</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000958.xml</link>
@@ -3363,6 +3363,10 @@
     <item>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <description>11.0</description>
     </item>
   </channel>
 </rss>
