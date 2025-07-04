@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000748.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Jun 2025 00:26:12 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Jun 2025 00:26:12 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Jul 2025 11:00:26 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Jul 2025 11:00:26 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>bolgart west</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000748.xml</link>
@@ -1107,6 +1107,14 @@
     <item>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
       <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Thu, 3 Jul 2025 00:00:00 +0000</pubDate>
+      <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 4 Jul 2025 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
