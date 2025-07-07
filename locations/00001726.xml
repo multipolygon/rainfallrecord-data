@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001726.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Jun 2025 18:27:26 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 18:27:26 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Jul 2025 14:24:54 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Jul 2025 14:24:54 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Ankeny (West)</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001726.xml</link>
@@ -47,6 +47,10 @@
     <item>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       <description>0.49</description>
+    </item>
+    <item>
+      <pubDate>Sat, 5 Jul 2025 00:00:00 +0000</pubDate>
+      <description>0.92</description>
     </item>
   </channel>
 </rss>
