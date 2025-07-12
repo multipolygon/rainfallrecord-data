@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000468.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 May 2025 08:17:16 +0000</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 08:17:16 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Jul 2025 08:55:42 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Jul 2025 08:55:42 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Moorabinda drive</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000468.xml</link>
@@ -2707,6 +2707,10 @@
     <item>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
       <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 8 Jul 2025 00:00:00 +0000</pubDate>
+      <description>28.0</description>
     </item>
   </channel>
 </rss>
