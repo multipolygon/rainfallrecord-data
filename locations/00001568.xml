@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001568.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Jul 2025 20:20:10 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 20:20:10 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 19:58:44 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 19:58:44 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Port Willunga</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001568.xml</link>
@@ -303,6 +303,10 @@
     <item>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <description>2.5</description>
     </item>
   </channel>
 </rss>
