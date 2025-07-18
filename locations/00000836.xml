@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000836.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Jul 2025 11:42:21 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Jul 2025 11:42:21 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Jul 2025 22:26:46 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Jul 2025 22:26:46 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Narre Warren South</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000836.xml</link>
@@ -1507,6 +1507,14 @@
     <item>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
       <description>5.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <description>2.5</description>
     </item>
   </channel>
 </rss>
