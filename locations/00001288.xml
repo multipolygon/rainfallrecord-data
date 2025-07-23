@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001288.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Jul 2025 23:26:33 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Jul 2025 23:26:33 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Jul 2025 21:22:44 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2025 21:22:44 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Cobram</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001288.xml</link>
@@ -239,6 +239,10 @@
     <item>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <description>6.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
