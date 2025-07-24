@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001071.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jul 2025 07:35:42 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Jul 2025 07:35:42 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jul 2025 03:25:43 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jul 2025 03:25:43 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Little Italy</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001071.xml</link>
@@ -339,6 +339,14 @@
     <item>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
       <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <description>13.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <description>8.0</description>
     </item>
   </channel>
 </rss>
