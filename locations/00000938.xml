@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000938.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Jul 2025 05:01:56 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 05:01:56 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2025 04:52:17 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2025 04:52:17 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Pumpherston Golf Club</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000938.xml</link>
@@ -3401,6 +3401,10 @@
       <description>8.0</description>
     </item>
     <item>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <description>12.0</description>
+    </item>
+    <item>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
       <description>8.0</description>
     </item>
@@ -3427,6 +3431,14 @@
     <item>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
       <description>2.5</description>
+    </item>
+    <item>
+      <pubDate>Sun, 3 Aug 2025 00:00:00 +0000</pubDate>
+      <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 4 Aug 2025 00:00:00 +0000</pubDate>
+      <description>7.0</description>
     </item>
   </channel>
 </rss>
