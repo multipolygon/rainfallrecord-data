@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001626.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Apr 2025 05:04:22 +0000</pubDate>
-    <lastBuildDate>Fri, 25 Apr 2025 05:04:22 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2025 05:39:59 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2025 05:39:59 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Nottingham Estate, Mpandi</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001626.xml</link>
@@ -399,6 +399,10 @@
     <item>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
       <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 8 Aug 2025 00:00:00 +0000</pubDate>
+      <description>7.0</description>
     </item>
   </channel>
 </rss>
