@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000714.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Aug 2025 19:59:42 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 19:59:42 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 08:35:45 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 08:35:45 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kersbrook</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000714.xml</link>
@@ -2567,6 +2567,14 @@
     <item>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <description>4.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <description>3.5</description>
     </item>
   </channel>
 </rss>
