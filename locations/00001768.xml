@@ -2,12 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001768.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Aug 2025 20:27:04 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 20:27:04 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 23:58:35 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 23:58:35 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Jim’s rain gauge 3</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001768.xml</link>
     <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Sat, 9 Aug 2025 00:00:00 +0000</pubDate>
+      <description>1256.7</description>
+    </item>
     <item>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <description>0.9</description>
@@ -15,6 +19,10 @@
     <item>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <description>2.2</description>
+    </item>
+    <item>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <description>2.4</description>
     </item>
   </channel>
 </rss>
