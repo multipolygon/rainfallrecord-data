@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000874.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Aug 2025 00:49:59 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Aug 2025 00:49:59 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Aug 2025 22:48:10 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 22:48:10 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Turrama Pingaring</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000874.xml</link>
@@ -1623,6 +1623,14 @@
     <item>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <description>1.25</description>
+    </item>
+    <item>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <description>1.75</description>
     </item>
   </channel>
 </rss>
