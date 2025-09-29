@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000833.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 May 2025 05:39:50 +0000</pubDate>
-    <lastBuildDate>Fri, 02 May 2025 05:39:50 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 06:45:23 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2025 06:45:23 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Ruretse Rain</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000833.xml</link>
@@ -887,6 +887,10 @@
     <item>
       <pubDate>Thu, 1 May 2025 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <description>4.0</description>
     </item>
   </channel>
 </rss>
