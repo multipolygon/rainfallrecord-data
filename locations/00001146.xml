@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001146.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Oct 2025 00:27:29 +0000</pubDate>
-    <lastBuildDate>Tue, 14 Oct 2025 00:27:29 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 00:13:16 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 00:13:16 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Westcourt </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001146.xml</link>
@@ -3375,6 +3375,10 @@
     <item>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <description>79.0</description>
     </item>
   </channel>
 </rss>
