@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000571.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Oct 2025 00:42:09 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Oct 2025 00:42:09 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2025 01:33:59 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Oct 2025 01:33:59 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Keith 6156</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000571.xml</link>
@@ -5711,6 +5711,10 @@
     <item>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       <description>20.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+      <description>11.75</description>
     </item>
   </channel>
 </rss>
