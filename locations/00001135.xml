@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001135.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Oct 2025 20:19:50 +0000</pubDate>
-    <lastBuildDate>Sat, 18 Oct 2025 20:19:50 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Oct 2025 20:56:36 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2025 20:56:36 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Elimbah</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001135.xml</link>
@@ -1385,8 +1385,16 @@
       <description>1.2</description>
     </item>
     <item>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <description>20.0</description>
+    </item>
+    <item>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       <description>16.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
