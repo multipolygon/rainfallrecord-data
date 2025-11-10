@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001792.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Nov 2025 04:35:05 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Nov 2025 04:35:05 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2025 20:18:06 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2025 20:18:06 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Ulamdale </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001792.xml</link>
@@ -4695,6 +4695,10 @@
     <item>
       <pubDate>Sun, 2 Nov 2025 00:00:00 +0000</pubDate>
       <description>10.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 9 Nov 2025 00:00:00 +0000</pubDate>
+      <description>16.0</description>
     </item>
   </channel>
 </rss>
