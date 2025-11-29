@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000815.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Nov 2025 03:08:39 +0000</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 03:08:39 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 21:43:39 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 21:43:39 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>255 Great Alpine Road Lucknow </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000815.xml</link>
@@ -1399,6 +1399,10 @@
     <item>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <description>21.0</description>
     </item>
   </channel>
 </rss>
