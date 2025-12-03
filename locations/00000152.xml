@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000152.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Dec 2025 01:26:13 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2025 01:26:13 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2025 00:56:30 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 00:56:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kerlie Park</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000152.xml</link>
@@ -41949,12 +41949,20 @@
       <description>3.5</description>
     </item>
     <item>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       <description>3.75</description>
+    </item>
+    <item>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
     <item>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       <description>1.25</description>
+    </item>
+    <item>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <description>3.5</description>
     </item>
     <item>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
@@ -41963,6 +41971,14 @@
     <item>
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
       <description>10.5</description>
+    </item>
+    <item>
+      <pubDate>Mon, 1 Dec 2025 00:00:00 +0000</pubDate>
+      <description>2.5</description>
+    </item>
+    <item>
+      <pubDate>Tue, 2 Dec 2025 00:00:00 +0000</pubDate>
+      <description>0.25</description>
     </item>
   </channel>
 </rss>
