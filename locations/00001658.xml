@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001658.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Dec 2025 01:29:48 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2025 01:29:48 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 00:56:14 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 00:56:14 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Noonamah</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001658.xml</link>
@@ -219,6 +219,14 @@
     <item>
       <pubDate>Fri, 5 Dec 2025 00:00:00 +0000</pubDate>
       <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 8 Dec 2025 00:00:00 +0000</pubDate>
+      <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 9 Dec 2025 00:00:00 +0000</pubDate>
+      <description>5.0</description>
     </item>
   </channel>
 </rss>
