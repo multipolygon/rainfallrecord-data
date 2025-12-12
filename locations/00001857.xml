@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001857.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Dec 2025 07:50:12 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2025 07:50:12 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 06:39:37 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 06:39:37 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Tamboti Reënval</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001857.xml</link>
@@ -59,6 +59,10 @@
     <item>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <description>28.0</description>
     </item>
   </channel>
 </rss>
