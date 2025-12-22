@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001632.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Nov 2025 04:09:22 +0000</pubDate>
-    <lastBuildDate>Sat, 29 Nov 2025 04:09:22 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Dec 2025 06:11:30 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Dec 2025 06:11:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Nottingham Kuduland</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001632.xml</link>
@@ -279,6 +279,10 @@
     <item>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
       <description>35.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <description>20.0</description>
     </item>
   </channel>
 </rss>
