@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001927.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Jan 2026 22:33:54 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 22:33:54 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Echoland</title>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001927.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Thu, 1 Jan 2026 00:00:00 +0000</pubDate>
+      <description>0.1</description>
+    </item>
+    <item>
+      <pubDate>Fri, 2 Jan 2026 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 3 Jan 2026 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+  </channel>
+</rss>
