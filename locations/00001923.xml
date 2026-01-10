@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001923.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jan 2026 20:04:50 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2026 20:04:50 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Jan 2026 00:02:14 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:02:14 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>thenuthouse2025</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001923.xml</link>
@@ -51,6 +51,10 @@
     <item>
       <pubDate>Thu, 8 Jan 2026 00:00:00 +0000</pubDate>
       <description>3.5</description>
+    </item>
+    <item>
+      <pubDate>Fri, 9 Jan 2026 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
