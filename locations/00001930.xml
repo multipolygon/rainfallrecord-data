@@ -2,27 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001930.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Jan 2026 23:47:52 +0000</pubDate>
-    <lastBuildDate>Tue, 13 Jan 2026 23:47:52 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 01:05:23 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 01:05:23 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Residential</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001930.xml</link>
     <description>Unified and curated feed.</description>
     <item>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
       <description>183.0</description>
     </item>
     <item>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <description>26.0</description>
     </item>
     <item>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <description>20.5</description>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <description>20.6</description>
     </item>
     <item>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       <description>16.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
