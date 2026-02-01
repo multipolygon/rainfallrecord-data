@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000653.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Jan 2026 08:46:19 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Jan 2026 08:46:19 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Feb 2026 08:53:08 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Feb 2026 08:53:08 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Marlesford </title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000653.xml</link>
@@ -3519,6 +3519,10 @@
     <item>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
       <description>8.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
