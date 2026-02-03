@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001291.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Feb 2026 03:54:09 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Feb 2026 03:54:09 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 19:23:55 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 19:23:55 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Bethesda</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001291.xml</link>
@@ -599,6 +599,10 @@
     <item>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
       <description>12.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 1 Feb 2026 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
