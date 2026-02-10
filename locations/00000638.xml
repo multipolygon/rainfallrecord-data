@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000638.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Feb 2026 02:55:41 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Feb 2026 02:55:41 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 23:12:02 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 23:12:02 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Highfield at Oldbury Rd</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000638.xml</link>
@@ -2119,6 +2119,14 @@
     <item>
       <pubDate>Sun, 8 Feb 2026 00:00:00 +0000</pubDate>
       <description>15.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 9 Feb 2026 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>
