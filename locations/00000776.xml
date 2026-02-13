@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000776.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Feb 2026 06:18:44 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2026 06:18:44 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 06:14:00 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 06:14:00 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Theo Coetzee</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000776.xml</link>
@@ -1699,6 +1699,10 @@
     <item>
       <pubDate>Sun, 1 Feb 2026 00:00:00 +0000</pubDate>
       <description>50.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <description>60.0</description>
     </item>
   </channel>
 </rss>
