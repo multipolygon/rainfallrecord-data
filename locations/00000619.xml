@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000619.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Feb 2026 19:51:08 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 19:51:08 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 23:18:30 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 23:18:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Windy Hill</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000619.xml</link>
@@ -2931,6 +2931,10 @@
     <item>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <description>14.3</description>
+    </item>
+    <item>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <description>4.2</description>
     </item>
   </channel>
 </rss>
