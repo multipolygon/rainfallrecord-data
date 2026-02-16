@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000775.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Feb 2026 04:02:06 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 04:02:06 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 21:51:35 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 21:51:35 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Gloucester</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000775.xml</link>
@@ -2691,6 +2691,10 @@
     <item>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>5.0</description>
     </item>
   </channel>
 </rss>

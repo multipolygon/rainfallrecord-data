@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001724.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Feb 2026 11:42:15 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 11:42:15 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 10:36:47 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 10:36:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Spondon Allotments</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001724.xml</link>
@@ -399,6 +399,10 @@
     <item>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <description>31.0</description>
     </item>
   </channel>
 </rss>
