@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000818.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Feb 2026 19:50:55 +0000</pubDate>
-    <lastBuildDate>Sat, 21 Feb 2026 19:50:55 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Feb 2026 19:54:22 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Feb 2026 19:54:22 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Petford</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000818.xml</link>
@@ -7506,7 +7506,7 @@
     </item>
     <item>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <description>0.0</description>
+      <description>60.0</description>
     </item>
     <item>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
@@ -7514,6 +7514,10 @@
     </item>
     <item>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <description>0.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <description>0.0</description>
     </item>
   </channel>
