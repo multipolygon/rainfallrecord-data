@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001277.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Feb 2026 13:03:01 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 13:03:01 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 04:30:43 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 04:30:43 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Chingoma Farm</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001277.xml</link>
@@ -10559,6 +10559,10 @@
     <item>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
       <description>58.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <description>6.0</description>
     </item>
   </channel>
 </rss>
