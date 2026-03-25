@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001825.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Mar 2026 06:06:03 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 06:06:03 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 06:07:31 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 06:07:31 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Lyaskovo</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001825.xml</link>
@@ -1747,6 +1747,10 @@
     <item>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
       <description>4.3</description>
+    </item>
+    <item>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <description>17.6</description>
     </item>
   </channel>
 </rss>
