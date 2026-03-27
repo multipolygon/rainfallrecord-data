@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001070.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Feb 2026 18:13:29 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 18:13:29 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2026 17:32:29 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:32:29 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Braeburn</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001070.xml</link>
@@ -1483,6 +1483,10 @@
     <item>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <description>1.0</description>
+    </item>
+    <item>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>76.0</description>
     </item>
   </channel>
 </rss>
