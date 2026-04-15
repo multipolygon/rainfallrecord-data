@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000875.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Apr 2026 09:02:31 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 09:02:31 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Apr 2026 01:20:47 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Apr 2026 01:20:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Turrama Max’s Block</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000875.xml</link>
@@ -1319,6 +1319,10 @@
     <item>
       <pubDate>Mon, 6 Apr 2026 00:00:00 +0000</pubDate>
       <description>2.75</description>
+    </item>
+    <item>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <description>1.0</description>
     </item>
   </channel>
 </rss>
