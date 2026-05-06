@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001928.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 May 2026 04:03:43 +0000</pubDate>
-    <lastBuildDate>Mon, 04 May 2026 04:03:43 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 02:43:08 +0000</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 02:43:08 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Bungendore old village</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001928.xml</link>
@@ -105,8 +105,12 @@
       <description>2.0</description>
     </item>
     <item>
-      <pubDate>Fri, 1 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 3 May 2026 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 4 May 2026 00:00:00 +0000</pubDate>
+      <description>4.0</description>
     </item>
   </channel>
 </rss>
