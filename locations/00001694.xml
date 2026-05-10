@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001694.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 May 2026 12:45:49 +0000</pubDate>
-    <lastBuildDate>Sat, 09 May 2026 12:45:49 +0000</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 12:34:47 +0000</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 12:34:47 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>S P Tacachico (mm)</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001694.xml</link>
@@ -1971,6 +1971,10 @@
     <item>
       <pubDate>Sat, 9 May 2026 00:00:00 +0000</pubDate>
       <description>19.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <description>2.0</description>
     </item>
   </channel>
 </rss>
