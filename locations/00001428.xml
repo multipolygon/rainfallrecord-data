@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001428.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 May 2026 21:58:25 +0000</pubDate>
-    <lastBuildDate>Sat, 02 May 2026 21:58:25 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 20:12:28 +0000</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 20:12:28 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>'Lorraine'</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001428.xml</link>
@@ -1871,6 +1871,14 @@
     <item>
       <pubDate>Sat, 2 May 2026 00:00:00 +0000</pubDate>
       <description>0.8</description>
+    </item>
+    <item>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <description>9.4</description>
+    </item>
+    <item>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <description>2.2</description>
     </item>
   </channel>
 </rss>
