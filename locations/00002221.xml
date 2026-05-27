@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00002221.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 May 2026 23:22:59 +0000</pubDate>
-    <lastBuildDate>Mon, 18 May 2026 23:22:59 +0000</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 05:08:59 +0000</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 05:08:59 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Narrabri Town</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00002221.xml</link>
@@ -11,6 +11,10 @@
     <item>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>22.5</description>
+    </item>
+    <item>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>9.0</description>
     </item>
   </channel>
 </rss>
