@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00002155.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jun 2026 09:30:37 +0000</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2026 09:30:37 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2026 09:13:30 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:13:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Vincero</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00002155.xml</link>
@@ -202,6 +202,14 @@
     </item>
     <item>
       <pubDate>Tue, 9 Jun 2026 00:00:00 +0000</pubDate>
+      <description>6.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <description>26.0</description>
+    </item>
+    <item>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <description>6.0</description>
     </item>
   </channel>
