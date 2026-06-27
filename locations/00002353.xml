@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00002353.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Jun 2026 12:34:25 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 12:34:25 +0000</lastBuildDate>
+    <ttl>86400</ttl>
+    <title>Lakewood</title>
+    <link>https://api-rainfallrecord-app.herokuapp.com/locations/00002353.xml</link>
+    <description>Unified and curated feed.</description>
+    <item>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <description>0.6</description>
+    </item>
+    <item>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>0.78</description>
+    </item>
+    <item>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>0.02</description>
+    </item>
+  </channel>
+</rss>

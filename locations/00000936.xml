@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000936.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jun 2026 20:49:10 +0000</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 20:49:10 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 00:09:36 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:09:36 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Skywatch - Reedy Creek</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000936.xml</link>
@@ -2846,6 +2846,10 @@
     </item>
     <item>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <description>4.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <description>4.0</description>
     </item>
   </channel>
