@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00000911.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Aug 2026 08:30:24 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 08:30:24 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 21:39:37 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 21:39:37 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Maffra</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00000911.xml</link>
@@ -1347,6 +1347,14 @@
     <item>
       <pubDate>Wed, 5 Aug 2026 00:00:00 +0000</pubDate>
       <description>17.0</description>
+    </item>
+    <item>
+      <pubDate>Sun, 9 Aug 2026 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>10.0</description>
     </item>
   </channel>
 </rss>
