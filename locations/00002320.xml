@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00002320.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Sep 2026 00:53:29 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Sep 2026 00:53:29 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 02:02:48 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:02:48 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Mick Blue</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00002320.xml</link>
@@ -67,6 +67,10 @@
     <item>
       <pubDate>Wed, 2 Sep 2026 00:00:00 +0000</pubDate>
       <description>3.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 5 Sep 2026 00:00:00 +0000</pubDate>
+      <description>11.5</description>
     </item>
   </channel>
 </rss>
