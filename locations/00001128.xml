@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001128.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 May 2026 07:36:59 +0000</pubDate>
-    <lastBuildDate>Thu, 07 May 2026 07:36:59 +0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 08:28:11 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:28:11 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Lubango</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001128.xml</link>
@@ -1155,6 +1155,10 @@
     <item>
       <pubDate>Sat, 2 May 2026 00:00:00 +0000</pubDate>
       <description>2.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 9 Sep 2026 00:00:00 +0000</pubDate>
+      <description>7.0</description>
     </item>
   </channel>
 </rss>
