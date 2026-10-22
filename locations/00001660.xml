@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001660.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Oct 2026 22:27:30 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 22:27:30 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 00:23:46 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:23:46 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Dorrigo</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001660.xml</link>
@@ -669,6 +669,10 @@
       <description>17.75</description>
     </item>
     <item>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>5.0</description>
+    </item>
+    <item>
       <pubDate>Sun, 2 Aug 2026 00:00:00 +0000</pubDate>
       <description>1.25</description>
     </item>
@@ -767,6 +771,10 @@
     <item>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <description>4.75</description>
+    </item>
+    <item>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>33.0</description>
     </item>
   </channel>
 </rss>
