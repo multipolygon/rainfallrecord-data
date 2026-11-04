@@ -6,636 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.585,
-          -33.412
-        ]
-      },
-      "properties": {
-        "id": 445,
-        "location": "Bathurst",
-        "updated_at": "2026-11-02 20:39:55 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 11.5,
-        "total_30_days": 40.7
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.02,
-          -28.229
-        ]
-      },
-      "properties": {
-        "id": 940,
-        "location": "Warwick, Australia",
-        "updated_at": "2026-11-01 20:50:20 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 11.0,
-        "total_30_days": 202.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.0,
-          -27.0
-        ]
-      },
-      "properties": {
-        "id": 1559,
-        "location": "Australia",
-        "updated_at": "2026-11-03 01:05:44 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 14.2,
-        "total_30_days": 58.4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.908,
-          38.067
-        ]
-      },
-      "properties": {
-        "id": 1326,
-        "location": "Hutchinson, United States of America",
-        "updated_at": "2026-11-02 23:23:36 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 0.48,
-        "total_30_days": 1.22
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.395,
-          -26.05
-        ]
-      },
-      "properties": {
-        "id": 1290,
-        "location": "Gympie, Australia",
-        "updated_at": "2026-11-02 22:40:32 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 23.0,
-        "total_30_days": 348.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.583,
-          -36.639
-        ]
-      },
-      "properties": {
-        "id": 1294,
-        "location": "Cooma, Australia",
-        "updated_at": "2026-11-02 21:51:31 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 21.0,
-        "total_30_days": 29.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.55,
-          -33.7
-        ]
-      },
-      "properties": {
-        "id": 2089,
-        "location": "Katanning, Australia",
-        "updated_at": "2026-11-03 02:05:02 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 3.2,
-        "total_30_days": 19.7
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.975,
-          -37.82
-        ]
-      },
-      "properties": {
-        "id": 1729,
-        "location": "Melbourne, Australia",
-        "updated_at": "2026-11-03 07:23:49 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 11.5,
-        "total_30_days": 56.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.474,
-          -28.282
-        ]
-      },
-      "properties": {
-        "id": 1167,
-        "location": "Australia",
-        "updated_at": "2026-11-02 20:03:14 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 11.0,
-        "total_30_days": 234.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.133,
-          -26.8
-        ]
-      },
-      "properties": {
-        "id": 837,
-        "location": "Caloundra, Australia",
-        "updated_at": "2026-11-03 00:15:41 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 7.5,
-        "total_30_days": 374.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.94,
-          28.9
-        ]
-      },
-      "properties": {
-        "id": 370,
-        "location": "Wallangarra, Australia",
-        "updated_at": "2026-11-01 06:44:41 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 17.0,
-        "total_30_days": 179.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.485,
-          -33.517
-        ]
-      },
-      "properties": {
-        "id": 485,
-        "location": "Bilpin",
-        "updated_at": "2026-11-02 21:23:32 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 3.0,
-        "total_30_days": 112.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.351,
-          -24.879
-        ]
-      },
-      "properties": {
-        "id": 947,
-        "location": "Bundaberg, Australia",
-        "updated_at": "2026-11-03 06:53:43 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 43.5,
-        "total_30_days": 299.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.97,
-          -25.474
-        ]
-      },
-      "properties": {
-        "id": 950,
-        "location": "Nelspruit, South Africa",
-        "updated_at": "2026-11-02 04:50:22 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 1.5,
-        "total_30_days": 1.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.754,
-          42.154
-        ]
-      },
-      "properties": {
-        "id": 1824,
-        "location": "Plovdiv, Bulgaria",
-        "updated_at": "2026-11-02 06:05:25 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 46.8,
-        "total_30_days": 80.1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5,
-          52.933
-        ]
-      },
-      "properties": {
-        "id": 1724,
-        "location": "Derby, United Kingdom of Great Britain and Northern Ireland",
-        "updated_at": "2026-11-03 15:31:26 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 2.0,
-        "total_30_days": 79.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.298,
-          -34.657
-        ]
-      },
-      "properties": {
-        "id": 643,
-        "location": "Bundanoon, Australia",
-        "updated_at": "2026-11-02 21:30:30 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 3.6,
-        "total_30_days": 53.4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 603,
-        "location": "Barragga Bay, Australia",
-        "updated_at": "2026-11-02 19:37:54 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 9.0,
-        "total_30_days": 34.8
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.564,
-          -37.421
-        ]
-      },
-      "properties": {
-        "id": 373,
-        "location": "Macedon, Australia",
-        "updated_at": "2026-11-02 21:22:06 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 20.0,
-        "total_30_days": 77.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.703,
-          -26.158
-        ]
-      },
-      "properties": {
-        "id": 1126,
-        "location": "Johannesburg, South Africa",
-        "updated_at": "2026-11-02 18:21:15 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 10.0,
-        "total_30_days": 14.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.671,
-          -26.189
-        ]
-      },
-      "properties": {
-        "id": 2487,
-        "location": "Gympie, Australia",
-        "updated_at": "2026-11-02 07:26:18 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 54.0,
-        "total_30_days": 399.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.884,
-          -25.246
-        ]
-      },
-      "properties": {
-        "id": 944,
-        "location": "Bundaberg, Australia",
-        "updated_at": "2026-11-02 08:42:01 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 30.0,
-        "total_30_days": 163.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.0,
-          -27.0
-        ]
-      },
-      "properties": {
-        "id": 1394,
-        "location": "Australia",
-        "updated_at": "2026-11-02 06:56:36 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 12.5,
-        "total_30_days": 452.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.733,
-          52.717
-        ]
-      },
-      "properties": {
-        "id": 1028,
-        "location": "Shrewsbury, United Kingdom of Great Britain and Northern Ireland",
-        "updated_at": "2026-11-03 09:55:57 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 7.0,
-        "total_30_days": 98.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.333,
-          -35.002
-        ]
-      },
-      "properties": {
-        "id": 501,
-        "location": "Ocean Beach, Australia",
-        "updated_at": "2026-11-02 23:51:29 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 19.5,
-        "total_30_days": 154.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.15,
-          58.478
-        ]
-      },
-      "properties": {
-        "id": 1759,
-        "location": "Inverness, United Kingdom of Great Britain and Northern Ireland",
-        "updated_at": "2026-11-03 09:13:18 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 14.0,
-        "total_30_days": 99.8
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 733,
-        "location": "Bundanoon, Australia",
-        "updated_at": "2026-11-02 21:56:58 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 4.0,
-        "total_30_days": 53.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.501,
-          -34.076
-        ]
-      },
-      "properties": {
-        "id": 1282,
-        "location": "Australia",
-        "updated_at": "2026-11-02 22:52:50 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 5.0,
-        "total_30_days": 85.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.817,
-          -1.283
-        ]
-      },
-      "properties": {
-        "id": 1900,
-        "location": "Nairobi, Kenya",
-        "updated_at": "2026-11-01 03:17:10 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 40.0,
-        "total_30_days": 74.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.0,
-          -27.0
-        ]
-      },
-      "properties": {
-        "id": 122,
-        "location": "Kilsyth, Yarra Ranges, Australia",
-        "updated_at": "2026-11-02 23:44:24 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 31.0,
-        "total_30_days": 101.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.61,
-          -37.83
-        ]
-      },
-      "properties": {
-        "id": 815,
-        "location": "Bairnsdale, Australia",
-        "updated_at": "2026-11-02 20:09:50 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 8.0,
-        "total_30_days": 37.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.06,
-          -38.11
-        ]
-      },
-      "properties": {
-        "id": 911,
-        "location": "Sale, Australia",
-        "updated_at": "2026-11-02 21:58:51 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 7.0,
-        "total_30_days": 40.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.568,
-          -28.861
-        ]
-      },
-      "properties": {
-        "id": 941,
-        "location": "Ballina, Australia",
-        "updated_at": "2026-11-02 19:51:51 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 6.5,
-        "total_30_days": 268.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.35,
-          -27.459
-        ]
-      },
-      "properties": {
-        "id": 129,
-        "location": "Spring Creek",
-        "updated_at": "2026-11-02 09:18:22 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 1.5,
-        "total_30_days": 168.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.956,
-          -27.564
-        ]
-      },
-      "properties": {
-        "id": 2157,
-        "location": "Toowoomba, Australia",
-        "updated_at": "2026-11-03 08:52:54 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 59.0,
-        "total_30_days": 228.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           115.882,
           -32.12
         ]
@@ -654,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.938,
-          -29.712
+          0.0,
+          0.0
         ]
       },
       "properties": {
-        "id": 1142,
-        "location": "Grafton, Australia",
-        "updated_at": "2026-11-03 18:39:23 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 52.0,
-        "total_30_days": 233.0
+        "id": 2452,
+        "location": "Derby, United Kingdom of Great Britain and Northern Ireland",
+        "updated_at": "2026-11-04 10:17:10 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 1.0,
+        "total_30_days": 68.0
       }
     },
     {
@@ -672,16 +42,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.44,
-          -35.25
+          152.395,
+          -26.05
         ]
       },
       "properties": {
-        "id": 1928,
-        "location": "Canberra, Australia",
-        "updated_at": "2026-11-03 01:05:45 UTC",
+        "id": 1290,
+        "location": "Gympie, Australia",
+        "updated_at": "2026-11-03 21:31:32 UTC",
         "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 15.0,
+        "total_7_days": 34.0,
+        "total_30_days": 359.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.61,
+          -37.83
+        ]
+      },
+      "properties": {
+        "id": 815,
+        "location": "Bairnsdale, Australia",
+        "updated_at": "2026-11-04 06:18:25 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 16.0,
         "total_30_days": 45.0
       }
     },
@@ -690,17 +78,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.861,
-          -33.833
+          152.671,
+          -26.189
         ]
       },
       "properties": {
-        "id": 904,
-        "location": "Esperance, Australia",
-        "updated_at": "2026-11-03 11:50:07 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 0.0,
-        "total_30_days": 31.5
+        "id": 2487,
+        "location": "Gympie, Australia",
+        "updated_at": "2026-11-03 21:20:28 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 58.0,
+        "total_30_days": 403.0
       }
     },
     {
@@ -708,17 +96,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.815,
-          -32.845
+          149.583,
+          -36.639
         ]
       },
       "properties": {
-        "id": 2486,
-        "location": "Newcastle, Australia",
-        "updated_at": "2026-11-02 23:22:50 UTC",
+        "id": 1294,
+        "location": "Cooma, Australia",
+        "updated_at": "2026-11-03 23:42:42 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 26.0,
+        "total_30_days": 34.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.153,
+          -28.639
+        ]
+      },
+      "properties": {
+        "id": 443,
+        "location": "Brush Creek",
+        "updated_at": "2026-11-03 21:39:33 UTC",
         "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 5.5,
-        "total_30_days": 62.4
+        "total_7_days": 17.0,
+        "total_30_days": 158.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          -27.0
+        ]
+      },
+      "properties": {
+        "id": 813,
+        "location": "Australia",
+        "updated_at": "2026-11-04 10:06:50 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 25.0,
+        "total_30_days": 209.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.733,
+          52.717
+        ]
+      },
+      "properties": {
+        "id": 1028,
+        "location": "Shrewsbury, United Kingdom of Great Britain and Northern Ireland",
+        "updated_at": "2026-11-04 12:15:04 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 5.0,
+        "total_30_days": 100.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.462,
+          -31.898
+        ]
+      },
+      "properties": {
+        "id": 775,
+        "location": "Taree, Australia",
+        "updated_at": "2026-11-03 21:31:21 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 39.0,
+        "total_30_days": 104.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.501,
+          -34.076
+        ]
+      },
+      "properties": {
+        "id": 1282,
+        "location": "Australia",
+        "updated_at": "2026-11-03 20:56:02 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 19.0,
+        "total_30_days": 91.0
       }
     },
     {
@@ -744,78 +222,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.714,
-          -30.335
-        ]
-      },
-      "properties": {
-        "id": 1660,
-        "location": "Coffs Harbour, Australia",
-        "updated_at": "2026-11-03 00:58:52 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 11.5,
-        "total_30_days": 202.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.014,
-          -34.626
-        ]
-      },
-      "properties": {
-        "id": 475,
-        "location": "Blakney Creek",
-        "updated_at": "2026-11-03 00:59:24 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 7.0,
-        "total_30_days": 32.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.346,
-          -26.477
-        ]
-      },
-      "properties": {
-        "id": 1315,
-        "location": "Vereeniging, South Africa",
-        "updated_at": "2026-11-03 05:04:34 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 20.0,
-        "total_30_days": 41.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.754,
-          42.154
-        ]
-      },
-      "properties": {
-        "id": 1825,
-        "location": "Plovdiv, Bulgaria",
-        "updated_at": "2026-11-02 06:07:49 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 39.8,
-        "total_30_days": 87.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           150.786,
           -31.527
         ]
@@ -834,35 +240,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.984,
-          -26.011
+          24.754,
+          42.154
         ]
       },
       "properties": {
-        "id": 1124,
-        "location": "Johannesburg, South Africa",
-        "updated_at": "2026-11-03 04:09:39 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 26.0,
-        "total_30_days": 41.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.349,
-          -33.656
-        ]
-      },
-      "properties": {
-        "id": 1324,
-        "location": "Busselton, Australia",
-        "updated_at": "2026-11-03 00:05:20 UTC",
+        "id": 1824,
+        "location": "Plovdiv, Bulgaria",
+        "updated_at": "2026-11-04 06:00:19 UTC",
         "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 40.0,
-        "total_30_days": 84.0
+        "total_7_days": 78.6,
+        "total_30_days": 111.9
       }
     },
     {
@@ -870,179 +258,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.28,
-          -38.089
+          152.938,
+          -29.712
         ]
       },
       "properties": {
-        "id": 2419,
-        "location": "Geelong, Australia",
-        "updated_at": "2026-11-03 08:23:32 UTC",
+        "id": 1142,
+        "location": "Grafton, Australia",
+        "updated_at": "2026-11-03 18:39:23 UTC",
         "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 14.0,
-        "total_30_days": 74.2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 714,
-        "location": "Kersbrook, Australia",
-        "updated_at": "2026-11-03 06:06:19 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 16.0,
-        "total_30_days": 81.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 515,
-        "location": "Blackbutt, Australia",
-        "updated_at": "2026-11-03 10:05:12 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 40.5,
-        "total_30_days": 203.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.93,
-          -17.345
-        ]
-      },
-      "properties": {
-        "id": 818,
-        "location": "Atherton, Australia",
-        "updated_at": "2026-11-02 20:04:06 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 0.0,
-        "total_30_days": 79.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.801,
-          -32.035
-        ]
-      },
-      "properties": {
-        "id": 571,
-        "location": "Melville, Australia",
-        "updated_at": "2026-11-03 00:44:57 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 7.8,
-        "total_30_days": 37.3
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.017,
-          52.5
-        ]
-      },
-      "properties": {
-        "id": 2485,
-        "location": "Oldbury, United Kingdom of Great Britain and Northern Ireland",
-        "updated_at": "2026-11-03 09:46:39 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 0.0,
-        "total_30_days": 76.2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 668,
-        "location": "Ashburton, Australia",
-        "updated_at": "2026-11-02 23:30:54 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 21.0,
-        "total_30_days": 56.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.02,
-          -28.229
-        ]
-      },
-      "properties": {
-        "id": 882,
-        "location": "Warwick, Australia",
-        "updated_at": "2026-11-01 00:00:07 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 22.5,
-        "total_30_days": 276.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.299,
-          -29.994
-        ]
-      },
-      "properties": {
-        "id": 1659,
-        "location": "Inverell, Australia",
-        "updated_at": "2026-11-03 07:05:12 UTC",
-        "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 21.0,
-        "total_30_days": 120.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.917,
-          -31.103
-        ]
-      },
-      "properties": {
-        "id": 816,
-        "location": "Tamworth, Australia",
-        "updated_at": "2026-10-31 22:38:34 UTC",
-        "last_record_at": "2026-11-01 00:00:00 UTC",
-        "total_7_days": 21.0,
-        "total_30_days": 91.0
+        "total_7_days": 52.0,
+        "total_30_days": 231.5
       }
     },
     {
@@ -1068,17 +294,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.0,
-          -27.0
+          150.298,
+          -34.657
         ]
       },
       "properties": {
-        "id": 1288,
-        "location": "Australia",
-        "updated_at": "2026-11-02 20:10:23 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 6.0,
-        "total_30_days": 13.0
+        "id": 643,
+        "location": "Bundanoon, Australia",
+        "updated_at": "2026-11-02 21:30:30 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 3.6,
+        "total_30_days": 53.4
       }
     },
     {
@@ -1091,12 +317,12 @@
         ]
       },
       "properties": {
-        "id": 888,
+        "id": 2155,
         "location": "Brisbane, Australia",
-        "updated_at": "2026-11-01 21:15:02 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 7.5,
-        "total_30_days": 170.0
+        "updated_at": "2026-11-04 06:45:34 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 10.0,
+        "total_30_days": 314.5
       }
     },
     {
@@ -1104,17 +330,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.462,
-          -31.898
+          151.94,
+          28.9
         ]
       },
       "properties": {
-        "id": 775,
-        "location": "Taree, Australia",
-        "updated_at": "2026-11-02 21:32:58 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 6.0,
-        "total_30_days": 71.0
+        "id": 370,
+        "location": "Wallangarra, Australia",
+        "updated_at": "2026-11-03 22:07:55 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 18.0,
+        "total_30_days": 180.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.000",
+          "-27.000"
+        ]
+      },
+      "properties": {
+        "id": 668,
+        "location": "Ashburton, Australia",
+        "updated_at": "2026-11-04 06:50:14 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 28.5,
+        "total_30_days": 60.0
       }
     },
     {
@@ -1140,17 +384,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.856,
-          -26.772
+          153.349,
+          -28.4
         ]
       },
       "properties": {
-        "id": 1496,
-        "location": "South Africa",
-        "updated_at": "2026-11-03 06:11:53 UTC",
-        "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 8.0,
-        "total_30_days": 8.0
+        "id": 1143,
+        "location": "Australia",
+        "updated_at": "2026-11-03 20:17:36 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 42.0,
+        "total_30_days": 290.5
       }
     },
     {
@@ -1158,17 +402,233 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.592,
-          -38.036
+          24.754,
+          42.154
         ]
       },
       "properties": {
-        "id": 1695,
-        "location": "Sale, Australia",
-        "updated_at": "2026-11-02 23:12:50 UTC",
+        "id": 1825,
+        "location": "Plovdiv, Bulgaria",
+        "updated_at": "2026-11-04 06:01:57 UTC",
         "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 8.6,
-        "total_30_days": 32.4
+        "total_7_days": 66.3,
+        "total_30_days": 114.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06,
+          -38.11
+        ]
+      },
+      "properties": {
+        "id": 911,
+        "location": "Sale, Australia",
+        "updated_at": "2026-11-02 21:58:51 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 7.0,
+        "total_30_days": 40.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          -27.0
+        ]
+      },
+      "properties": {
+        "id": 1288,
+        "location": "Australia",
+        "updated_at": "2026-11-02 20:10:23 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 6.0,
+        "total_30_days": 13.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.15,
+          58.478
+        ]
+      },
+      "properties": {
+        "id": 1759,
+        "location": "Inverness, United Kingdom of Great Britain and Northern Ireland",
+        "updated_at": "2026-11-03 09:13:18 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 12.9,
+        "total_30_days": 98.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.888,
+          9.0
+        ]
+      },
+      "properties": {
+        "id": 1072,
+        "location": "Acarigua, Venezuela (Bolivarian Republic of)",
+        "updated_at": "2026-11-04 11:36:36 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 64.0,
+        "total_30_days": 233.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.333,
+          -35.002
+        ]
+      },
+      "properties": {
+        "id": 501,
+        "location": "Ocean Beach, Australia",
+        "updated_at": "2026-11-02 23:51:29 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 19.5,
+        "total_30_days": 154.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.568,
+          -28.861
+        ]
+      },
+      "properties": {
+        "id": 941,
+        "location": "Ballina, Australia",
+        "updated_at": "2026-11-03 19:44:53 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 6.5,
+        "total_30_days": 268.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.178,
+          -33.869
+        ]
+      },
+      "properties": {
+        "id": 1894,
+        "location": "Sydney, Australia",
+        "updated_at": "2026-11-04 00:35:53 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 21.5,
+        "total_30_days": 101.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.975,
+          -37.82
+        ]
+      },
+      "properties": {
+        "id": 1729,
+        "location": "Melbourne, Australia",
+        "updated_at": "2026-11-03 07:23:49 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 11.5,
+        "total_30_days": 56.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.014,
+          -34.626
+        ]
+      },
+      "properties": {
+        "id": 475,
+        "location": "Blakney Creek",
+        "updated_at": "2026-11-04 02:14:21 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 9.0,
+        "total_30_days": 34.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.247,
+          -41.293
+        ]
+      },
+      "properties": {
+        "id": 1070,
+        "location": "Nelson, New Zealand",
+        "updated_at": "2026-11-04 18:11:30 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 6.0,
+        "total_30_days": 40.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.703,
+          -26.158
+        ]
+      },
+      "properties": {
+        "id": 1126,
+        "location": "Johannesburg, South Africa",
+        "updated_at": "2026-11-02 18:21:15 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 10.0,
+        "total_30_days": 14.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.000",
+          "-27.000"
+        ]
+      },
+      "properties": {
+        "id": 638,
+        "location": "Sutton Forest, Australia",
+        "updated_at": "2026-11-04 06:07:39 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 5.0,
+        "total_30_days": 34.0
       }
     },
     {
@@ -1194,17 +654,737 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.349,
-          -28.4
+          130.85,
+          -12.425
         ]
       },
       "properties": {
-        "id": 1143,
-        "location": "Australia",
-        "updated_at": "2026-11-03 05:46:41 UTC",
+        "id": 1658,
+        "location": "Darwin, Australia",
+        "updated_at": "2026-11-04 11:49:59 UTC",
         "last_record_at": "2026-11-03 00:00:00 UTC",
-        "total_7_days": 53.0,
+        "total_7_days": 13.5,
+        "total_30_days": 52.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.433,
+          53.583
+        ]
+      },
+      "properties": {
+        "id": 1567,
+        "location": "Bolton, United Kingdom of Great Britain and Northern Ireland",
+        "updated_at": "2026-11-04 08:40:34 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 0.0,
+        "total_30_days": 95.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.943,
+          -27.444
+        ]
+      },
+      "properties": {
+        "id": 1768,
+        "location": "Brisbane, Australia",
+        "updated_at": "2026-11-03 21:00:36 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 10.3,
+        "total_30_days": 299.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93,
+          -17.345
+        ]
+      },
+      "properties": {
+        "id": 818,
+        "location": "Atherton, Australia",
+        "updated_at": "2026-11-03 19:37:20 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 0.0,
+        "total_30_days": 79.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.714,
+          -30.335
+        ]
+      },
+      "properties": {
+        "id": 1660,
+        "location": "Coffs Harbour, Australia",
+        "updated_at": "2026-11-03 00:58:52 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 10.25,
+        "total_30_days": 202.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.57,
+          -33.42
+        ]
+      },
+      "properties": {
+        "id": 952,
+        "location": "Bathurst, Australia",
+        "updated_at": "2026-11-04 01:59:23 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 8.5,
+        "total_30_days": 32.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28,
+          -38.089
+        ]
+      },
+      "properties": {
+        "id": 2419,
+        "location": "Geelong, Australia",
+        "updated_at": "2026-11-04 13:14:06 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 15.8,
+        "total_30_days": 76.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5,
+          52.933
+        ]
+      },
+      "properties": {
+        "id": 1724,
+        "location": "Derby, United Kingdom of Great Britain and Northern Ireland",
+        "updated_at": "2026-11-04 10:27:31 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 3.5,
+        "total_30_days": 81.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.592,
+          -38.036
+        ]
+      },
+      "properties": {
+        "id": 1695,
+        "location": "Sale, Australia",
+        "updated_at": "2026-11-03 20:26:28 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 8.6,
+        "total_30_days": 32.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.44,
+          -35.25
+        ]
+      },
+      "properties": {
+        "id": 1928,
+        "location": "Canberra, Australia",
+        "updated_at": "2026-11-03 20:28:50 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 17.0,
+        "total_30_days": 47.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          -27.0
+        ]
+      },
+      "properties": {
+        "id": 1559,
+        "location": "Australia",
+        "updated_at": "2026-11-03 01:05:44 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 14.2,
+        "total_30_days": 24.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.000",
+          "-27.000"
+        ]
+      },
+      "properties": {
+        "id": 733,
+        "location": "Bundanoon, Australia",
+        "updated_at": "2026-11-03 20:15:24 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 16.0,
+        "total_30_days": 65.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.585,
+          -33.412
+        ]
+      },
+      "properties": {
+        "id": 445,
+        "location": "Bathurst",
+        "updated_at": "2026-11-04 11:53:49 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 13.2,
+        "total_30_days": 42.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.259,
+          -20.081
+        ]
+      },
+      "properties": {
+        "id": 958,
+        "location": "Charters Towers, Australia",
+        "updated_at": "2026-11-03 20:31:15 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 32.0,
+        "total_30_days": 78.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.299,
+          -29.994
+        ]
+      },
+      "properties": {
+        "id": 1659,
+        "location": "Inverell, Australia",
+        "updated_at": "2026-11-03 07:05:12 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 21.0,
+        "total_30_days": 114.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.956,
+          -27.564
+        ]
+      },
+      "properties": {
+        "id": 2157,
+        "location": "Toowoomba, Australia",
+        "updated_at": "2026-11-03 08:52:54 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 57.0,
+        "total_30_days": 228.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.000",
+          "-27.000"
+        ]
+      },
+      "properties": {
+        "id": 515,
+        "location": "Blackbutt, Australia",
+        "updated_at": "2026-11-03 10:05:12 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 40.5,
+        "total_30_days": 193.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95,
+          -27.083
+        ]
+      },
+      "properties": {
+        "id": 1286,
+        "location": "Caboolture, Australia",
+        "updated_at": "2026-11-02 07:17:40 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 0.0,
         "total_30_days": 288.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          -27.0
+        ]
+      },
+      "properties": {
+        "id": 812,
+        "location": "Australia",
+        "updated_at": "2026-11-04 10:06:30 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 30.0,
+        "total_30_days": 171.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.474,
+          -28.282
+        ]
+      },
+      "properties": {
+        "id": 1167,
+        "location": "Australia",
+        "updated_at": "2026-11-02 20:03:14 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 8.0,
+        "total_30_days": 234.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.984,
+          -26.011
+        ]
+      },
+      "properties": {
+        "id": 1124,
+        "location": "Johannesburg, South Africa",
+        "updated_at": "2026-11-04 16:00:38 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 36.0,
+        "total_30_days": 51.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.917,
+          -31.103
+        ]
+      },
+      "properties": {
+        "id": 816,
+        "location": "Tamworth, Australia",
+        "updated_at": "2026-10-31 22:38:34 UTC",
+        "last_record_at": "2026-11-01 00:00:00 UTC",
+        "total_7_days": 21.0,
+        "total_30_days": 91.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.801,
+          -32.035
+        ]
+      },
+      "properties": {
+        "id": 571,
+        "location": "Melville, Australia",
+        "updated_at": "2026-11-03 00:44:57 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 7.8,
+        "total_30_days": 37.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.02,
+          -28.229
+        ]
+      },
+      "properties": {
+        "id": 940,
+        "location": "Warwick, Australia",
+        "updated_at": "2026-11-01 20:50:20 UTC",
+        "last_record_at": "2026-11-01 00:00:00 UTC",
+        "total_7_days": 11.0,
+        "total_30_days": 202.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.817,
+          -1.283
+        ]
+      },
+      "properties": {
+        "id": 1900,
+        "location": "Nairobi, Kenya",
+        "updated_at": "2026-11-04 04:50:21 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 42.0,
+        "total_30_days": 76.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.856,
+          -26.772
+        ]
+      },
+      "properties": {
+        "id": 1496,
+        "location": "South Africa",
+        "updated_at": "2026-11-03 06:11:53 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 8.0,
+        "total_30_days": 8.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.35,
+          -27.459
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "location": "Spring Creek",
+        "updated_at": "2026-11-03 19:24:08 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 10.5,
+        "total_30_days": 178.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.861,
+          -33.833
+        ]
+      },
+      "properties": {
+        "id": 904,
+        "location": "Esperance, Australia",
+        "updated_at": "2026-11-03 11:50:07 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 0.0,
+        "total_30_days": 31.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.485,
+          -33.517
+        ]
+      },
+      "properties": {
+        "id": 485,
+        "location": "Bilpin",
+        "updated_at": "2026-11-03 21:58:33 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 35.0,
+        "total_30_days": 144.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.55,
+          -33.7
+        ]
+      },
+      "properties": {
+        "id": 2089,
+        "location": "Katanning, Australia",
+        "updated_at": "2026-11-03 02:05:02 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 3.2,
+        "total_30_days": 19.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.884,
+          -25.246
+        ]
+      },
+      "properties": {
+        "id": 944,
+        "location": "Bundaberg, Australia",
+        "updated_at": "2026-11-02 08:42:01 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 30.0,
+        "total_30_days": 163.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.000",
+          "-27.000"
+        ]
+      },
+      "properties": {
+        "id": 603,
+        "location": "Barragga Bay, Australia",
+        "updated_at": "2026-11-02 19:37:54 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 8.5,
+        "total_30_days": 34.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.477,
+          -28.759
+        ]
+      },
+      "properties": {
+        "id": 892,
+        "location": "Lismore, Australia",
+        "updated_at": "2026-11-03 19:28:39 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 5.7,
+        "total_30_days": 183.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.908,
+          38.067
+        ]
+      },
+      "properties": {
+        "id": 1326,
+        "location": "Hutchinson, United States of America",
+        "updated_at": "2026-11-02 23:23:36 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 0.48,
+        "total_30_days": 1.22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.346,
+          -26.477
+        ]
+      },
+      "properties": {
+        "id": 1315,
+        "location": "Vereeniging, South Africa",
+        "updated_at": "2026-11-03 05:04:34 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 20.0,
+        "total_30_days": 41.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.97,
+          -25.474
+        ]
+      },
+      "properties": {
+        "id": 950,
+        "location": "Nelspruit, South Africa",
+        "updated_at": "2026-11-04 04:19:58 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 7.5,
+        "total_30_days": 7.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          -27.0
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "location": "Kilsyth, Yarra Ranges, Australia",
+        "updated_at": "2026-11-02 23:44:24 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 31.0,
+        "total_30_days": 101.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.351,
+          -24.879
+        ]
+      },
+      "properties": {
+        "id": 947,
+        "location": "Bundaberg, Australia",
+        "updated_at": "2026-11-03 06:53:43 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 43.5,
+        "total_30_days": 299.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          -27.0
+        ]
+      },
+      "properties": {
+        "id": 1394,
+        "location": "Australia",
+        "updated_at": "2026-11-02 06:56:36 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 3.0,
+        "total_30_days": 452.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "id": 653,
+        "location": "Marlesford, Woodbridge, England",
+        "updated_at": "2026-11-04 08:52:00 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 2.0,
+        "total_30_days": 84.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.351,
+          -24.879
+        ]
+      },
+      "properties": {
+        "id": 1931,
+        "location": "Bundaberg, Australia",
+        "updated_at": "2026-11-03 20:24:10 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 12.0,
+        "total_30_days": 211.0
       }
     },
     {
@@ -1230,17 +1410,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95,
-          -27.083
+          "133.000",
+          "-27.000"
         ]
       },
       "properties": {
-        "id": 1286,
-        "location": "Caboolture, Australia",
-        "updated_at": "2026-11-02 07:17:40 UTC",
+        "id": 714,
+        "location": "Kersbrook, Australia",
+        "updated_at": "2026-11-03 06:06:19 UTC",
         "last_record_at": "2026-11-02 00:00:00 UTC",
-        "total_7_days": 3.0,
-        "total_30_days": 288.0
+        "total_7_days": 16.0,
+        "total_30_days": 81.0
       }
     },
     {
@@ -1248,17 +1428,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.57,
-          -33.42
+          153.133,
+          -26.8
         ]
       },
       "properties": {
-        "id": 952,
-        "location": "Bathurst, Australia",
-        "updated_at": "2026-11-02 20:45:14 UTC",
+        "id": 837,
+        "location": "Caloundra, Australia",
+        "updated_at": "2026-11-03 00:15:41 UTC",
         "last_record_at": "2026-11-02 00:00:00 UTC",
         "total_7_days": 7.5,
-        "total_30_days": 31.0
+        "total_30_days": 374.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.02,
+          -28.229
+        ]
+      },
+      "properties": {
+        "id": 882,
+        "location": "Warwick, Australia",
+        "updated_at": "2026-11-04 02:29:34 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 42.0,
+        "total_30_days": 296.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.349,
+          -33.656
+        ]
+      },
+      "properties": {
+        "id": 1324,
+        "location": "Busselton, Australia",
+        "updated_at": "2026-11-03 00:05:20 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 40.0,
+        "total_30_days": 83.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.035,
+          -27.455
+        ]
+      },
+      "properties": {
+        "id": 888,
+        "location": "Brisbane, Australia",
+        "updated_at": "2026-11-03 22:11:56 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 33.5,
+        "total_30_days": 196.0
       }
     },
     {
@@ -1273,10 +1507,10 @@
       "properties": {
         "id": 619,
         "location": "Argents Hill, Australia",
-        "updated_at": "2026-10-31 23:14:56 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 5.1,
-        "total_30_days": 200.4
+        "updated_at": "2026-11-03 20:30:26 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 9.3,
+        "total_30_days": 200.0
       }
     },
     {
@@ -1284,17 +1518,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.678,
-          -33.862
+          -2.017,
+          52.5
         ]
       },
       "properties": {
-        "id": 2124,
-        "location": "Cape Town, South Africa",
-        "updated_at": "2026-10-22 16:16:01 UTC",
-        "last_record_at": "2026-10-22 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 25.5
+        "id": 2485,
+        "location": "Oldbury, United Kingdom of Great Britain and Northern Ireland",
+        "updated_at": "2026-11-03 09:46:39 UTC",
+        "last_record_at": "2026-11-02 00:00:00 UTC",
+        "total_7_days": 0.0,
+        "total_30_days": 76.2
       }
     },
     {
@@ -1302,17 +1536,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.747,
-          -32.523
+          144.564,
+          -37.421
         ]
       },
       "properties": {
-        "id": 1118,
-        "location": "Mandurah, Australia",
-        "updated_at": "2026-11-01 02:26:10 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 14.0,
-        "total_30_days": 56.1
+        "id": 373,
+        "location": "Macedon, Australia",
+        "updated_at": "2026-11-02 21:22:06 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
+        "total_7_days": 20.0,
+        "total_30_days": 77.0
       }
     },
     {
@@ -1320,305 +1554,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.573,
-          -38.114
+          151.815,
+          -32.845
         ]
       },
       "properties": {
-        "id": 152,
-        "location": "Heywood, Australia",
-        "updated_at": "2026-10-30 22:19:07 UTC",
-        "last_record_at": "2026-10-30 00:00:00 UTC",
-        "total_7_days": 4.0,
-        "total_30_days": 28.75
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -68.888,
-          9.0
-        ]
-      },
-      "properties": {
-        "id": 1072,
-        "location": "Acarigua, Venezuela (Bolivarian Republic of)",
-        "updated_at": "2026-10-21 11:08:36 UTC",
-        "last_record_at": "2026-10-20 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 169.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.791,
-          -26.559
-        ]
-      },
-      "properties": {
-        "id": 1428,
-        "location": "Roma, Australia",
-        "updated_at": "2026-10-30 20:07:06 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 29.4,
-        "total_30_days": 131.9
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.423,
-          33.763
-        ]
-      },
-      "properties": {
-        "id": 1169,
-        "location": "Atlanta, United States of America",
-        "updated_at": "2026-10-11 11:35:30 UTC",
-        "last_record_at": "2026-10-10 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 2.1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.767,
-          -36.316
-        ]
-      },
-      "properties": {
-        "id": 1030,
-        "location": "Bordertown, Australia",
-        "updated_at": "2026-10-28 23:00:12 UTC",
-        "last_record_at": "2026-10-25 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 29.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.007,
-          -17.808
-        ]
-      },
-      "properties": {
-        "id": 59,
-        "location": "El arish",
-        "updated_at": "2026-10-26 09:09:20 UTC",
-        "last_record_at": "2026-10-25 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 175.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          174.903,
-          -37.202
-        ]
-      },
-      "properties": {
-        "id": 1762,
-        "location": "Pukekohe, New Zealand",
-        "updated_at": "2026-10-28 09:05:54 UTC",
-        "last_record_at": "2026-10-28 00:00:00 UTC",
-        "total_7_days": 6.0,
-        "total_30_days": 33.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.84,
-          -31.955
-        ]
-      },
-      "properties": {
-        "id": 873,
-        "location": "Perth, Australia",
-        "updated_at": "2026-11-02 15:57:08 UTC",
-        "last_record_at": "2026-10-30 00:00:00 UTC",
-        "total_7_days": 6.4,
-        "total_30_days": 43.1
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.639,
-          -22.128
-        ]
-      },
-      "properties": {
-        "id": 1627,
-        "location": "Zimbabwe",
-        "updated_at": "2026-10-09 13:25:22 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 6.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.788,
-          -30.325
-        ]
-      },
-      "properties": {
-        "id": 2221,
-        "location": "Narrabri, Australia",
-        "updated_at": "2026-10-18 23:38:26 UTC",
-        "last_record_at": "2026-10-15 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 78.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.805,
-          35.344
-        ]
-      },
-      "properties": {
-        "id": 1285,
-        "location": "United States of America",
-        "updated_at": "2026-10-11 11:48:37 UTC",
-        "last_record_at": "2026-10-10 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 6.12
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.259,
-          -20.081
-        ]
-      },
-      "properties": {
-        "id": 958,
-        "location": "Charters Towers, Australia",
-        "updated_at": "2026-10-23 22:31:07 UTC",
-        "last_record_at": "2026-10-23 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 46.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.351,
-          -24.879
-        ]
-      },
-      "properties": {
-        "id": 948,
-        "location": "Bundaberg, Australia",
-        "updated_at": "2026-10-13 23:20:43 UTC",
-        "last_record_at": "2026-10-14 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 4.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.069,
-          -32.731
-        ]
-      },
-      "properties": {
-        "id": 1071,
-        "location": "Australia",
-        "updated_at": "2026-10-15 09:40:26 UTC",
-        "last_record_at": "2026-10-15 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 7.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.99,
-          -22.21
-        ]
-      },
-      "properties": {
-        "id": 1899,
-        "location": "Beitbridge, Zimbabwe",
-        "updated_at": "2026-10-09 13:23:19 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 11.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.58,
-          -38.34
-        ]
-      },
-      "properties": {
-        "id": 814,
-        "location": "Colac, Australia",
-        "updated_at": "2026-10-14 21:45:39 UTC",
-        "last_record_at": "2026-10-14 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 6.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.351,
-          -24.879
-        ]
-      },
-      "properties": {
-        "id": 1931,
-        "location": "Bundaberg, Australia",
-        "updated_at": "2026-10-29 04:54:23 UTC",
-        "last_record_at": "2026-10-26 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 199.0
+        "id": 2486,
+        "location": "Newcastle, Australia",
+        "updated_at": "2026-11-03 20:35:57 UTC",
+        "last_record_at": "2026-11-04 00:00:00 UTC",
+        "total_7_days": 11.5,
+        "total_30_days": 68.3
       }
     },
     {
@@ -1627,232 +1573,16 @@
         "type": "Point",
         "coordinates": [
           151.153,
-          -28.639
+          -28.629
         ]
       },
       "properties": {
-        "id": 443,
+        "id": 486,
         "location": "Brush Creek",
-        "updated_at": "2026-11-01 12:43:39 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
+        "updated_at": "2026-11-03 21:39:23 UTC",
+        "last_record_at": "2026-11-03 00:00:00 UTC",
         "total_7_days": 17.0,
-        "total_30_days": 159.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.203,
-          13.71
-        ]
-      },
-      "properties": {
-        "id": 1694,
-        "location": "San Salvador, El Salvador",
-        "updated_at": "2026-10-21 14:28:23 UTC",
-        "last_record_at": "2026-10-21 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 109.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.113,
-          -29.767
-        ]
-      },
-      "properties": {
-        "id": 1291,
-        "location": "Inverell, Australia",
-        "updated_at": "2026-10-31 22:13:24 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 16.0,
-        "total_30_days": 165.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.738,
-          -32.708
-        ]
-      },
-      "properties": {
-        "id": 1301,
-        "location": "Australia",
-        "updated_at": "2026-10-16 04:26:39 UTC",
-        "last_record_at": "2026-10-16 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 15.25
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.0,
-          -27.0
-        ]
-      },
-      "properties": {
-        "id": 812,
-        "location": "Australia",
-        "updated_at": "2026-10-30 07:52:38 UTC",
-        "last_record_at": "2026-10-29 00:00:00 UTC",
-        "total_7_days": 1.5,
-        "total_30_days": 143.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 704,
-        "location": "Beechforest, Australia",
-        "updated_at": "2026-11-01 21:08:07 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 28.9,
-        "total_30_days": 80.3
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.738,
-          52.121
-        ]
-      },
-      "properties": {
-        "id": 1272,
-        "location": "Waterford, Ireland",
-        "updated_at": "2026-10-27 17:06:28 UTC",
-        "last_record_at": "2026-10-26 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 121.6
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          171.243,
-          -44.397
-        ]
-      },
-      "properties": {
-        "id": 1763,
-        "location": "Timaru, New Zealand",
-        "updated_at": "2026-10-29 22:01:38 UTC",
-        "last_record_at": "2026-10-29 00:00:00 UTC",
-        "total_7_days": 15.5,
-        "total_30_days": 58.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.85,
-          -12.425
-        ]
-      },
-      "properties": {
-        "id": 1658,
-        "location": "Darwin, Australia",
-        "updated_at": "2026-10-31 22:06:40 UTC",
-        "last_record_at": "2026-10-30 00:00:00 UTC",
-        "total_7_days": 11.5,
-        "total_30_days": 50.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.919,
-          -31.445
-        ]
-      },
-      "properties": {
-        "id": 810,
-        "location": "Port Macquarie, Australia",
-        "updated_at": "2026-10-27 01:59:51 UTC",
-        "last_record_at": "2026-10-27 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 161.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.472,
-          -33.937
-        ]
-      },
-      "properties": {
-        "id": 884,
-        "location": "Cape Town, South Africa",
-        "updated_at": "2026-10-22 16:57:31 UTC",
-        "last_record_at": "2026-10-22 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 43.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.604,
-          -22.136
-        ]
-      },
-      "properties": {
-        "id": 1629,
-        "location": "Beitbridge, Zimbabwe",
-        "updated_at": "2026-10-09 13:24:45 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 5.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.02,
-          -28.229
-        ]
-      },
-      "properties": {
-        "id": 2488,
-        "location": "Warwick, Australia",
-        "updated_at": "2026-10-25 06:13:38 UTC",
-        "last_record_at": "2026-10-25 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 15.0
+        "total_30_days": 162.0
       }
     },
     {
@@ -1878,17 +1608,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.84,
-          -37.56
+          26.22,
+          -29.078
         ]
       },
       "properties": {
-        "id": 1280,
-        "location": "Ballarat, Australia",
-        "updated_at": "2026-10-26 09:09:13 UTC",
-        "last_record_at": "2026-10-26 00:00:00 UTC",
+        "id": 768,
+        "location": "Bloemfontein, South Africa",
+        "updated_at": "2026-10-14 15:01:09 UTC",
+        "last_record_at": "2026-10-14 00:00:00 UTC",
         "total_7_days": 0,
-        "total_30_days": 45.5
+        "total_30_days": 18.0
       }
     },
     {
@@ -1896,17 +1626,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.64,
-          -22.098
+          118.738,
+          -32.708
         ]
       },
       "properties": {
-        "id": 1626,
-        "location": "Zimbabwe",
-        "updated_at": "2026-10-09 13:27:21 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "id": 1301,
+        "location": "Australia",
+        "updated_at": "2026-10-16 04:26:39 UTC",
+        "last_record_at": "2026-10-16 00:00:00 UTC",
         "total_7_days": 0,
-        "total_30_days": 10.0
+        "total_30_days": 15.25
       }
     },
     {
@@ -1914,17 +1644,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.552,
-          -34.898
+          152.95,
+          -27.083
         ]
       },
       "properties": {
-        "id": 507,
-        "location": "Beverley, Australia",
-        "updated_at": "2026-11-01 07:05:30 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 11.0,
-        "total_30_days": 36.0
+        "id": 1135,
+        "location": "Caboolture, Australia",
+        "updated_at": "2026-10-28 07:42:46 UTC",
+        "last_record_at": "2026-10-28 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 478.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.573,
+          -38.114
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "location": "Heywood, Australia",
+        "updated_at": "2026-10-30 22:19:07 UTC",
+        "last_record_at": "2026-10-30 00:00:00 UTC",
+        "total_7_days": 3.0,
+        "total_30_days": 26.75
       }
     },
     {
@@ -1950,503 +1698,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.031,
-          -34.203
+          -89.203,
+          13.71
         ]
       },
       "properties": {
-        "id": 1207,
-        "location": "Hermanus, South Africa",
-        "updated_at": "2026-10-22 06:01:16 UTC",
-        "last_record_at": "2026-10-22 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 35.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.178,
-          -33.869
-        ]
-      },
-      "properties": {
-        "id": 1894,
-        "location": "Sydney, Australia",
-        "updated_at": "2026-10-26 00:29:02 UTC",
-        "last_record_at": "2026-10-26 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 80.25
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          117.098,
-          -31.178
-        ]
-      },
-      "properties": {
-        "id": 1959,
-        "location": "Northam, Australia",
-        "updated_at": "2026-10-22 00:38:42 UTC",
-        "last_record_at": "2026-10-22 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 11.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.953,
-          -24.99
-        ]
-      },
-      "properties": {
-        "id": 943,
-        "location": "Bundaberg, Australia",
-        "updated_at": "2026-10-24 13:13:24 UTC",
-        "last_record_at": "2026-10-22 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 61.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.0,
-          0.0
-        ]
-      },
-      "properties": {
-        "id": 2452,
-        "location": "Derby, United Kingdom of Great Britain and Northern Ireland",
-        "updated_at": "2026-10-27 09:28:31 UTC",
-        "last_record_at": "2026-10-27 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 67.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.477,
-          -28.759
-        ]
-      },
-      "properties": {
-        "id": 892,
-        "location": "Lismore, Australia",
-        "updated_at": "2026-10-28 20:46:17 UTC",
-        "last_record_at": "2026-10-28 00:00:00 UTC",
-        "total_7_days": 0.5,
-        "total_30_days": 177.4
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.943,
-          -27.444
-        ]
-      },
-      "properties": {
-        "id": 1768,
-        "location": "Brisbane, Australia",
-        "updated_at": "2026-10-30 21:34:51 UTC",
-        "last_record_at": "2026-10-30 00:00:00 UTC",
-        "total_7_days": 9.9,
-        "total_30_days": 289.6
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.767,
-          -36.316
-        ]
-      },
-      "properties": {
-        "id": 2386,
-        "location": "Bordertown, Australia",
-        "updated_at": "2026-10-31 22:04:23 UTC",
-        "last_record_at": "2026-10-27 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 248.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          176.854,
-          -39.418
-        ]
-      },
-      "properties": {
-        "id": 835,
-        "location": "Napier, New Zealand",
-        "updated_at": "2026-11-02 07:28:15 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 0.2,
-        "total_30_days": 29.19
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 638,
-        "location": "Sutton Forest, Australia",
-        "updated_at": "2026-10-25 20:40:29 UTC",
-        "last_record_at": "2026-10-26 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 29.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.396,
-          -28.119
-        ]
-      },
-      "properties": {
-        "id": 936,
-        "location": "Gold Coast, Australia",
-        "updated_at": "2026-10-21 23:16:00 UTC",
-        "last_record_at": "2026-10-22 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 178.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 748,
-        "location": "Bolgart, Australia",
-        "updated_at": "2026-10-27 13:00:10 UTC",
-        "last_record_at": "2026-10-26 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 10.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.533,
-          55.883
-        ]
-      },
-      "properties": {
-        "id": 938,
-        "location": "Livingston, United Kingdom of Great Britain and Northern Ireland",
-        "updated_at": "2026-10-27 13:58:32 UTC",
-        "last_record_at": "2026-10-26 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 101.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.153,
-          -28.629
-        ]
-      },
-      "properties": {
-        "id": 486,
-        "location": "Brush Creek",
-        "updated_at": "2026-10-31 22:18:58 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 17.0,
-        "total_30_days": 163.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.0,
-          -27.0
-        ]
-      },
-      "properties": {
-        "id": 813,
-        "location": "Australia",
-        "updated_at": "2026-10-29 08:22:19 UTC",
-        "last_record_at": "2026-10-29 00:00:00 UTC",
-        "total_7_days": 3.0,
-        "total_30_days": 187.5
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.732,
-          -22.113
-        ]
-      },
-      "properties": {
-        "id": 1631,
-        "location": "Beitbridge, Zimbabwe",
-        "updated_at": "2026-10-09 13:28:17 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 5.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.283,
-          -38.1
-        ]
-      },
-      "properties": {
-        "id": 836,
-        "location": "Cranbourne, Australia",
-        "updated_at": "2026-10-31 19:38:55 UTC",
-        "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 7.5,
-        "total_30_days": 66.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.836,
-          -16.783
-        ]
-      },
-      "properties": {
-        "id": 1277,
-        "location": "Mazowe, Zimbabwe",
-        "updated_at": "2026-10-09 13:31:56 UTC",
-        "last_record_at": "2026-10-05 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 7.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.617,
-          -22.121
-        ]
-      },
-      "properties": {
-        "id": 1630,
-        "location": "Beitbridge, Zimbabwe",
-        "updated_at": "2026-10-09 13:24:58 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 10.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.653,
-          -31.657
-        ]
-      },
-      "properties": {
-        "id": 1958,
-        "location": "Northam, Australia",
-        "updated_at": "2026-10-16 07:05:08 UTC",
-        "last_record_at": "2026-10-15 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 11.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.607,
-          -22.148
-        ]
-      },
-      "properties": {
-        "id": 1628,
-        "location": "Beitbridge, Zimbabwe",
-        "updated_at": "2026-10-09 13:24:17 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 5.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.5,
-          -12.5
-        ]
-      },
-      "properties": {
-        "id": 1128,
-        "location": "Angola",
-        "updated_at": "2026-11-03 07:17:14 UTC",
-        "last_record_at": "2026-10-30 00:00:00 UTC",
-        "total_7_days": 15.0,
-        "total_30_days": 40.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.806,
-          -22.14
-        ]
-      },
-      "properties": {
-        "id": 1632,
-        "location": "Beitbridge, Zimbabwe",
-        "updated_at": "2026-10-09 13:28:00 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 2.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.22,
-          -29.078
-        ]
-      },
-      "properties": {
-        "id": 768,
-        "location": "Bloemfontein, South Africa",
-        "updated_at": "2026-10-14 15:01:09 UTC",
-        "last_record_at": "2026-10-14 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 18.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.627,
-          -22.131
-        ]
-      },
-      "properties": {
-        "id": 1625,
-        "location": "Zimbabwe",
-        "updated_at": "2026-10-09 13:23:56 UTC",
-        "last_record_at": "2026-10-06 00:00:00 UTC",
-        "total_7_days": 0,
-        "total_30_days": 8.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "133.000",
-          "-27.000"
-        ]
-      },
-      "properties": {
-        "id": 1792,
-        "location": "Australia",
-        "updated_at": "2026-10-30 20:45:45 UTC",
-        "last_record_at": "2026-10-30 00:00:00 UTC",
-        "total_7_days": 5.0,
-        "total_30_days": 104.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.435,
-          -33.92
-        ]
-      },
-      "properties": {
-        "id": 1153,
-        "location": "Cape Town, South Africa",
-        "updated_at": "2026-10-22 10:44:02 UTC",
+        "id": 1694,
+        "location": "San Salvador, El Salvador",
+        "updated_at": "2026-10-21 14:28:23 UTC",
         "last_record_at": "2026-10-21 00:00:00 UTC",
         "total_7_days": 0,
-        "total_30_days": 39.0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.457,
-          -35.269
-        ]
-      },
-      "properties": {
-        "id": 1568,
-        "location": "Adelaide, Australia",
-        "updated_at": "2026-10-30 20:43:44 UTC",
-        "last_record_at": "2026-10-30 00:00:00 UTC",
-        "total_7_days": 7.0,
-        "total_30_days": 24.4
+        "total_30_days": 104.0
       }
     },
     {
@@ -2472,17 +1734,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0,
-          0.0
+          29.639,
+          -22.128
         ]
       },
       "properties": {
-        "id": 653,
-        "location": "Marlesford, Woodbridge, England",
-        "updated_at": "2026-10-28 07:59:52 UTC",
-        "last_record_at": "2026-10-27 00:00:00 UTC",
+        "id": 1627,
+        "location": "Zimbabwe",
+        "updated_at": "2026-10-09 13:25:22 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
         "total_7_days": 0,
-        "total_30_days": 82.0
+        "total_30_days": 6.0
       }
     },
     {
@@ -2490,17 +1752,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          173.247,
-          -41.293
+          29.732,
+          -22.113
         ]
       },
       "properties": {
-        "id": 1070,
-        "location": "Nelson, New Zealand",
-        "updated_at": "2026-10-29 18:03:01 UTC",
-        "last_record_at": "2026-10-30 00:00:00 UTC",
-        "total_7_days": 2.0,
-        "total_30_days": 36.5
+        "id": 1631,
+        "location": "Beitbridge, Zimbabwe",
+        "updated_at": "2026-10-09 13:28:17 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 5.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.533,
+          55.883
+        ]
+      },
+      "properties": {
+        "id": 938,
+        "location": "Livingston, United Kingdom of Great Britain and Northern Ireland",
+        "updated_at": "2026-10-27 13:58:32 UTC",
+        "last_record_at": "2026-10-26 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 101.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.283,
+          -38.1
+        ]
+      },
+      "properties": {
+        "id": 836,
+        "location": "Cranbourne, Australia",
+        "updated_at": "2026-10-31 19:38:55 UTC",
+        "last_record_at": "2026-10-31 00:00:00 UTC",
+        "total_7_days": 7.5,
+        "total_30_days": 66.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.604,
+          -22.136
+        ]
+      },
+      "properties": {
+        "id": 1629,
+        "location": "Beitbridge, Zimbabwe",
+        "updated_at": "2026-10-09 13:24:45 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 5.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.738,
+          52.121
+        ]
+      },
+      "properties": {
+        "id": 1272,
+        "location": "Waterford, Ireland",
+        "updated_at": "2026-10-27 17:06:28 UTC",
+        "last_record_at": "2026-10-26 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 121.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.791,
+          -26.559
+        ]
+      },
+      "properties": {
+        "id": 1428,
+        "location": "Roma, Australia",
+        "updated_at": "2026-10-30 20:07:06 UTC",
+        "last_record_at": "2026-10-31 00:00:00 UTC",
+        "total_7_days": 25.8,
+        "total_30_days": 131.9
       }
     },
     {
@@ -2526,6 +1878,384 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.767,
+          -36.316
+        ]
+      },
+      "properties": {
+        "id": 2386,
+        "location": "Bordertown, Australia",
+        "updated_at": "2026-10-31 22:04:23 UTC",
+        "last_record_at": "2026-10-27 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 248.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.000",
+          "-27.000"
+        ]
+      },
+      "properties": {
+        "id": 1792,
+        "location": "Australia",
+        "updated_at": "2026-11-04 03:04:04 UTC",
+        "last_record_at": "2026-10-30 00:00:00 UTC",
+        "total_7_days": 5.0,
+        "total_30_days": 104.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.472,
+          -33.937
+        ]
+      },
+      "properties": {
+        "id": 884,
+        "location": "Cape Town, South Africa",
+        "updated_at": "2026-10-22 16:57:31 UTC",
+        "last_record_at": "2026-10-22 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 43.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.919,
+          -31.445
+        ]
+      },
+      "properties": {
+        "id": 810,
+        "location": "Port Macquarie, Australia",
+        "updated_at": "2026-10-27 01:59:51 UTC",
+        "last_record_at": "2026-10-27 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 159.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.788,
+          -30.325
+        ]
+      },
+      "properties": {
+        "id": 2221,
+        "location": "Narrabri, Australia",
+        "updated_at": "2026-10-18 23:38:26 UTC",
+        "last_record_at": "2026-10-15 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 78.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.435,
+          -33.92
+        ]
+      },
+      "properties": {
+        "id": 1153,
+        "location": "Cape Town, South Africa",
+        "updated_at": "2026-10-22 10:44:02 UTC",
+        "last_record_at": "2026-10-21 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 27.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.113,
+          -29.767
+        ]
+      },
+      "properties": {
+        "id": 1291,
+        "location": "Inverell, Australia",
+        "updated_at": "2026-10-31 22:13:24 UTC",
+        "last_record_at": "2026-10-31 00:00:00 UTC",
+        "total_7_days": 16.0,
+        "total_30_days": 165.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.84,
+          -31.955
+        ]
+      },
+      "properties": {
+        "id": 873,
+        "location": "Perth, Australia",
+        "updated_at": "2026-11-02 15:57:08 UTC",
+        "last_record_at": "2026-10-30 00:00:00 UTC",
+        "total_7_days": 6.4,
+        "total_30_days": 43.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.457,
+          -35.269
+        ]
+      },
+      "properties": {
+        "id": 1568,
+        "location": "Adelaide, Australia",
+        "updated_at": "2026-10-30 20:43:44 UTC",
+        "last_record_at": "2026-10-30 00:00:00 UTC",
+        "total_7_days": 7.0,
+        "total_30_days": 23.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.903,
+          -37.202
+        ]
+      },
+      "properties": {
+        "id": 1762,
+        "location": "Pukekohe, New Zealand",
+        "updated_at": "2026-10-28 09:05:54 UTC",
+        "last_record_at": "2026-10-28 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 33.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.64,
+          -22.098
+        ]
+      },
+      "properties": {
+        "id": 1626,
+        "location": "Zimbabwe",
+        "updated_at": "2026-10-09 13:27:21 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.806,
+          -22.14
+        ]
+      },
+      "properties": {
+        "id": 1632,
+        "location": "Beitbridge, Zimbabwe",
+        "updated_at": "2026-10-09 13:28:00 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 2.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.396,
+          -28.119
+        ]
+      },
+      "properties": {
+        "id": 936,
+        "location": "Gold Coast, Australia",
+        "updated_at": "2026-10-21 23:16:00 UTC",
+        "last_record_at": "2026-10-22 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 178.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.747,
+          -32.523
+        ]
+      },
+      "properties": {
+        "id": 1118,
+        "location": "Mandurah, Australia",
+        "updated_at": "2026-11-01 02:26:10 UTC",
+        "last_record_at": "2026-10-31 00:00:00 UTC",
+        "total_7_days": 14.0,
+        "total_30_days": 56.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.953,
+          -24.99
+        ]
+      },
+      "properties": {
+        "id": 943,
+        "location": "Bundaberg, Australia",
+        "updated_at": "2026-10-24 13:13:24 UTC",
+        "last_record_at": "2026-10-22 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 61.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.000",
+          "-27.000"
+        ]
+      },
+      "properties": {
+        "id": 748,
+        "location": "Bolgart, Australia",
+        "updated_at": "2026-10-27 13:00:10 UTC",
+        "last_record_at": "2026-10-26 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.243,
+          -44.397
+        ]
+      },
+      "properties": {
+        "id": 1763,
+        "location": "Timaru, New Zealand",
+        "updated_at": "2026-10-29 22:01:38 UTC",
+        "last_record_at": "2026-10-29 00:00:00 UTC",
+        "total_7_days": 15.5,
+        "total_30_days": 58.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58,
+          -38.34
+        ]
+      },
+      "properties": {
+        "id": 814,
+        "location": "Colac, Australia",
+        "updated_at": "2026-10-14 21:45:39 UTC",
+        "last_record_at": "2026-10-14 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.000",
+          "-27.000"
+        ]
+      },
+      "properties": {
+        "id": 704,
+        "location": "Beechforest, Australia",
+        "updated_at": "2026-11-01 21:08:07 UTC",
+        "last_record_at": "2026-10-31 00:00:00 UTC",
+        "total_7_days": 26.4,
+        "total_30_days": 80.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5,
+          -12.5
+        ]
+      },
+      "properties": {
+        "id": 1128,
+        "location": "Angola",
+        "updated_at": "2026-11-03 07:17:14 UTC",
+        "last_record_at": "2026-10-30 00:00:00 UTC",
+        "total_7_days": 15.0,
+        "total_30_days": 40.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.99,
+          -22.21
+        ]
+      },
+      "properties": {
+        "id": 1899,
+        "location": "Beitbridge, Zimbabwe",
+        "updated_at": "2026-10-09 13:23:19 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 11.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           118.78,
           -32.87
         ]
@@ -2537,6 +2267,94 @@
         "last_record_at": "2026-10-22 00:00:00 UTC",
         "total_7_days": 0,
         "total_30_days": 13.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.805,
+          35.344
+        ]
+      },
+      "properties": {
+        "id": 1285,
+        "location": "United States of America",
+        "updated_at": "2026-10-11 11:48:37 UTC",
+        "last_record_at": "2026-10-10 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 6.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.607,
+          -22.148
+        ]
+      },
+      "properties": {
+        "id": 1628,
+        "location": "Beitbridge, Zimbabwe",
+        "updated_at": "2026-10-09 13:24:17 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 5.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.767,
+          -36.316
+        ]
+      },
+      "properties": {
+        "id": 1030,
+        "location": "Bordertown, Australia",
+        "updated_at": "2026-10-28 23:00:12 UTC",
+        "last_record_at": "2026-10-25 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 29.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.836,
+          -16.783
+        ]
+      },
+      "properties": {
+        "id": 1277,
+        "location": "Mazowe, Zimbabwe",
+        "updated_at": "2026-10-09 13:31:56 UTC",
+        "last_record_at": "2026-10-05 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.617,
+          -22.121
+        ]
+      },
+      "properties": {
+        "id": 1630,
+        "location": "Beitbridge, Zimbabwe",
+        "updated_at": "2026-10-09 13:24:58 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 10.0
       }
     },
     {
@@ -2562,17 +2380,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95,
-          -27.083
+          117.098,
+          -31.178
         ]
       },
       "properties": {
-        "id": 1135,
-        "location": "Caboolture, Australia",
-        "updated_at": "2026-10-28 07:42:46 UTC",
-        "last_record_at": "2026-10-28 00:00:00 UTC",
-        "total_7_days": 7.0,
-        "total_30_days": 478.5
+        "id": 1959,
+        "location": "Northam, Australia",
+        "updated_at": "2026-10-22 00:38:42 UTC",
+        "last_record_at": "2026-10-22 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 11.5
       }
     },
     {
@@ -2580,17 +2398,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.035,
-          -27.455
+          18.678,
+          -33.862
         ]
       },
       "properties": {
-        "id": 2155,
-        "location": "Brisbane, Australia",
-        "updated_at": "2026-11-01 00:34:55 UTC",
+        "id": 2124,
+        "location": "Cape Town, South Africa",
+        "updated_at": "2026-10-22 16:16:01 UTC",
+        "last_record_at": "2026-10-22 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 25.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84,
+          -37.56
+        ]
+      },
+      "properties": {
+        "id": 1280,
+        "location": "Ballarat, Australia",
+        "updated_at": "2026-10-26 09:09:13 UTC",
+        "last_record_at": "2026-10-26 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 45.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.627,
+          -22.131
+        ]
+      },
+      "properties": {
+        "id": 1625,
+        "location": "Zimbabwe",
+        "updated_at": "2026-10-09 13:23:56 UTC",
+        "last_record_at": "2026-10-06 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 8.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.854,
+          -39.418
+        ]
+      },
+      "properties": {
+        "id": 835,
+        "location": "Napier, New Zealand",
+        "updated_at": "2026-11-02 07:28:15 UTC",
         "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 0.0,
-        "total_30_days": 304.5
+        "total_7_days": 0.2,
+        "total_30_days": 29.19
       }
     },
     {
@@ -2598,17 +2470,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.433,
-          53.583
+          116.653,
+          -31.657
         ]
       },
       "properties": {
-        "id": 1567,
-        "location": "Bolton, United Kingdom of Great Britain and Northern Ireland",
-        "updated_at": "2026-11-01 08:26:47 UTC",
+        "id": 1958,
+        "location": "Northam, Australia",
+        "updated_at": "2026-10-16 07:05:08 UTC",
+        "last_record_at": "2026-10-15 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 11.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.351,
+          -24.879
+        ]
+      },
+      "properties": {
+        "id": 948,
+        "location": "Bundaberg, Australia",
+        "updated_at": "2026-10-13 23:20:43 UTC",
+        "last_record_at": "2026-10-14 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 4.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.552,
+          -34.898
+        ]
+      },
+      "properties": {
+        "id": 507,
+        "location": "Beverley, Australia",
+        "updated_at": "2026-11-01 07:05:30 UTC",
         "last_record_at": "2026-10-31 00:00:00 UTC",
-        "total_7_days": 1.0,
-        "total_30_days": 99.0
+        "total_7_days": 11.0,
+        "total_30_days": 36.0
       }
     },
     {
@@ -2616,15 +2524,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.157,
-          -25.681
+          -84.423,
+          33.763
         ]
       },
       "properties": {
-        "id": 923,
-        "location": "Nelspruit, South Africa",
-        "updated_at": "2026-09-07 13:31:57 UTC",
-        "last_record_at": "2026-09-07 00:00:00 UTC"
+        "id": 1169,
+        "location": "Atlanta, United States of America",
+        "updated_at": "2026-10-11 11:35:30 UTC",
+        "last_record_at": "2026-10-10 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 2.1
       }
     },
     {
@@ -2632,15 +2542,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.77,
-          -19.25
+          152.02,
+          -28.229
         ]
       },
       "properties": {
-        "id": 1922,
-        "location": "Townsville, Australia",
-        "updated_at": "2026-09-24 08:22:14 UTC",
-        "last_record_at": "2026-09-24 00:00:00 UTC"
+        "id": 2488,
+        "location": "Warwick, Australia",
+        "updated_at": "2026-10-25 06:13:38 UTC",
+        "last_record_at": "2026-10-25 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 15.0
       }
     },
     {
@@ -2648,15 +2560,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.99,
-          -22.21
+          19.031,
+          -34.203
         ]
       },
       "properties": {
-        "id": 1898,
-        "location": "Beitbridge, Zimbabwe",
-        "updated_at": "2026-09-08 09:11:20 UTC",
-        "last_record_at": "2026-09-08 00:00:00 UTC"
+        "id": 1207,
+        "location": "Hermanus, South Africa",
+        "updated_at": "2026-10-22 06:01:16 UTC",
+        "last_record_at": "2026-10-22 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 35.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.069,
+          -32.731
+        ]
+      },
+      "properties": {
+        "id": 1071,
+        "location": "Australia",
+        "updated_at": "2026-10-15 09:40:26 UTC",
+        "last_record_at": "2026-10-15 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 7.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.007,
+          -17.808
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "location": "El arish",
+        "updated_at": "2026-10-26 09:09:20 UTC",
+        "last_record_at": "2026-10-25 00:00:00 UTC",
+        "total_7_days": 0,
+        "total_30_days": 175.0
       }
     },
     {
@@ -2680,15 +2630,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.53,
-          50.7
+          146.77,
+          -19.25
         ]
       },
       "properties": {
-        "id": 1210,
-        "location": "Exeter, United Kingdom of Great Britain and Northern Ireland",
-        "updated_at": "2026-09-08 16:06:59 UTC",
-        "last_record_at": "2026-09-08 00:00:00 UTC"
+        "id": 1922,
+        "location": "Townsville, Australia",
+        "updated_at": "2026-09-24 08:22:14 UTC",
+        "last_record_at": "2026-09-24 00:00:00 UTC"
       }
     },
     {
@@ -2721,6 +2671,54 @@
         "location": "Northampton, United Kingdom of Great Britain and Northern Ireland",
         "updated_at": "2026-09-03 19:07:53 UTC",
         "last_record_at": "2026-09-02 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.53,
+          50.7
+        ]
+      },
+      "properties": {
+        "id": 1210,
+        "location": "Exeter, United Kingdom of Great Britain and Northern Ireland",
+        "updated_at": "2026-09-08 16:06:59 UTC",
+        "last_record_at": "2026-09-08 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.157,
+          -25.681
+        ]
+      },
+      "properties": {
+        "id": 923,
+        "location": "Nelspruit, South Africa",
+        "updated_at": "2026-09-07 13:31:57 UTC",
+        "last_record_at": "2026-09-07 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.99,
+          -22.21
+        ]
+      },
+      "properties": {
+        "id": 1898,
+        "location": "Beitbridge, Zimbabwe",
+        "updated_at": "2026-09-08 09:11:20 UTC",
+        "last_record_at": "2026-09-08 00:00:00 UTC"
       }
     },
     {
@@ -2824,15 +2822,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.787,
-          -25.364
+          151.946,
+          -27.593
         ]
       },
       "properties": {
-        "id": 468,
-        "location": "Sunshine Acres",
-        "updated_at": "2026-05-19 03:30:17 UTC",
-        "last_record_at": "2026-05-18 00:00:00 UTC"
+        "id": 710,
+        "location": "Toowoomba, Australia",
+        "updated_at": "2026-05-06 06:53:45 UTC",
+        "last_record_at": "2026-05-02 00:00:00 UTC"
       }
     },
     {
@@ -2856,22 +2854,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.946,
-          -27.593
-        ]
-      },
-      "properties": {
-        "id": 710,
-        "location": "Toowoomba, Australia",
-        "updated_at": "2026-05-06 06:53:45 UTC",
-        "last_record_at": "2026-05-02 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           26.851,
           -25.445
         ]
@@ -2881,6 +2863,22 @@
         "location": "Rustenburg, South Africa",
         "updated_at": "2026-05-06 06:42:45 UTC",
         "last_record_at": "2026-05-06 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.787,
+          -25.364
+        ]
+      },
+      "properties": {
+        "id": 468,
+        "location": "Sunshine Acres",
+        "updated_at": "2026-05-19 03:30:17 UTC",
+        "last_record_at": "2026-05-18 00:00:00 UTC"
       }
     },
     {
@@ -2904,14 +2902,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.035,
+          -27.455
+        ]
+      },
+      "properties": {
+        "id": 2287,
+        "location": "Brisbane, Australia",
+        "updated_at": "2026-06-12 06:52:22 UTC",
+        "last_record_at": "2026-03-23 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.444,
+          -33.909
+        ]
+      },
+      "properties": {
+        "id": 465,
+        "location": "Bumbaldry",
+        "updated_at": "2026-03-07 06:45:30 UTC",
+        "last_record_at": "2026-03-05 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           133.0,
           -27.0
         ]
       },
       "properties": {
-        "id": 2057,
+        "id": 2059,
         "location": "Australia",
-        "updated_at": "2026-03-26 22:07:57 UTC",
+        "updated_at": "2026-03-27 00:46:53 UTC",
+        "last_record_at": "2026-03-27 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6,
+          -34.935
+        ]
+      },
+      "properties": {
+        "id": 1826,
+        "location": "Adelaide, Australia",
+        "updated_at": "2026-03-16 23:04:54 UTC",
+        "last_record_at": "2026-03-16 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.433,
+          -31.95
+        ]
+      },
+      "properties": {
+        "id": 1209,
+        "location": "Broken Hill, Australia",
+        "updated_at": "2026-03-25 07:53:30 UTC",
+        "last_record_at": "2026-03-25 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.52,
+          -23.364
+        ]
+      },
+      "properties": {
+        "id": 1930,
+        "location": "Rockhampton, Australia",
+        "updated_at": "2026-03-22 07:00:11 UTC",
+        "last_record_at": "2026-03-22 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.139,
+          -33.824
+        ]
+      },
+      "properties": {
+        "id": 487,
+        "location": "Hunters Hill",
+        "updated_at": "2026-04-01 05:57:56 UTC",
+        "last_record_at": "2026-03-28 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          -27.0
+        ]
+      },
+      "properties": {
+        "id": 2056,
+        "location": "Australia",
+        "updated_at": "2026-03-26 22:05:15 UTC",
         "last_record_at": "2026-03-27 00:00:00 UTC"
       }
     },
@@ -2941,106 +3051,10 @@
         ]
       },
       "properties": {
-        "id": 2059,
-        "location": "Australia",
-        "updated_at": "2026-03-27 00:46:53 UTC",
-        "last_record_at": "2026-03-27 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.0,
-          -27.0
-        ]
-      },
-      "properties": {
-        "id": 2056,
-        "location": "Australia",
-        "updated_at": "2026-03-26 22:05:15 UTC",
-        "last_record_at": "2026-03-27 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.139,
-          -33.824
-        ]
-      },
-      "properties": {
-        "id": 487,
-        "location": "Hunters Hill",
-        "updated_at": "2026-04-01 05:57:56 UTC",
-        "last_record_at": "2026-03-28 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.444,
-          -33.909
-        ]
-      },
-      "properties": {
-        "id": 465,
-        "location": "Bumbaldry",
-        "updated_at": "2026-03-07 06:45:30 UTC",
-        "last_record_at": "2026-03-05 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.0,
-          -27.0
-        ]
-      },
-      "properties": {
         "id": 1957,
         "location": "Australia",
         "updated_at": "2026-03-16 02:41:18 UTC",
         "last_record_at": "2026-03-16 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.52,
-          -23.364
-        ]
-      },
-      "properties": {
-        "id": 1930,
-        "location": "Rockhampton, Australia",
-        "updated_at": "2026-03-22 07:00:11 UTC",
-        "last_record_at": "2026-03-22 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.433,
-          -31.95
-        ]
-      },
-      "properties": {
-        "id": 1209,
-        "location": "Broken Hill, Australia",
-        "updated_at": "2026-03-25 07:53:30 UTC",
-        "last_record_at": "2026-03-25 00:00:00 UTC"
       }
     },
     {
@@ -3064,47 +3078,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.6,
-          -34.935
+          133.0,
+          -27.0
         ]
       },
       "properties": {
-        "id": 1826,
-        "location": "Adelaide, Australia",
-        "updated_at": "2026-03-16 23:04:54 UTC",
-        "last_record_at": "2026-03-16 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.035,
-          -27.455
-        ]
-      },
-      "properties": {
-        "id": 2287,
-        "location": "Brisbane, Australia",
-        "updated_at": "2026-06-12 06:52:22 UTC",
-        "last_record_at": "2026-03-23 00:00:00 UTC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.68,
-          -33.83
-        ]
-      },
-      "properties": {
-        "id": 1566,
-        "location": "Cowra, Australia",
-        "updated_at": "2026-02-08 02:35:47 UTC",
-        "last_record_at": "2026-02-08 00:00:00 UTC"
+        "id": 2057,
+        "location": "Australia",
+        "updated_at": "2026-03-26 22:07:57 UTC",
+        "last_record_at": "2026-03-27 00:00:00 UTC"
       }
     },
     {
@@ -3120,6 +3102,22 @@
         "id": 1926,
         "location": "Bordeaux, France",
         "updated_at": "2026-02-09 08:24:11 UTC",
+        "last_record_at": "2026-02-08 00:00:00 UTC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.68,
+          -33.83
+        ]
+      },
+      "properties": {
+        "id": 1566,
+        "location": "Cowra, Australia",
+        "updated_at": "2026-02-08 02:35:47 UTC",
         "last_record_at": "2026-02-08 00:00:00 UTC"
       }
     }
