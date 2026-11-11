@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001900.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Nov 2026 05:06:23 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 05:06:23 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 04:01:35 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:01:35 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Kwetu Loresho380</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001900.xml</link>
@@ -2351,6 +2351,10 @@
     <item>
       <pubDate>Sun, 8 Nov 2026 00:00:00 +0000</pubDate>
       <description>7.0</description>
+    </item>
+    <item>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>26.0</description>
     </item>
   </channel>
 </rss>
