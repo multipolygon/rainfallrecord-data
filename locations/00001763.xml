@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://api-rainfallrecord-app.herokuapp.com/locations/00001763.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Nov 2026 00:00:20 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 00:00:20 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 01:50:30 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:50:30 +0000</lastBuildDate>
     <ttl>86400</ttl>
     <title>Raukapuka 540</title>
     <link>https://api-rainfallrecord-app.herokuapp.com/locations/00001763.xml</link>
@@ -471,6 +471,10 @@
     <item>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <description>9.0</description>
+    </item>
+    <item>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <description>3.0</description>
     </item>
   </channel>
 </rss>
